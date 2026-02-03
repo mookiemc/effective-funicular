@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arkansas Driver's Exam Review</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚗 Arkansas Driver's Exam Review</h1>
+            <p class="subtitle">Study Smart. Drive Safe.</p>
+            <div id="stats-display" class="stats-header">
+                <div class="stat-item">
+                    <span class="stat-label">Progress:</span>
+                    <span id="progress-text">0/0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Accuracy:</span>
+                    <span id="accuracy-text">0%</span>
+                </div>
+            </div>
+        </header>
+
+        <nav id="mode-selector" class="mode-tabs">
+            <button id="all-questions-btn" class="mode-tab active" data-mode="all">
+                <span class="tab-icon">📝</span>
+                <span class="tab-text">All Questions</span>
+            </button>
+            <button id="missed-questions-btn" class="mode-tab" data-mode="missed">
+                <span class="tab-icon">🔄</span>
+                <span class="tab-text">Review Missed</span>
+                <span id="missed-count" class="badge">0</span>
+            </button>
+            <button id="by-topic-btn" class="mode-tab" data-mode="topic">
+                <span class="tab-icon">📚</span>
+                <span class="tab-text">By Topic</span>
+            </button>
+            <button id="stats-btn" class="mode-tab" data-mode="stats">
+                <span class="tab-icon">📊</span>
+                <span class="tab-text">My Stats</span>
+            </button>
+        </nav>
+
+        <main id="main-content">
+            <!-- Welcome Screen -->
+            <section id="welcome-screen" class="content-section">
+                <div class="welcome-card">
+                    <h2>Welcome to Your Arkansas Driver's Exam Study Tool!</h2>
+                    <p>This app helps you prepare for your Arkansas driver's license exam with:</p>
+                    <ul class="feature-list">
+                        <li>✅ 120 practice questions covering all exam topics</li>
+                        <li>✅ Mix of True/False and Multiple Choice questions</li>
+                        <li>✅ Performance tracking by category</li>
+                        <li>✅ Review missed questions to improve weak areas</li>
+                        <li>✅ Progress saved automatically in your browser</li>
+                    </ul>
+                    <button id="start-quiz-btn" class="btn btn-primary btn-large">Start Studying</button>
+                    <button id="reset-data-btn" class="btn btn-secondary">Reset All Progress</button>
+                </div>
+            </section>
+
+            <!-- Topic Selection Screen -->
+            <section id="topic-screen" class="content-section hidden">
+                <div class="topic-card">
+                    <h2>Choose a Topic</h2>
+                    <div id="topic-list" class="topic-grid"></div>
+                    <button id="back-to-welcome-btn" class="btn btn-secondary">Back</button>
+                </div>
+            </section>
+
+            <!-- Quiz Area -->
+            <section id="quiz-area" class="content-section hidden">
+                <div class="quiz-card">
+                    <div class="quiz-header">
+                        <div class="question-info">
+                            <span id="question-number" class="question-counter">Question 1 of 120</span>
+                            <span id="question-category" class="category-badge">Arkansas Law</span>
+                        </div>
+                        <button id="quit-quiz-btn" class="btn btn-small btn-secondary">Exit Quiz</button>
+                    </div>
+
+                    <div id="question-display" class="question-text"></div>
+
+                    <div id="answer-options" class="answer-options"></div>
+
+                    <div id="feedback" class="feedback hidden">
+                        <div id="feedback-header" class="feedback-header"></div>
+                        <div id="feedback-explanation" class="feedback-explanation"></div>
+                    </div>
+
+                    <div id="navigation-buttons" class="nav-buttons">
+                        <button id="next-question-btn" class="btn btn-primary hidden">Next Question</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Statistics Panel -->
+            <section id="stats-panel" class="content-section hidden">
+                <div class="stats-card">
+                    <h2>Your Performance Statistics</h2>
+
+                    <div class="stats-overview">
+                        <div class="stat-box">
+                            <div class="stat-number" id="total-answered">0</div>
+                            <div class="stat-description">Questions Answered</div>
+                        </div>
+                        <div class="stat-box">
+                            <div class="stat-number" id="total-correct">0</div>
+                            <div class="stat-description">Correct Answers</div>
+                        </div>
+                        <div class="stat-box">
+                            <div class="stat-number" id="overall-percentage">0%</div>
+                            <div class="stat-description">Overall Accuracy</div>
+                        </div>
+                        <div class="stat-box">
+                            <div class="stat-number" id="questions-to-review">0</div>
+                            <div class="stat-description">Need Review</div>
+                        </div>
+                    </div>
+
+                    <div class="category-performance">
+                        <h3>Performance by Category</h3>
+                        <div id="category-stats" class="category-stats-grid"></div>
+                    </div>
+
+                    <div class="recommendations">
+                        <h3>Study Recommendations</h3>
+                        <div id="recommendations-list"></div>
+                    </div>
+
+                    <div class="stats-actions">
+                        <button id="review-weak-areas-btn" class="btn btn-primary">Review Weak Areas</button>
+                        <button id="back-to-menu-btn" class="btn btn-secondary">Back to Menu</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- No Questions Available Message -->
+            <section id="no-questions-screen" class="content-section hidden">
+                <div class="message-card">
+                    <h2>No Questions Available</h2>
+                    <p id="no-questions-message">You haven't missed any questions yet. Great job!</p>
+                    <button id="back-from-empty-btn" class="btn btn-primary">Back to Menu</button>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Study guide based on Arkansas Driver License Manual | <a href="#" id="about-link">About</a></p>
+        </footer>
+    </div>
+
+    <!-- Modal for Reset Confirmation -->
+    <div id="reset-modal" class="modal hidden">
+        <div class="modal-content">
+            <h3>Reset All Progress?</h3>
+            <p>This will clear all your answer history and statistics. This action cannot be undone.</p>
+            <div class="modal-buttons">
+                <button id="confirm-reset-btn" class="btn btn-danger">Yes, Reset Everything</button>
+                <button id="cancel-reset-btn" class="btn btn-secondary">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for About -->
+    <div id="about-modal" class="modal hidden">
+        <div class="modal-content">
+            <h3>About This App</h3>
+            <p>This Arkansas Driver's Exam Review app was created to help students prepare for their driver's license test.</p>
+            <p><strong>Features:</strong></p>
+            <ul>
+                <li>120 practice questions covering all exam topics</li>
+                <li>Tracks your performance automatically</li>
+                <li>Identifies weak areas for focused study</li>
+                <li>All data stored locally in your browser</li>
+            </ul>
+            <p><strong>Tips for Success:</strong></p>
+            <ul>
+                <li>Study all categories, not just the easy ones</li>
+                <li>Review missed questions regularly</li>
+                <li>Read the explanations to understand the rules</li>
+                <li>Practice until you can consistently score 80% or higher</li>
+            </ul>
+            <button id="close-about-btn" class="btn btn-primary">Close</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

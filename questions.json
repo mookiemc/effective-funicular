@@ -1,0 +1,1144 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "Arkansas Law",
+      "subcategory": "Seat Belt Laws",
+      "type": "true-false",
+      "question": "In Arkansas, all passengers must wear seat belts regardless of seating position.",
+      "correctAnswer": true,
+      "explanation": "Arkansas law requires all passengers to wear seat belts in all seating positions."
+    },
+    {
+      "id": 2,
+      "category": "Arkansas Law",
+      "subcategory": "Child Passenger Safety",
+      "type": "multiple-choice",
+      "question": "Children under what age and weight must be in an appropriate child restraint system?",
+      "options": ["6 years old and under 60 lbs", "8 years old and under 80 lbs", "10 years old", "12 years old"],
+      "correctAnswer": 0,
+      "explanation": "Arkansas law requires children 6 years old and under 60 lbs to be in a child restraint system."
+    },
+    {
+      "id": 3,
+      "category": "Arkansas Law",
+      "subcategory": "School Bus Laws",
+      "type": "true-false",
+      "question": "You must stop for a school bus with flashing red lights even if you are on the opposite side of a divided highway.",
+      "correctAnswer": false,
+      "explanation": "On a divided highway with a median or barrier, traffic on the opposite side does not need to stop."
+    },
+    {
+      "id": 4,
+      "category": "Arkansas Law",
+      "subcategory": "School Bus Laws",
+      "type": "multiple-choice",
+      "question": "How far must you stop from a school bus with flashing red lights?",
+      "options": ["At least 10 feet", "At least 15 feet", "At least 20 feet", "At least 25 feet"],
+      "correctAnswer": 0,
+      "explanation": "You must stop at least 10 feet away from a school bus with flashing red lights."
+    },
+    {
+      "id": 5,
+      "category": "Arkansas Law",
+      "subcategory": "Littering Laws",
+      "type": "true-false",
+      "question": "Throwing a lit cigarette from a vehicle is not considered littering in Arkansas.",
+      "correctAnswer": false,
+      "explanation": "Throwing any object, including lit cigarettes, from a vehicle is illegal littering in Arkansas."
+    },
+    {
+      "id": 6,
+      "category": "Rules and Regulations",
+      "subcategory": "Work Zones",
+      "type": "multiple-choice",
+      "question": "What is the penalty for speeding in a work zone when workers are present?",
+      "options": ["Same as regular speeding", "Double the normal fine", "Triple the normal fine", "Automatic license suspension"],
+      "correctAnswer": 1,
+      "explanation": "Fines are doubled in work zones when workers are present."
+    },
+    {
+      "id": 7,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signals",
+      "type": "true-false",
+      "question": "A flashing yellow traffic light means you must stop and proceed with caution.",
+      "correctAnswer": false,
+      "explanation": "A flashing yellow light means slow down and proceed with caution, but you do not need to stop."
+    },
+    {
+      "id": 8,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signals",
+      "type": "multiple-choice",
+      "question": "What should you do when approaching a flashing red traffic light?",
+      "options": ["Slow down and proceed", "Treat it as a yield sign", "Stop and proceed when safe", "Speed up to clear the intersection"],
+      "correctAnswer": 2,
+      "explanation": "A flashing red light should be treated like a stop sign - come to a complete stop and proceed when safe."
+    },
+    {
+      "id": 9,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signs",
+      "type": "true-false",
+      "question": "An octagon-shaped sign is always a stop sign.",
+      "correctAnswer": true,
+      "explanation": "The octagon (8-sided) shape is exclusively used for stop signs."
+    },
+    {
+      "id": 10,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signs",
+      "type": "multiple-choice",
+      "question": "What shape is a yield sign?",
+      "options": ["Circle", "Triangle pointing down", "Diamond", "Pentagon"],
+      "correctAnswer": 1,
+      "explanation": "Yield signs are triangular with the point facing downward."
+    },
+    {
+      "id": 11,
+      "category": "Rules and Regulations",
+      "subcategory": "Pavement Markings",
+      "type": "true-false",
+      "question": "You may cross a solid yellow line to pass another vehicle.",
+      "correctAnswer": false,
+      "explanation": "A solid yellow line indicates no passing is allowed. You may only pass when there is a broken yellow line on your side."
+    },
+    {
+      "id": 12,
+      "category": "Rules and Regulations",
+      "subcategory": "Pavement Markings",
+      "type": "multiple-choice",
+      "question": "What does a white line separate?",
+      "options": ["Traffic moving in opposite directions", "Traffic moving in the same direction", "Parking areas", "Bike lanes only"],
+      "correctAnswer": 1,
+      "explanation": "White lines separate lanes of traffic moving in the same direction."
+    },
+    {
+      "id": 13,
+      "category": "General Driving",
+      "subcategory": "Lane Usage",
+      "type": "true-false",
+      "question": "The left lane on a multi-lane highway should be used primarily for passing.",
+      "correctAnswer": true,
+      "explanation": "The left lane is intended for passing slower traffic. Slower traffic should keep right."
+    },
+    {
+      "id": 14,
+      "category": "General Driving",
+      "subcategory": "Right of Way",
+      "type": "multiple-choice",
+      "question": "At a four-way stop, who has the right of way?",
+      "options": ["The largest vehicle", "The vehicle that arrives first", "The vehicle on the right", "Whoever goes first"],
+      "correctAnswer": 1,
+      "explanation": "At a four-way stop, the vehicle that arrives first has the right of way. If two vehicles arrive simultaneously, the vehicle on the right has the right of way."
+    },
+    {
+      "id": 15,
+      "category": "General Driving",
+      "subcategory": "Right of Way",
+      "type": "true-false",
+      "question": "When entering a roadway from a driveway, you must yield to all traffic already on the roadway.",
+      "correctAnswer": true,
+      "explanation": "Vehicles entering from driveways, parking lots, or private roads must yield to all traffic on the public roadway."
+    },
+    {
+      "id": 16,
+      "category": "General Driving",
+      "subcategory": "Parking",
+      "type": "multiple-choice",
+      "question": "How far from a fire hydrant must you park?",
+      "options": ["5 feet", "10 feet", "15 feet", "20 feet"],
+      "correctAnswer": 2,
+      "explanation": "You must park at least 15 feet away from a fire hydrant."
+    },
+    {
+      "id": 17,
+      "category": "General Driving",
+      "subcategory": "Parking",
+      "type": "true-false",
+      "question": "You can park within 30 feet of a stop sign.",
+      "correctAnswer": false,
+      "explanation": "You must not park within 30 feet of a stop sign, traffic signal, or crosswalk."
+    },
+    {
+      "id": 18,
+      "category": "General Driving",
+      "subcategory": "Turns",
+      "type": "multiple-choice",
+      "question": "When should you signal before making a turn?",
+      "options": ["At least 50 feet before", "At least 100 feet before", "At least 200 feet before", "Only when other cars are present"],
+      "correctAnswer": 1,
+      "explanation": "You must signal at least 100 feet before making a turn."
+    },
+    {
+      "id": 19,
+      "category": "General Driving",
+      "subcategory": "Turns",
+      "type": "true-false",
+      "question": "When making a left turn from a two-way street onto another two-way street, you should turn into the left lane.",
+      "correctAnswer": true,
+      "explanation": "When turning left, you should turn into the lane closest to the centerline (left lane)."
+    },
+    {
+      "id": 20,
+      "category": "General Driving",
+      "subcategory": "Passing",
+      "type": "true-false",
+      "question": "You may pass on the right when the vehicle ahead is making a left turn.",
+      "correctAnswer": true,
+      "explanation": "You may pass on the right when the vehicle ahead is making or preparing to make a left turn."
+    },
+    {
+      "id": 21,
+      "category": "General Driving",
+      "subcategory": "Passing",
+      "type": "multiple-choice",
+      "question": "You must not pass another vehicle within how many feet of a bridge, viaduct, or tunnel?",
+      "options": ["50 feet", "100 feet", "200 feet", "500 feet"],
+      "correctAnswer": 1,
+      "explanation": "You cannot pass within 100 feet of a bridge, viaduct, or tunnel."
+    },
+    {
+      "id": 22,
+      "category": "Safe Driving",
+      "subcategory": "Distracted Driving",
+      "type": "true-false",
+      "question": "In Arkansas, it is illegal for all drivers to text while driving.",
+      "correctAnswer": true,
+      "explanation": "Arkansas law prohibits all drivers from texting while operating a vehicle."
+    },
+    {
+      "id": 23,
+      "category": "Safe Driving",
+      "subcategory": "Distracted Driving",
+      "type": "multiple-choice",
+      "question": "What is the minimum age at which a driver can use a handheld cell phone while driving?",
+      "options": ["16", "18", "21", "It's illegal for all ages"],
+      "correctAnswer": 3,
+      "explanation": "Arkansas law prohibits texting for all drivers. Drivers under 18 cannot use handheld devices at all while driving."
+    },
+    {
+      "id": 24,
+      "category": "Safe Driving",
+      "subcategory": "Speed Management",
+      "type": "true-false",
+      "question": "You should always drive at the posted speed limit regardless of weather conditions.",
+      "correctAnswer": false,
+      "explanation": "You must adjust your speed for weather, road, and traffic conditions. The speed limit is for ideal conditions only."
+    },
+    {
+      "id": 25,
+      "category": "Safe Driving",
+      "subcategory": "Speed Management",
+      "type": "multiple-choice",
+      "question": "What is the speed limit in a school zone when children are present?",
+      "options": ["15 mph", "20 mph", "25 mph", "30 mph"],
+      "correctAnswer": 2,
+      "explanation": "The speed limit in school zones is 25 mph when children are present or during posted hours."
+    },
+    {
+      "id": 26,
+      "category": "Safe Driving",
+      "subcategory": "Following Distance",
+      "type": "multiple-choice",
+      "question": "What is the minimum safe following distance under normal conditions?",
+      "options": ["1 second", "2 seconds", "3 seconds", "5 seconds"],
+      "correctAnswer": 2,
+      "explanation": "The minimum safe following distance is 3 seconds under normal conditions. Increase this in poor conditions."
+    },
+    {
+      "id": 27,
+      "category": "Safe Driving",
+      "subcategory": "Weather Conditions",
+      "type": "true-false",
+      "question": "You should use high beam headlights in fog for better visibility.",
+      "correctAnswer": false,
+      "explanation": "In fog, use low beams. High beams reflect off the fog and reduce visibility."
+    },
+    {
+      "id": 28,
+      "category": "Safe Driving",
+      "subcategory": "Weather Conditions",
+      "type": "multiple-choice",
+      "question": "When driving in rain, you should reduce your speed by:",
+      "options": ["No reduction needed", "5-10 mph", "One-third", "One-half"],
+      "correctAnswer": 2,
+      "explanation": "In rain, reduce your speed by at least one-third. In heavy rain or on wet roads, reduce even more."
+    },
+    {
+      "id": 29,
+      "category": "Sharing the Road",
+      "subcategory": "Bicycles",
+      "type": "true-false",
+      "question": "Bicyclists have the same rights and responsibilities as motor vehicle drivers.",
+      "correctAnswer": true,
+      "explanation": "Bicyclists must follow the same traffic laws as motor vehicles and have the same road rights."
+    },
+    {
+      "id": 30,
+      "category": "Sharing the Road",
+      "subcategory": "Bicycles",
+      "type": "multiple-choice",
+      "question": "How much space should you give when passing a bicyclist?",
+      "options": ["1 foot", "2 feet", "3 feet", "5 feet"],
+      "correctAnswer": 2,
+      "explanation": "Arkansas law requires drivers to give at least 3 feet of clearance when passing a bicyclist."
+    },
+    {
+      "id": 31,
+      "category": "Sharing the Road",
+      "subcategory": "Motorcycles",
+      "type": "true-false",
+      "question": "Motorcycles are entitled to use a full lane of traffic.",
+      "correctAnswer": true,
+      "explanation": "Motorcycles have the same rights as other vehicles and are entitled to a full lane. Do not share lanes with motorcycles."
+    },
+    {
+      "id": 32,
+      "category": "Sharing the Road",
+      "subcategory": "Motorcycles",
+      "type": "multiple-choice",
+      "question": "Why should you increase following distance when behind a motorcycle?",
+      "options": ["They are slower", "They can stop more quickly", "They are less visible", "They are more likely to speed"],
+      "correctAnswer": 1,
+      "explanation": "Motorcycles can stop more quickly than cars. Increase following distance to give yourself more reaction time."
+    },
+    {
+      "id": 33,
+      "category": "Sharing the Road",
+      "subcategory": "Large Vehicles",
+      "type": "true-false",
+      "question": "Large trucks have larger blind spots than passenger vehicles.",
+      "correctAnswer": true,
+      "explanation": "Trucks have much larger blind spots (No-Zones) on all sides, especially on the right side and directly behind."
+    },
+    {
+      "id": 34,
+      "category": "Sharing the Road",
+      "subcategory": "Large Vehicles",
+      "type": "multiple-choice",
+      "question": "When following a large truck, you should:",
+      "options": ["Follow closely to see ahead", "Stay in their blind spot", "Increase following distance", "Pass on the right"],
+      "correctAnswer": 2,
+      "explanation": "Increase following distance behind large trucks to improve visibility and ensure you're not in their blind spot."
+    },
+    {
+      "id": 35,
+      "category": "Sharing the Road",
+      "subcategory": "Pedestrians",
+      "type": "true-false",
+      "question": "Pedestrians always have the right of way at marked crosswalks.",
+      "correctAnswer": true,
+      "explanation": "Drivers must yield to pedestrians in marked crosswalks."
+    },
+    {
+      "id": 36,
+      "category": "Sharing the Road",
+      "subcategory": "Pedestrians",
+      "type": "multiple-choice",
+      "question": "When must you stop for a pedestrian?",
+      "options": ["Only at traffic lights", "Only at marked crosswalks", "At any crosswalk or intersection", "Only when they signal"],
+      "correctAnswer": 2,
+      "explanation": "You must yield to pedestrians at any crosswalk, whether marked or unmarked, and at intersections."
+    },
+    {
+      "id": 37,
+      "category": "Driving Fitness",
+      "subcategory": "Vision Requirements",
+      "type": "true-false",
+      "question": "You must be able to see clearly in both eyes to obtain a driver's license in Arkansas.",
+      "correctAnswer": false,
+      "explanation": "You can drive with vision in one eye if your visual acuity meets the minimum standard."
+    },
+    {
+      "id": 38,
+      "category": "Driving Fitness",
+      "subcategory": "Vision Requirements",
+      "type": "multiple-choice",
+      "question": "What is the minimum visual acuity required for an unrestricted license?",
+      "options": ["20/20", "20/30", "20/40", "20/50"],
+      "correctAnswer": 2,
+      "explanation": "You need at least 20/40 vision in at least one eye for an unrestricted license."
+    },
+    {
+      "id": 39,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "true-false",
+      "question": "The legal blood alcohol concentration (BAC) limit for drivers 21 and over is 0.08%.",
+      "correctAnswer": true,
+      "explanation": "The legal limit for drivers 21 and over is 0.08% BAC. Any amount over this is illegal."
+    },
+    {
+      "id": 40,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "multiple-choice",
+      "question": "What is the BAC limit for drivers under 21?",
+      "options": ["0.00%", "0.02%", "0.04%", "0.08%"],
+      "correctAnswer": 1,
+      "explanation": "Arkansas has a zero-tolerance policy. Drivers under 21 cannot have a BAC of 0.02% or higher."
+    },
+    {
+      "id": 41,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "true-false",
+      "question": "You can be charged with DWI for driving under the influence of prescription medications.",
+      "correctAnswer": true,
+      "explanation": "DWI applies to any substance that impairs your ability to drive, including legal prescription drugs."
+    },
+    {
+      "id": 42,
+      "category": "Driving Fitness",
+      "subcategory": "Fatigue",
+      "type": "multiple-choice",
+      "question": "Being awake for 18 hours impairs driving ability similar to having a BAC of:",
+      "options": ["0.02%", "0.05%", "0.08%", "0.10%"],
+      "correctAnswer": 1,
+      "explanation": "Being awake for 18 hours impairs driving similar to a BAC of 0.05%. After 24 hours, it's like 0.10%."
+    },
+    {
+      "id": 43,
+      "category": "Emergencies",
+      "subcategory": "Vehicle Breakdowns",
+      "type": "true-false",
+      "question": "If your vehicle breaks down on the highway, you should try to move it as far off the road as possible.",
+      "correctAnswer": true,
+      "explanation": "Get your vehicle completely off the road if possible. If not, move as far to the right as you can."
+    },
+    {
+      "id": 44,
+      "category": "Emergencies",
+      "subcategory": "Vehicle Breakdowns",
+      "type": "multiple-choice",
+      "question": "If your vehicle breaks down on a highway, you should:",
+      "options": ["Stay in the vehicle", "Stand behind the vehicle", "Move away from traffic", "Try to flag down cars"],
+      "correctAnswer": 2,
+      "explanation": "Move away from your vehicle and away from traffic. Stay behind barriers if available."
+    },
+    {
+      "id": 45,
+      "category": "Emergencies",
+      "subcategory": "Tire Blowout",
+      "type": "true-false",
+      "question": "If you have a tire blowout, you should brake hard immediately.",
+      "correctAnswer": false,
+      "explanation": "Do not brake hard. Hold the steering wheel firmly, ease off the gas, and brake gently once under control."
+    },
+    {
+      "id": 46,
+      "category": "Emergencies",
+      "subcategory": "Brake Failure",
+      "type": "multiple-choice",
+      "question": "If your brakes fail, you should:",
+      "options": ["Pump the brake pedal", "Pull the emergency brake hard", "Shift to neutral", "Turn off the engine"],
+      "correctAnswer": 0,
+      "explanation": "Pump the brake pedal rapidly to build pressure. Then shift to a lower gear and use the parking brake gradually."
+    },
+    {
+      "id": 47,
+      "category": "Emergencies",
+      "subcategory": "Crashes",
+      "type": "true-false",
+      "question": "If you are involved in a crash, you must stop immediately regardless of the severity.",
+      "correctAnswer": true,
+      "explanation": "You must stop immediately at the scene of any crash, no matter how minor."
+    },
+    {
+      "id": 48,
+      "category": "Emergencies",
+      "subcategory": "Crashes",
+      "type": "multiple-choice",
+      "question": "After a crash with injuries, what should you do first?",
+      "options": ["Exchange insurance information", "Move the vehicles", "Call 911", "Take photos"],
+      "correctAnswer": 2,
+      "explanation": "Call 911 immediately if there are injuries. Render aid if qualified, but do not move injured persons unless necessary."
+    },
+    {
+      "id": 49,
+      "category": "Emergencies",
+      "subcategory": "Emergency Vehicles",
+      "type": "true-false",
+      "question": "You must pull over to the right for emergency vehicles with lights and sirens.",
+      "correctAnswer": true,
+      "explanation": "You must pull to the right side of the road and stop for emergency vehicles with lights and/or sirens."
+    },
+    {
+      "id": 50,
+      "category": "Emergencies",
+      "subcategory": "Emergency Vehicles",
+      "type": "multiple-choice",
+      "question": "When stopped on the side of the road, emergency vehicles must:",
+      "options": ["Be given 1 foot of space", "Be passed slowly", "Be given a full lane clearance if possible", "Not be passed at all"],
+      "correctAnswer": 2,
+      "explanation": "Move over law: If safe, move over a full lane when passing stopped emergency vehicles. If not possible, slow down significantly."
+    },
+    {
+      "id": 51,
+      "category": "Skills Test",
+      "subcategory": "Parking",
+      "type": "true-false",
+      "question": "During the skills test, you may hit the curb once without failing.",
+      "correctAnswer": false,
+      "explanation": "Hitting the curb is an automatic failure on the skills test."
+    },
+    {
+      "id": 52,
+      "category": "Skills Test",
+      "subcategory": "General",
+      "type": "multiple-choice",
+      "question": "During the skills test, how many points result in automatic failure?",
+      "options": ["10 points", "15 points", "20 points", "25 points"],
+      "correctAnswer": 3,
+      "explanation": "Accumulating 25 or more points during the skills test results in automatic failure."
+    },
+    {
+      "id": 53,
+      "category": "Arkansas Law",
+      "subcategory": "Seat Belt Laws",
+      "type": "multiple-choice",
+      "question": "At what age do passengers become responsible for their own seat belt use?",
+      "options": ["15 years", "16 years", "18 years", "21 years"],
+      "correctAnswer": 0,
+      "explanation": "Passengers 15 years and older are responsible for their own seat belt use. The driver is responsible for passengers under 15."
+    },
+    {
+      "id": 54,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signals",
+      "type": "multiple-choice",
+      "question": "What does a green arrow mean?",
+      "options": ["Yield and turn", "Stop then turn", "Protected turn in direction of arrow", "Caution when turning"],
+      "correctAnswer": 2,
+      "explanation": "A green arrow means you have a protected turn and oncoming traffic must stop."
+    },
+    {
+      "id": 55,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signs",
+      "type": "true-false",
+      "question": "Diamond-shaped signs are typically warning signs.",
+      "correctAnswer": true,
+      "explanation": "Diamond-shaped signs warn of hazards ahead such as curves, merges, or other dangerous conditions."
+    },
+    {
+      "id": 56,
+      "category": "Rules and Regulations",
+      "subcategory": "Railroad Crossings",
+      "type": "multiple-choice",
+      "question": "How far from railroad tracks must you stop?",
+      "options": ["10-25 feet", "15-50 feet", "20-60 feet", "25-75 feet"],
+      "correctAnswer": 1,
+      "explanation": "You must stop between 15 and 50 feet from the nearest rail when signals are active or a train is approaching."
+    },
+    {
+      "id": 57,
+      "category": "General Driving",
+      "subcategory": "Intersections",
+      "type": "true-false",
+      "question": "At an intersection with no signs or signals, you must yield to traffic already in the intersection.",
+      "correctAnswer": true,
+      "explanation": "Always yield to vehicles already in the intersection, and to vehicles on your right if you arrive simultaneously."
+    },
+    {
+      "id": 58,
+      "category": "General Driving",
+      "subcategory": "Night Driving",
+      "type": "multiple-choice",
+      "question": "When must you use headlights?",
+      "options": ["Only at night", "From sunset to sunrise", "30 minutes after sunset to 30 minutes before sunrise", "Whenever visibility is poor"],
+      "correctAnswer": 2,
+      "explanation": "Headlights must be used from 30 minutes after sunset to 30 minutes before sunrise, and whenever visibility is less than 500 feet."
+    },
+    {
+      "id": 59,
+      "category": "General Driving",
+      "subcategory": "Night Driving",
+      "type": "true-false",
+      "question": "You should dim your high beams within 500 feet of an oncoming vehicle.",
+      "correctAnswer": true,
+      "explanation": "Dim high beams within 500 feet of oncoming traffic and within 200 feet when following another vehicle."
+    },
+    {
+      "id": 60,
+      "category": "Safe Driving",
+      "subcategory": "Hydroplaning",
+      "type": "multiple-choice",
+      "question": "What should you do if your vehicle begins to hydroplane?",
+      "options": ["Brake hard", "Accelerate", "Ease off the gas", "Turn the wheel sharply"],
+      "correctAnswer": 2,
+      "explanation": "If hydroplaning, ease off the gas and steer straight. Do not brake or turn suddenly."
+    },
+    {
+      "id": 61,
+      "category": "Safe Driving",
+      "subcategory": "Skidding",
+      "type": "true-false",
+      "question": "When your vehicle starts to skid, you should steer in the direction you want to go.",
+      "correctAnswer": true,
+      "explanation": "Steer in the direction you want the front of the vehicle to go. This helps straighten the vehicle."
+    },
+    {
+      "id": 62,
+      "category": "Sharing the Road",
+      "subcategory": "Farm Equipment",
+      "type": "true-false",
+      "question": "Farm equipment and slow-moving vehicles must display an orange triangle on the rear.",
+      "correctAnswer": true,
+      "explanation": "Vehicles traveling less than 25 mph must display a slow-moving vehicle (SMV) emblem - an orange triangle with red border."
+    },
+    {
+      "id": 63,
+      "category": "Driving Fitness",
+      "subcategory": "Physical Condition",
+      "type": "multiple-choice",
+      "question": "If you are taking medication, you should:",
+      "options": ["Drive anyway", "Ask your doctor about driving safety", "Only drive during the day", "Have someone follow you"],
+      "correctAnswer": 1,
+      "explanation": "Always ask your doctor or pharmacist if medication may affect your ability to drive safely."
+    },
+    {
+      "id": 64,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "true-false",
+      "question": "Coffee and cold showers can help you sober up faster.",
+      "correctAnswer": false,
+      "explanation": "Only time can eliminate alcohol from your system. Coffee and cold showers do not speed up the process."
+    },
+    {
+      "id": 65,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "multiple-choice",
+      "question": "How long does it take for the average person to metabolize one standard drink?",
+      "options": ["30 minutes", "1 hour", "2 hours", "3 hours"],
+      "correctAnswer": 1,
+      "explanation": "The body metabolizes approximately one standard drink per hour, though this varies by person."
+    },
+    {
+      "id": 66,
+      "category": "Arkansas Law",
+      "subcategory": "License Requirements",
+      "type": "multiple-choice",
+      "question": "At what age can you obtain a learner's permit in Arkansas?",
+      "options": ["14", "15", "16", "17"],
+      "correctAnswer": 0,
+      "explanation": "You can obtain a learner's permit at age 14 in Arkansas."
+    },
+    {
+      "id": 67,
+      "category": "Arkansas Law",
+      "subcategory": "License Requirements",
+      "type": "true-false",
+      "question": "You must notify the Revenue Office within 30 days of a change of address.",
+      "correctAnswer": true,
+      "explanation": "You must notify the Revenue Office within 30 days of any address change."
+    },
+    {
+      "id": 68,
+      "category": "Rules and Regulations",
+      "subcategory": "Speed Limits",
+      "type": "multiple-choice",
+      "question": "What is the maximum speed limit on Arkansas interstate highways in rural areas?",
+      "options": ["55 mph", "65 mph", "70 mph", "75 mph"],
+      "correctAnswer": 2,
+      "explanation": "The maximum speed limit on interstate highways in rural areas is 70 mph unless otherwise posted."
+    },
+    {
+      "id": 69,
+      "category": "Rules and Regulations",
+      "subcategory": "Speed Limits",
+      "type": "true-false",
+      "question": "The speed limit in a residential area is typically 25 mph unless otherwise posted.",
+      "correctAnswer": true,
+      "explanation": "The default speed limit in residential areas is 25 mph unless signs indicate otherwise."
+    },
+    {
+      "id": 70,
+      "category": "General Driving",
+      "subcategory": "Roundabouts",
+      "type": "multiple-choice",
+      "question": "When entering a roundabout, you must yield to:",
+      "options": ["Vehicles on your left", "Vehicles already in the circle", "Vehicles on your right", "No one if you're first"],
+      "correctAnswer": 1,
+      "explanation": "Always yield to traffic already in the roundabout. Enter when there is a safe gap."
+    },
+    {
+      "id": 71,
+      "category": "General Driving",
+      "subcategory": "Roundabouts",
+      "type": "true-false",
+      "question": "You should use your turn signal when exiting a roundabout.",
+      "correctAnswer": true,
+      "explanation": "Signal your right turn as you approach your exit from the roundabout."
+    },
+    {
+      "id": 72,
+      "category": "General Driving",
+      "subcategory": "Backing Up",
+      "type": "true-false",
+      "question": "When backing up, you should rely primarily on your mirrors.",
+      "correctAnswer": false,
+      "explanation": "Turn and look over your shoulder when backing up. Mirrors have blind spots and don't show everything."
+    },
+    {
+      "id": 73,
+      "category": "Safe Driving",
+      "subcategory": "Space Management",
+      "type": "multiple-choice",
+      "question": "The area around your vehicle that you cannot see is called:",
+      "options": ["Dead zone", "Blind spot", "No-zone", "Dark area"],
+      "correctAnswer": 1,
+      "explanation": "Blind spots are areas around your vehicle that you cannot see in mirrors. Always check them before changing lanes."
+    },
+    {
+      "id": 74,
+      "category": "Safe Driving",
+      "subcategory": "Aggressive Driving",
+      "type": "true-false",
+      "question": "If another driver is aggressive or threatening, you should avoid eye contact and get out of their way.",
+      "correctAnswer": true,
+      "explanation": "Do not engage with aggressive drivers. Avoid eye contact, let them pass, and report them if necessary."
+    },
+    {
+      "id": 75,
+      "category": "Sharing the Road",
+      "subcategory": "Animals",
+      "type": "multiple-choice",
+      "question": "If an animal appears in front of your vehicle, you should:",
+      "options": ["Swerve to avoid it", "Speed up", "Brake firmly and stay in your lane", "Honk continuously"],
+      "correctAnswer": 2,
+      "explanation": "Brake firmly but stay in your lane. Swerving to avoid animals can cause loss of control or collision with other vehicles."
+    },
+    {
+      "id": 76,
+      "category": "Emergencies",
+      "subcategory": "Steering Failure",
+      "type": "true-false",
+      "question": "If your steering fails, you should use your brakes to slow down quickly.",
+      "correctAnswer": false,
+      "explanation": "If steering fails, take your foot off the gas and brake gently. Turn on hazard lights and coast to a safe stop."
+    },
+    {
+      "id": 77,
+      "category": "Emergencies",
+      "subcategory": "Accelerator Stuck",
+      "type": "multiple-choice",
+      "question": "If your accelerator gets stuck, you should:",
+      "options": ["Shift to neutral", "Turn off the ignition", "Pump the brake", "All of the above in order"],
+      "correctAnswer": 0,
+      "explanation": "Shift to neutral immediately, brake to slow down, and get off the road. Do not turn off ignition while moving."
+    },
+    {
+      "id": 78,
+      "category": "Skills Test",
+      "subcategory": "Maneuvers",
+      "type": "true-false",
+      "question": "During the parallel parking test, you must park within 18 inches of the curb.",
+      "correctAnswer": true,
+      "explanation": "You must park within 18 inches of the curb and between the markers during the parallel parking portion."
+    },
+    {
+      "id": 79,
+      "category": "Arkansas Law",
+      "subcategory": "Insurance",
+      "type": "multiple-choice",
+      "question": "What is the minimum liability insurance required in Arkansas?",
+      "options": ["$25,000/$50,000/$25,000", "$25,000/$50,000/$20,000", "$15,000/$30,000/$15,000", "$50,000/$100,000/$25,000"],
+      "correctAnswer": 0,
+      "explanation": "Minimum liability coverage: $25,000 bodily injury per person, $50,000 per accident, $25,000 property damage."
+    },
+    {
+      "id": 80,
+      "category": "Arkansas Law",
+      "subcategory": "Insurance",
+      "type": "true-false",
+      "question": "You must show proof of insurance when requested by law enforcement.",
+      "correctAnswer": true,
+      "explanation": "You must carry proof of insurance and present it when requested by law enforcement."
+    },
+    {
+      "id": 81,
+      "category": "Rules and Regulations",
+      "subcategory": "Driving Restrictions",
+      "type": "multiple-choice",
+      "question": "Drivers with a learner's permit must be accompanied by a licensed driver who is at least:",
+      "options": ["18 years old", "21 years old", "25 years old", "Any adult"],
+      "correctAnswer": 1,
+      "explanation": "A learner's permit holder must be accompanied by a licensed driver who is at least 21 years old."
+    },
+    {
+      "id": 82,
+      "category": "Rules and Regulations",
+      "subcategory": "GDL Restrictions",
+      "type": "true-false",
+      "question": "Drivers with an intermediate license cannot drive between midnight and 4 a.m. unless for work or emergencies.",
+      "correctAnswer": true,
+      "explanation": "Intermediate license holders face curfew restrictions (11 p.m.-4 a.m. first 6 months, then midnight-4 a.m.) except for work, school, or emergencies."
+    },
+    {
+      "id": 83,
+      "category": "General Driving",
+      "subcategory": "Highways",
+      "type": "multiple-choice",
+      "question": "When entering a highway from an entrance ramp, you should:",
+      "options": ["Stop and wait for an opening", "Speed up to match traffic speed", "Enter slowly", "Force your way in"],
+      "correctAnswer": 1,
+      "explanation": "Use the acceleration lane to speed up and match the speed of highway traffic before merging."
+    },
+    {
+      "id": 84,
+      "category": "General Driving",
+      "subcategory": "Highways",
+      "type": "true-false",
+      "question": "When exiting a highway, you should slow down before entering the exit ramp.",
+      "correctAnswer": false,
+      "explanation": "Wait until you are in the exit ramp's deceleration lane before slowing down. Maintain highway speed until then."
+    },
+    {
+      "id": 85,
+      "category": "Safe Driving",
+      "subcategory": "Scanning",
+      "type": "multiple-choice",
+      "question": "How often should you check your mirrors while driving?",
+      "options": ["Every 30 seconds", "Every 5-8 seconds", "Only when changing lanes", "Every minute"],
+      "correctAnswer": 1,
+      "explanation": "Check your mirrors every 5-8 seconds to maintain awareness of traffic around you."
+    },
+    {
+      "id": 86,
+      "category": "Safe Driving",
+      "subcategory": "Visual Lead",
+      "type": "true-false",
+      "question": "You should look at least 10-15 seconds ahead while driving.",
+      "correctAnswer": true,
+      "explanation": "Maintain a visual lead of 10-15 seconds ahead to identify hazards early and plan your response."
+    },
+    {
+      "id": 87,
+      "category": "Sharing the Road",
+      "subcategory": "Funeral Processions",
+      "type": "true-false",
+      "question": "You should not pass or interrupt a funeral procession.",
+      "correctAnswer": true,
+      "explanation": "It is illegal to pass through, interrupt, or interfere with a funeral procession."
+    },
+    {
+      "id": 88,
+      "category": "Driving Fitness",
+      "subcategory": "Emotions",
+      "type": "multiple-choice",
+      "question": "If you are upset or emotional, you should:",
+      "options": ["Drive anyway", "Wait until you calm down", "Drive faster to get home", "Take medication"],
+      "correctAnswer": 1,
+      "explanation": "Strong emotions impair judgment and reaction time. Wait until you are calm before driving."
+    },
+    {
+      "id": 89,
+      "category": "Emergencies",
+      "subcategory": "Crashes",
+      "type": "multiple-choice",
+      "question": "If you witness a crash, you should:",
+      "options": ["Keep driving", "Stop only if it looks serious", "Stop and offer assistance", "Post about it on social media"],
+      "correctAnswer": 2,
+      "explanation": "Stop and offer assistance if safe to do so. Call 911 if needed and provide aid if qualified."
+    },
+    {
+      "id": 90,
+      "category": "Emergencies",
+      "subcategory": "Fire",
+      "type": "true-false",
+      "question": "If your vehicle catches fire, you should try to drive it to a service station.",
+      "correctAnswer": false,
+      "explanation": "Stop immediately, turn off the engine, and get everyone out. Move away from the vehicle and call 911."
+    },
+    {
+      "id": 91,
+      "category": "Arkansas Law",
+      "subcategory": "Points System",
+      "type": "multiple-choice",
+      "question": "How many points will result in license suspension for drivers under 18?",
+      "options": ["10 points", "12 points", "14 points", "16 points"],
+      "correctAnswer": 2,
+      "explanation": "Drivers under 18 face license suspension at 14 points in a three-year period."
+    },
+    {
+      "id": 92,
+      "category": "Arkansas Law",
+      "subcategory": "Points System",
+      "type": "true-false",
+      "question": "A conviction for reckless driving adds 8 points to your driving record.",
+      "correctAnswer": true,
+      "explanation": "Reckless driving is an 8-point violation, one of the most serious on your record."
+    },
+    {
+      "id": 93,
+      "category": "Rules and Regulations",
+      "subcategory": "U-Turns",
+      "type": "true-false",
+      "question": "U-turns are legal unless prohibited by signs.",
+      "correctAnswer": true,
+      "explanation": "U-turns are allowed unless signs prohibit them or they cannot be made safely."
+    },
+    {
+      "id": 94,
+      "category": "General Driving",
+      "subcategory": "Lane Changes",
+      "type": "multiple-choice",
+      "question": "Before changing lanes, you should:",
+      "options": ["Check mirrors only", "Signal and move", "Check mirrors, signal, check blind spot", "Just check blind spot"],
+      "correctAnswer": 2,
+      "explanation": "Check mirrors, signal your intention, check your blind spot, then change lanes when safe."
+    },
+    {
+      "id": 95,
+      "category": "Safe Driving",
+      "subcategory": "Tires",
+      "type": "true-false",
+      "question": "Your tires must have at least 2/32 inch of tread depth.",
+      "correctAnswer": true,
+      "explanation": "The minimum legal tread depth is 2/32 inch. Replace tires that are worn below this level."
+    },
+    {
+      "id": 96,
+      "category": "Safe Driving",
+      "subcategory": "Vehicle Maintenance",
+      "type": "multiple-choice",
+      "question": "How often should you check your tire pressure?",
+      "options": ["Weekly", "Monthly", "Every 3 months", "Yearly"],
+      "correctAnswer": 1,
+      "explanation": "Check tire pressure at least monthly and before long trips. Proper pressure improves safety and fuel economy."
+    },
+    {
+      "id": 97,
+      "category": "Sharing the Road",
+      "subcategory": "Construction Zones",
+      "type": "true-false",
+      "question": "You should merge as late as possible when a lane closes due to construction.",
+      "correctAnswer": false,
+      "explanation": "Merge early when you see signs that a lane is ending. Late merging creates traffic congestion and unsafe situations."
+    },
+    {
+      "id": 98,
+      "category": "Driving Fitness",
+      "subcategory": "Carbon Monoxide",
+      "type": "multiple-choice",
+      "question": "Early symptoms of carbon monoxide poisoning include:",
+      "options": ["Increased alertness", "Headache and drowsiness", "Improved vision", "Faster reflexes"],
+      "correctAnswer": 1,
+      "explanation": "Early CO poisoning symptoms include headache, drowsiness, and nausea. Get fresh air immediately if you experience these."
+    },
+    {
+      "id": 99,
+      "category": "General Driving",
+      "subcategory": "Stopping Distance",
+      "type": "true-false",
+      "question": "At 55 mph, it takes approximately 6 seconds or more than 400 feet to stop your vehicle.",
+      "correctAnswer": true,
+      "explanation": "Total stopping distance includes reaction time and braking distance. At 55 mph, it takes over 400 feet to stop."
+    },
+    {
+      "id": 100,
+      "category": "Safe Driving",
+      "subcategory": "Cell Phones",
+      "type": "multiple-choice",
+      "question": "The safest way to use a cell phone while driving is to:",
+      "options": ["Hold it in one hand", "Use speakerphone", "Text at stop lights", "Pull over and stop"],
+      "correctAnswer": 3,
+      "explanation": "The only truly safe option is to pull over and stop before using your phone. Distraction is dangerous at any speed."
+    },
+    {
+      "id": 101,
+      "category": "Arkansas Law",
+      "subcategory": "Move Over Law",
+      "type": "true-false",
+      "question": "The Move Over Law requires you to change lanes or slow down when approaching stopped emergency vehicles.",
+      "correctAnswer": true,
+      "explanation": "Arkansas law requires drivers to move over a lane if safe, or slow down significantly when passing stopped emergency vehicles."
+    },
+    {
+      "id": 102,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signals",
+      "type": "multiple-choice",
+      "question": "If a traffic signal is not working, you should treat the intersection as:",
+      "options": ["A yield sign", "No control - first come first served", "A four-way stop", "Speed through quickly"],
+      "correctAnswer": 2,
+      "explanation": "Treat a non-functioning traffic signal as a four-way stop. Stop and yield to traffic already in the intersection."
+    },
+    {
+      "id": 103,
+      "category": "General Driving",
+      "subcategory": "Hills",
+      "type": "true-false",
+      "question": "When parking on a hill with a curb, you should turn your wheels toward the curb when facing downhill.",
+      "correctAnswer": true,
+      "explanation": "Facing downhill, turn wheels toward the curb. Facing uphill, turn wheels away from the curb. This prevents the vehicle from rolling into traffic."
+    },
+    {
+      "id": 104,
+      "category": "Safe Driving",
+      "subcategory": "Winter Driving",
+      "type": "multiple-choice",
+      "question": "On icy roads, you should increase your following distance to:",
+      "options": ["4-5 seconds", "6-8 seconds", "8-10 seconds", "10-12 seconds"],
+      "correctAnswer": 2,
+      "explanation": "On ice or snow, increase following distance to 8-10 seconds or more. Stopping distances are much longer on slippery surfaces."
+    },
+    {
+      "id": 105,
+      "category": "Sharing the Road",
+      "subcategory": "School Buses",
+      "type": "true-false",
+      "question": "You may pass a school bus when its yellow lights are flashing.",
+      "correctAnswer": false,
+      "explanation": "Flashing yellow lights mean the bus is preparing to stop. Slow down and prepare to stop. Do not pass."
+    },
+    {
+      "id": 106,
+      "category": "Driving Fitness",
+      "subcategory": "Medications",
+      "type": "multiple-choice",
+      "question": "Which over-the-counter medication can impair driving?",
+      "options": ["Aspirin", "Antacids", "Antihistamines", "Vitamins"],
+      "correctAnswer": 2,
+      "explanation": "Antihistamines (allergy medications) can cause drowsiness and impair driving. Check labels for warnings."
+    },
+    {
+      "id": 107,
+      "category": "Emergencies",
+      "subcategory": "Headlight Failure",
+      "type": "true-false",
+      "question": "If your headlights suddenly go out at night, you should use your parking lights and emergency flashers.",
+      "correctAnswer": true,
+      "explanation": "Turn on parking lights, emergency flashers, and try to get off the road safely. Check for blown fuses or loose connections."
+    },
+    {
+      "id": 108,
+      "category": "Arkansas Law",
+      "subcategory": "Implied Consent",
+      "type": "multiple-choice",
+      "question": "Refusing a chemical test when suspected of DWI results in:",
+      "options": ["A warning", "License suspension", "A fine only", "Points on your license"],
+      "correctAnswer": 1,
+      "explanation": "Arkansas has an implied consent law. Refusing a chemical test results in automatic license suspension."
+    },
+    {
+      "id": 109,
+      "category": "Rules and Regulations",
+      "subcategory": "Pedestrian Crossings",
+      "type": "true-false",
+      "question": "You must stop and remain stopped for pedestrians in a crosswalk until they have completely crossed your lane.",
+      "correctAnswer": true,
+      "explanation": "Remain stopped until pedestrians have crossed your lane of travel. Do not proceed until they are clear of your path."
+    },
+    {
+      "id": 110,
+      "category": "General Driving",
+      "subcategory": "Passing",
+      "type": "multiple-choice",
+      "question": "You may not pass another vehicle when you are within how many feet of an intersection?",
+      "options": ["50 feet", "100 feet", "150 feet", "200 feet"],
+      "correctAnswer": 1,
+      "explanation": "Do not pass within 100 feet of an intersection, railroad crossing, bridge, viaduct, or tunnel."
+    },
+    {
+      "id": 111,
+      "category": "Safe Driving",
+      "subcategory": "Railroad Crossings",
+      "type": "true-false",
+      "question": "You should shift gears while crossing railroad tracks.",
+      "correctAnswer": false,
+      "explanation": "Never shift gears while crossing railroad tracks. Your vehicle might stall. Cross in the gear you're already in."
+    },
+    {
+      "id": 112,
+      "category": "Sharing the Road",
+      "subcategory": "Blind Drivers",
+      "type": "multiple-choice",
+      "question": "A pedestrian using a white cane or guide dog indicates they are:",
+      "options": ["Lost", "Blind or visually impaired", "A tourist", "Elderly"],
+      "correctAnswer": 1,
+      "explanation": "A white cane or guide dog indicates the person is blind or visually impaired. Always yield and give them space."
+    },
+    {
+      "id": 113,
+      "category": "Driving Fitness",
+      "subcategory": "Physical Limitations",
+      "type": "true-false",
+      "question": "Drivers can request hand controls or other adaptive equipment restrictions on their license.",
+      "correctAnswer": true,
+      "explanation": "The Revenue Office can add restrictions to licenses requiring adaptive equipment for drivers with physical limitations."
+    },
+    {
+      "id": 114,
+      "category": "Emergencies",
+      "subcategory": "Skidding",
+      "type": "multiple-choice",
+      "question": "The most common cause of skidding is:",
+      "options": ["Bad tires", "Driver error", "Poor road conditions", "Vehicle defects"],
+      "correctAnswer": 1,
+      "explanation": "Driver error (speed too fast for conditions, sudden braking or turning) is the most common cause of skidding."
+    },
+    {
+      "id": 115,
+      "category": "Skills Test",
+      "subcategory": "Pre-Drive Check",
+      "type": "true-false",
+      "question": "Before the skills test begins, the examiner will check your vehicle's lights, horn, and signals.",
+      "correctAnswer": true,
+      "explanation": "The examiner performs a vehicle safety check before the skills test, checking all lights, signals, horn, brakes, and tires."
+    },
+    {
+      "id": 116,
+      "category": "Arkansas Law",
+      "subcategory": "Administrative Penalties",
+      "type": "multiple-choice",
+      "question": "A first DWI conviction results in a license suspension of:",
+      "options": ["30 days", "6 months", "1 year", "2 years"],
+      "correctAnswer": 1,
+      "explanation": "A first DWI conviction results in a 6-month license suspension, along with fines and possible jail time."
+    },
+    {
+      "id": 117,
+      "category": "Rules and Regulations",
+      "subcategory": "Lane Markings",
+      "type": "true-false",
+      "question": "A double solid yellow line means passing is prohibited in both directions.",
+      "correctAnswer": true,
+      "explanation": "Double solid yellow lines mean no passing in either direction. These mark areas where passing is especially dangerous."
+    },
+    {
+      "id": 118,
+      "category": "General Driving",
+      "subcategory": "Curves",
+      "type": "multiple-choice",
+      "question": "When approaching a curve, you should:",
+      "options": ["Speed up", "Maintain speed", "Slow down before the curve", "Brake in the curve"],
+      "correctAnswer": 2,
+      "explanation": "Slow down before entering a curve. Adjust your speed so you don't need to brake in the curve itself."
+    },
+    {
+      "id": 119,
+      "category": "Safe Driving",
+      "subcategory": "Sun Glare",
+      "type": "true-false",
+      "question": "Using your sun visor and sunglasses can help reduce sun glare while driving.",
+      "correctAnswer": true,
+      "explanation": "Use your sun visor and polarized sunglasses to reduce glare. Slow down and increase following distance when glare affects visibility."
+    },
+    {
+      "id": 120,
+      "category": "Sharing the Road",
+      "subcategory": "Emergency Response",
+      "type": "multiple-choice",
+      "question": "When you see an emergency vehicle approaching from behind with lights and sirens, you should:",
+      "options": ["Speed up", "Stop immediately where you are", "Pull to the right and stop", "Change lanes to the left"],
+      "correctAnswer": 2,
+      "explanation": "Pull to the right side of the road and stop. Stay stopped until the emergency vehicle has passed."
+    }
+  ]
+}

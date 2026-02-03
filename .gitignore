@@ -1,0 +1,8 @@
+# Exclude the large PDF file
+Arkansas-DL-Manual-English.pdf
+
+# Exclude test checklist (optional)
+TEST_CHECKLIST.md
+
+# Exclude Ralph instructions (optional)
+ralph-arkansas-driver-exam-instructions.md
