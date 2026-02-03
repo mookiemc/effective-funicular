@@ -178,7 +178,9 @@ function calculatePerformance() {
 function updateStatsDisplay() {
     const stats = studentData.overallStats;
     const missedQuestions = getMissedQuestions();
+    const unansweredQuestions = getUnansweredQuestions();
 
+    // Show total answered out of all questions
     elements.progressText.textContent = `${stats.total}/${questions.length}`;
     elements.accuracyText.textContent = `${stats.percentage}%`;
     elements.missedCount.textContent = missedQuestions.length;
@@ -243,6 +245,14 @@ function setMode(mode) {
     }
 }
 
+// ===== Get Unanswered Questions =====
+function getUnansweredQuestions() {
+    return questions.filter(q => {
+        const answer = studentData.answeredQuestions[q.id];
+        return !answer; // Question has never been answered
+    });
+}
+
 // ===== Start Quiz =====
 function startQuiz(mode, topic = null) {
     setMode(mode);
@@ -250,7 +260,12 @@ function startQuiz(mode, topic = null) {
 
     // Prepare question set based on mode
     if (mode === 'all') {
-        currentQuestionSet = [...questions];
+        currentQuestionSet = getUnansweredQuestions();
+        if (currentQuestionSet.length === 0) {
+            elements.noQuestionsMessage.textContent = "You've answered all questions! Review your stats or practice missed questions.";
+            showScreen('no-questions');
+            return;
+        }
     } else if (mode === 'missed') {
         currentQuestionSet = getMissedQuestions();
         if (currentQuestionSet.length === 0) {
@@ -259,7 +274,16 @@ function startQuiz(mode, topic = null) {
             return;
         }
     } else if (mode === 'topic' && topic) {
-        currentQuestionSet = questions.filter(q => q.category === topic);
+        // For topic mode, show unanswered questions in that topic
+        currentQuestionSet = questions.filter(q => {
+            const answer = studentData.answeredQuestions[q.id];
+            return q.category === topic && !answer;
+        });
+        if (currentQuestionSet.length === 0) {
+            elements.noQuestionsMessage.textContent = `You've answered all questions in ${topic}. Great job!`;
+            showScreen('no-questions');
+            return;
+        }
     }
 
     // Shuffle questions
