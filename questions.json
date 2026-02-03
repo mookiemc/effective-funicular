@@ -1139,6 +1139,585 @@
       "options": ["Speed up", "Stop immediately where you are", "Pull to the right and stop", "Change lanes to the left"],
       "correctAnswer": 2,
       "explanation": "Pull to the right side of the road and stop. Stay stopped until the emergency vehicle has passed."
+    },
+    {
+      "id": 121,
+      "category": "Arkansas Law",
+      "subcategory": "Lighting Requirements",
+      "type": "true-false",
+      "question": "Arkansas law requires you to turn on your headlights when windshield wipers are needed.",
+      "correctAnswer": true,
+      "explanation": "Arkansas law specifically requires drivers to turn on their headlights when windshield wipers are in use due to rain, snow, or other conditions."
+    },
+    {
+      "id": 122,
+      "category": "Safe Driving",
+      "subcategory": "Weather Conditions",
+      "type": "multiple-choice",
+      "question": "In heavy rain, your tires can lose all traction with the road (hydroplane) at what speed?",
+      "options": ["35 mph", "40 mph", "50 mph", "60 mph"],
+      "correctAnswer": 2,
+      "explanation": "In heavy rain, your tires can lose all traction with the road at 50 mph. Most tires maintain good traction up to 35 mph."
+    },
+    {
+      "id": 123,
+      "category": "Safe Driving",
+      "subcategory": "Visual Lead",
+      "type": "multiple-choice",
+      "question": "To avoid last-minute braking or sudden turns, you should look at least how far ahead?",
+      "options": ["5 seconds", "10 seconds", "15 seconds", "20 seconds"],
+      "correctAnswer": 2,
+      "explanation": "You should be looking at least 15 seconds ahead. This is about one city block in the city or one-quarter mile on highways."
+    },
+    {
+      "id": 124,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "true-false",
+      "question": "Even one alcoholic drink can affect your driving ability.",
+      "correctAnswer": true,
+      "explanation": "How many alcoholic drinks does it take to affect your driving? Just one drink can impair judgment and reaction time."
+    },
+    {
+      "id": 125,
+      "category": "Safe Driving",
+      "subcategory": "Distracted Driving",
+      "type": "multiple-choice",
+      "question": "Sending or reading a text takes your eyes off the road for approximately how long?",
+      "options": ["2 seconds", "3 seconds", "5 seconds", "10 seconds"],
+      "correctAnswer": 2,
+      "explanation": "Sending or reading a text takes your eyes off the road for 5 seconds. At 55 mph, that's like driving the length of a football field blind."
+    },
+    {
+      "id": 126,
+      "category": "Rules and Regulations",
+      "subcategory": "Speed Limits",
+      "type": "multiple-choice",
+      "question": "What is the default speed limit on county roads if no sign is posted?",
+      "options": ["30 mph", "35 mph", "40 mph", "45 mph"],
+      "correctAnswer": 2,
+      "explanation": "If a county judge has not established a speed limit, the default speed limit is 40 mph on county roads."
+    },
+    {
+      "id": 127,
+      "category": "Arkansas Law",
+      "subcategory": "Littering Laws",
+      "type": "multiple-choice",
+      "question": "What is the fine range for a first offense of littering in Arkansas?",
+      "options": ["$50 to $250", "$100 to $1,000", "$250 to $500", "$500 to $2,000"],
+      "correctAnswer": 1,
+      "explanation": "A first offense for littering carries a fine of not less than $100 and not more than $1,000, plus up to 8 hours of community service."
+    },
+    {
+      "id": 128,
+      "category": "Arkansas Law",
+      "subcategory": "Littering Laws",
+      "type": "true-false",
+      "question": "If litter is thrown from a motor vehicle, the driver is presumed responsible.",
+      "correctAnswer": true,
+      "explanation": "If littering is done from a motor vehicle, it is prima facie evidence that the act was done by the driver."
+    },
+    {
+      "id": 129,
+      "category": "Emergencies",
+      "subcategory": "Crashes",
+      "type": "multiple-choice",
+      "question": "You must notify police of a traffic crash if property damage exceeds what amount?",
+      "options": ["$500", "$1,000", "$2,000", "$3,000"],
+      "correctAnswer": 1,
+      "explanation": "Any crash involving injury, death, or property damage exceeding $1,000 requires immediate police notification."
+    },
+    {
+      "id": 130,
+      "category": "Rules and Regulations",
+      "subcategory": "Work Zones",
+      "type": "multiple-choice",
+      "question": "What is the maximum potential fine for doubled violations in a work zone when workers are present?",
+      "options": ["$1,000", "$2,500", "$5,000", "$10,000"],
+      "correctAnswer": 2,
+      "explanation": "Depending on the traffic violation, doubled fines in work zones can be as high as $5,000 when workers are present."
+    },
+    {
+      "id": 131,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "true-false",
+      "question": "If convicted of Underage DUI, you could have your license revoked until you reach age 21.",
+      "correctAnswer": true,
+      "explanation": "A person under 21 convicted of Underage DUI may have their license revoked until they reach 21 years of age."
+    },
+    {
+      "id": 132,
+      "category": "General Driving",
+      "subcategory": "Passing",
+      "type": "multiple-choice",
+      "question": "At 55 mph, how many seconds do you need to safely pass another vehicle?",
+      "options": ["5 seconds", "8 seconds", "10 seconds", "15 seconds"],
+      "correctAnswer": 2,
+      "explanation": "At a speed of 55 mph, you need about 10 seconds to pass safely."
+    },
+    {
+      "id": 133,
+      "category": "General Driving",
+      "subcategory": "Passing",
+      "type": "multiple-choice",
+      "question": "To pass safely at 55 mph, you need how much open space ahead?",
+      "options": ["500 feet", "800 feet", "1,600 feet", "2,000 feet"],
+      "correctAnswer": 2,
+      "explanation": "At 55 mph, a driver will need over 1,600 feet (about 1/3 of a mile) to safely pass another vehicle."
+    },
+    {
+      "id": 134,
+      "category": "Sharing the Road",
+      "subcategory": "Large Vehicles",
+      "type": "multiple-choice",
+      "question": "A fully loaded tractor-trailer traveling at 55 mph may take how far to stop?",
+      "options": ["225 feet", "300 feet", "More than 335 feet", "500 feet"],
+      "correctAnswer": 2,
+      "explanation": "A fully loaded tractor-trailer traveling at 55 mph may take more than 335 feet to come to a complete stop."
+    },
+    {
+      "id": 135,
+      "category": "General Driving",
+      "subcategory": "Parking",
+      "type": "multiple-choice",
+      "question": "Within how many feet of a railroad crossing is parking prohibited?",
+      "options": ["25 feet", "30 feet", "50 feet", "100 feet"],
+      "correctAnswer": 2,
+      "explanation": "Do not park within 50 feet of a railroad crossing."
+    },
+    {
+      "id": 136,
+      "category": "General Driving",
+      "subcategory": "Parking",
+      "type": "multiple-choice",
+      "question": "Within how many feet of a crosswalk at an intersection is parking prohibited?",
+      "options": ["10 feet", "15 feet", "20 feet", "25 feet"],
+      "correctAnswer": 2,
+      "explanation": "Do not park within 20 feet of a crosswalk at an intersection."
+    },
+    {
+      "id": 137,
+      "category": "General Driving",
+      "subcategory": "Parking",
+      "type": "multiple-choice",
+      "question": "Within how many feet of a fire station driveway on the same side of the street is parking prohibited?",
+      "options": ["15 feet", "20 feet", "30 feet", "50 feet"],
+      "correctAnswer": 1,
+      "explanation": "Do not park within 20 feet of a fire station driveway on the same side of the street."
+    },
+    {
+      "id": 138,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signs",
+      "type": "multiple-choice",
+      "question": "What shape is a school zone or school crossing sign?",
+      "options": ["Diamond", "Triangle", "Pentagon (5 sides)", "Octagon"],
+      "correctAnswer": 2,
+      "explanation": "School zone and school crossing signs are pentagon-shaped (house-shaped with 5 sides)."
+    },
+    {
+      "id": 139,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signs",
+      "type": "multiple-choice",
+      "question": "What does a pennant-shaped (flag-shaped) sign on the left side of the road indicate?",
+      "options": ["School Crossing", "No Passing Zone", "Yield", "Construction Zone"],
+      "correctAnswer": 1,
+      "explanation": "A pennant-shaped sign placed on the left side of the road indicates a no-passing zone."
+    },
+    {
+      "id": 140,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signs",
+      "type": "multiple-choice",
+      "question": "What color are work zone signs typically?",
+      "options": ["Yellow with black letters", "White with black letters", "Orange with black letters", "Green with white letters"],
+      "correctAnswer": 2,
+      "explanation": "Work zone signs are typically orange with black letters, and may be diamond or rectangular shaped."
+    },
+    {
+      "id": 141,
+      "category": "Driving Fitness",
+      "subcategory": "Vision Requirements",
+      "type": "multiple-choice",
+      "question": "What is the minimum field of vision required for a person with two functional eyes?",
+      "options": ["90 degrees", "105 degrees", "140 degrees", "180 degrees"],
+      "correctAnswer": 2,
+      "explanation": "Your field of vision must be at least 140 degrees for a person with two functional eyes."
+    },
+    {
+      "id": 142,
+      "category": "Rules and Regulations",
+      "subcategory": "Railroad Crossings",
+      "type": "multiple-choice",
+      "question": "How far from railroad tracks must you stop when signals are active or a train is approaching?",
+      "options": ["10-25 feet", "15-50 feet", "20-60 feet", "25-75 feet"],
+      "correctAnswer": 1,
+      "explanation": "You must stop between 15 and 50 feet from the nearest rail when crossing signals are active or a train is approaching."
+    },
+    {
+      "id": 143,
+      "category": "Safe Driving",
+      "subcategory": "Night Driving",
+      "type": "multiple-choice",
+      "question": "High beam headlights allow you to see how far ahead?",
+      "options": ["200 feet", "300 feet", "400 feet", "500 feet"],
+      "correctAnswer": 2,
+      "explanation": "High beams let you see twice as far as low beams, about 400 feet ahead."
+    },
+    {
+      "id": 144,
+      "category": "Safe Driving",
+      "subcategory": "Night Driving",
+      "type": "multiple-choice",
+      "question": "Your headlights allow you to see about 400 feet ahead. You should drive at a speed that allows you to stop within that distance, which is about:",
+      "options": ["35 mph", "45 mph", "50 mph", "65 mph"],
+      "correctAnswer": 2,
+      "explanation": "Headlights let you see about 400 feet ahead. You should drive at a speed that allows you to stop within this distance, which is around 50 mph."
+    },
+    {
+      "id": 145,
+      "category": "Safe Driving",
+      "subcategory": "Speed Management",
+      "type": "multiple-choice",
+      "question": "At 40 mph, what is the total estimated stopping distance?",
+      "options": ["80 feet", "100 feet", "124 feet", "150 feet"],
+      "correctAnswer": 2,
+      "explanation": "At 40 mph, it can take about 124 feet total stopping distance, including reaction time and braking distance."
+    },
+    {
+      "id": 146,
+      "category": "Arkansas Law",
+      "subcategory": "Traffic Stops",
+      "type": "multiple-choice",
+      "question": "When stopped by a law enforcement officer, where should you place your hands?",
+      "options": ["In your lap", "On the top of the steering wheel", "Out the window", "On the dashboard"],
+      "correctAnswer": 1,
+      "explanation": "Ensure that both hands are visible to the officer. Always place your hands at the top of the steering wheel as the officer approaches."
+    },
+    {
+      "id": 147,
+      "category": "Arkansas Law",
+      "subcategory": "Traffic Stops",
+      "type": "true-false",
+      "question": "When stopped by police, you should avoid stopping on bridges or overpasses.",
+      "correctAnswer": true,
+      "explanation": "Pull to the closest safest spot out of the traffic lane, but do not stop on bridges or overpasses. Continue to a safe location."
+    },
+    {
+      "id": 148,
+      "category": "Arkansas Law",
+      "subcategory": "Traffic Stops",
+      "type": "multiple-choice",
+      "question": "If you have a weapon in the vehicle during a traffic stop, you should:",
+      "options": ["Hand it to the officer immediately", "Hide it under the seat", "Inform the officer of its location without reaching for it", "Only tell if asked"],
+      "correctAnswer": 2,
+      "explanation": "Inform the officer if there is a weapon in the vehicle, its type, and location. Do not reach for it."
+    },
+    {
+      "id": 149,
+      "category": "Arkansas Law",
+      "subcategory": "Traffic Stops",
+      "type": "true-false",
+      "question": "If you are unsure whether you are being stopped by an actual police officer at night, you should activate your turn signal, pull to a well-lit location, and dial 9-1-1.",
+      "correctAnswer": true,
+      "explanation": "If unsure whether it's a real officer, activate your turn signal to show you're complying, pull to the nearest well-lit location, dial 9-1-1, and request police officer confirmation."
+    },
+    {
+      "id": 150,
+      "category": "Emergencies",
+      "subcategory": "Crashes",
+      "type": "true-false",
+      "question": "Arkansas law requires that if you are involved in a traffic crash, you should move the vehicle from the roadway if possible so it doesn't block traffic.",
+      "correctAnswer": true,
+      "explanation": "Arkansas law requires that if you are involved in a traffic crash, you should move the vehicle from the roadway so it doesn't block traffic, unless there are injuries or the vehicle cannot be moved safely."
+    },
+    {
+      "id": 151,
+      "category": "Emergencies",
+      "subcategory": "Crashes",
+      "type": "true-false",
+      "question": "If you hit a parked vehicle and cannot find the owner, you should leave a note with your name, address, and contact information.",
+      "correctAnswer": true,
+      "explanation": "If you are involved in a crash with a parked vehicle and cannot locate the owner, you must leave a note with your contact information."
+    },
+    {
+      "id": 152,
+      "category": "Emergencies",
+      "subcategory": "Accelerator Stuck",
+      "type": "multiple-choice",
+      "question": "If your vehicle's accelerator sticks, what is the first thing you should do?",
+      "options": ["Turn off the ignition immediately", "Keep your eyes on the road and quickly shift to neutral", "Pump the gas pedal", "Slam on the brakes"],
+      "correctAnswer": 1,
+      "explanation": "If the accelerator sticks, keep your eyes on the road and quickly shift to neutral. Then pull off the road when safe to do so."
+    },
+    {
+      "id": 153,
+      "category": "General Driving",
+      "subcategory": "Lane Usage",
+      "type": "true-false",
+      "question": "You should never drive on the shoulder of any street or road unless directed by a police officer.",
+      "correctAnswer": true,
+      "explanation": "Never drive on the shoulder of any street or road, unless directed by a police officer."
+    },
+    {
+      "id": 154,
+      "category": "General Driving",
+      "subcategory": "Backing Up",
+      "type": "true-false",
+      "question": "It is illegal to back your vehicle in any travel lane.",
+      "correctAnswer": true,
+      "explanation": "Never back a vehicle in any travel lane. It is illegal and unsafe."
+    },
+    {
+      "id": 155,
+      "category": "Rules and Regulations",
+      "subcategory": "Pavement Markings",
+      "type": "multiple-choice",
+      "question": "What does a shared center lane look like?",
+      "options": ["Solid white lines on both sides", "Solid yellow lines on both sides", "Solid yellow outer lines and dashed yellow inner lines", "Dashed white lines"],
+      "correctAnswer": 2,
+      "explanation": "Shared center turn lanes are marked with solid yellow lines on the outside and dashed yellow lines on the inside."
+    },
+    {
+      "id": 156,
+      "category": "Rules and Regulations",
+      "subcategory": "Pavement Markings",
+      "type": "multiple-choice",
+      "question": "What is a 'fog line'?",
+      "options": ["A dashed white line in the center", "A solid yellow line on the left edge", "A solid white line along the side of the roadway", "A blue line near fire hydrants"],
+      "correctAnswer": 2,
+      "explanation": "A solid white line along the side of the roadway that tells the driver where the outer edge is located is called a fog line."
+    },
+    {
+      "id": 157,
+      "category": "Safe Driving",
+      "subcategory": "Following Distance",
+      "type": "multiple-choice",
+      "question": "When merging with traffic, what gap size do you need?",
+      "options": ["2 seconds", "3 seconds", "4 seconds", "6 seconds"],
+      "correctAnswer": 2,
+      "explanation": "When merging with other traffic, you need a gap of about 4 seconds."
+    },
+    {
+      "id": 158,
+      "category": "Sharing the Road",
+      "subcategory": "Large Vehicles",
+      "type": "true-false",
+      "question": "If you cannot see the truck driver in their side mirror, the driver cannot see you.",
+      "correctAnswer": true,
+      "explanation": "If you can't see the truck driver in the tractor side mirror, the driver can't see you. Stay out of the truck's blind spots."
+    },
+    {
+      "id": 159,
+      "category": "General Driving",
+      "subcategory": "Passing",
+      "type": "multiple-choice",
+      "question": "You should not pass another vehicle if you are within how many miles of a hill or curve?",
+      "options": ["1/4 mile", "1/3 mile", "1/2 mile", "1 mile"],
+      "correctAnswer": 1,
+      "explanation": "Drivers should not pass if you are within 1/3 of a mile of a hill or curve where your view is obstructed."
+    },
+    {
+      "id": 160,
+      "category": "Safe Driving",
+      "subcategory": "Weather Conditions",
+      "type": "multiple-choice",
+      "question": "On a wet road, by how much should you reduce your speed?",
+      "options": ["5 mph", "10 mph", "15 mph", "20 mph"],
+      "correctAnswer": 1,
+      "explanation": "On a wet road, you should reduce your speed by at least 10 mph below the posted limit."
+    },
+    {
+      "id": 161,
+      "category": "Safe Driving",
+      "subcategory": "Weather Conditions",
+      "type": "multiple-choice",
+      "question": "On packed snow, by how much should you reduce your speed?",
+      "options": ["5 mph", "10 mph", "Cut speed in half", "Reduce by one-third"],
+      "correctAnswer": 2,
+      "explanation": "On packed snow, you should cut your speed in half or more depending on conditions."
+    },
+    {
+      "id": 162,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signals",
+      "type": "multiple-choice",
+      "question": "What does a steady red arrow mean?",
+      "options": ["You may turn if the way is clear", "Stop, you may not turn in the direction of the arrow", "Stop, then proceed with caution", "Slow down and turn"],
+      "correctAnswer": 1,
+      "explanation": "A steady red arrow means stop. You may not turn in the direction of the arrow until it changes."
+    },
+    {
+      "id": 163,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "multiple-choice",
+      "question": "A single drink is considered to be:",
+      "options": ["1.5 oz of 80-proof liquor, 6 oz of wine, or 12 oz of beer", "2 oz of liquor, 8 oz of wine, or 16 oz of beer", "1 oz of liquor, 4 oz of wine, or 8 oz of beer", "Any amount in a glass"],
+      "correctAnswer": 0,
+      "explanation": "A single drink is 1.5 ounces of 80-proof liquor, a 6-ounce glass of wine, or a 12-ounce container of beer."
+    },
+    {
+      "id": 164,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "true-false",
+      "question": "Eating food can prevent you from getting intoxicated.",
+      "correctAnswer": false,
+      "explanation": "Food slows the rate at which alcohol enters the blood, but it will not prevent you from getting intoxicated."
+    },
+    {
+      "id": 165,
+      "category": "Sharing the Road",
+      "subcategory": "Bicycles",
+      "type": "true-false",
+      "question": "If you see a bicyclist with a red or orange pennant flag, it indicates the rider has impaired hearing.",
+      "correctAnswer": true,
+      "explanation": "A red or orange pennant flag on a bicycle is a symbol to indicate the rider has impaired hearing. Give them extra space and avoid honking."
+    },
+    {
+      "id": 166,
+      "category": "General Driving",
+      "subcategory": "Turns",
+      "type": "true-false",
+      "question": "When making a left turn, you should avoid cutting the corner.",
+      "correctAnswer": true,
+      "explanation": "When turning left, avoid cutting the corners. Turning too sharply could cause you to hit a vehicle approaching from the left."
+    },
+    {
+      "id": 167,
+      "category": "General Driving",
+      "subcategory": "Passing",
+      "type": "true-false",
+      "question": "When passing at night, it is safe to return to your lane when you can see both headlights of the vehicle you passed in your rearview mirror.",
+      "correctAnswer": true,
+      "explanation": "At night, when you can see both headlights of the vehicle you passed in your rear-view mirror, it is safe to return to the driving lane."
+    },
+    {
+      "id": 168,
+      "category": "Safe Driving",
+      "subcategory": "Following Distance",
+      "type": "multiple-choice",
+      "question": "If you are being tailgated, what should you do?",
+      "options": ["Brake check the driver", "Speed up", "Move to the right lane if possible, or reduce speed gradually", "Turn on your hazard lights"],
+      "correctAnswer": 2,
+      "explanation": "If you are being tailgated, move into the right lane if possible. If there is no right lane, wait until the path ahead is clear and reduce speed gradually to encourage them to pass."
+    },
+    {
+      "id": 169,
+      "category": "Driving Fitness",
+      "subcategory": "Alcohol and Drugs",
+      "type": "true-false",
+      "question": "You can be charged with DWI if your BAC is between 0.04% and 0.08% if you are involved in a crash or serious traffic offense.",
+      "correctAnswer": true,
+      "explanation": "In Arkansas, if involved in a traffic crash or serious traffic offense, you can be charged with DWI with a blood alcohol content between 0.04% and 0.08%."
+    },
+    {
+      "id": 170,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signs",
+      "type": "multiple-choice",
+      "question": "What does an 'Exempt' sign at a railroad crossing mean?",
+      "options": ["You do not have to stop", "The crossing is abandoned or use is discontinued", "Only buses must stop", "Trains always stop"],
+      "correctAnswer": 1,
+      "explanation": "An 'Exempt' sign means that the railroad crossing has been abandoned or its use discontinued. Follow your local procedure about stopping."
+    },
+    {
+      "id": 171,
+      "category": "Rules and Regulations",
+      "subcategory": "Traffic Signals",
+      "type": "true-false",
+      "question": "Even with a green light, you should not enter an intersection if traffic is blocked and you cannot clear the intersection.",
+      "correctAnswer": true,
+      "explanation": "Even with a green light, do not start across the intersection until traffic is clear. You could get caught in the intersection and block cross traffic."
+    },
+    {
+      "id": 172,
+      "category": "Arkansas Law",
+      "subcategory": "School Bus Laws",
+      "type": "true-false",
+      "question": "You are not required to stop for a school bus if you are approaching on an opposite lane of travel separated by a median 20 feet or more in width.",
+      "correctAnswer": true,
+      "explanation": "Drivers are not required to stop if the school bus is approaching along an opposite lane of travel separated by a median 20 feet or more in width."
+    },
+    {
+      "id": 173,
+      "category": "Safe Driving",
+      "subcategory": "Visual Lead",
+      "type": "multiple-choice",
+      "question": "When driving in the city, you should look down the road at least:",
+      "options": ["One car length", "One city block", "One-quarter mile", "100 feet"],
+      "correctAnswer": 1,
+      "explanation": "To avoid last-minute braking or sudden turns, you should look down the road at least one city block when driving in the city."
+    },
+    {
+      "id": 174,
+      "category": "Sharing the Road",
+      "subcategory": "Motorcycles",
+      "type": "true-false",
+      "question": "Motorcycles can stop more quickly than cars in dry conditions.",
+      "correctAnswer": true,
+      "explanation": "In dry conditions, motorcycles can stop more quickly than a car. This is why you should allow more following distance when behind a motorcycle."
+    },
+    {
+      "id": 175,
+      "category": "Safe Driving",
+      "subcategory": "Night Driving",
+      "type": "multiple-choice",
+      "question": "To determine if you are driving too fast for conditions at night, you should use the:",
+      "options": ["Two Second Rule", "Four Second Sight Distance Rule", "Ten Second Rule", "Headlight Distance Rule"],
+      "correctAnswer": 1,
+      "explanation": "To determine if you are driving too fast for the conditions at night, use the 'Four Second Sight Distance Rule.' Don't drive faster than the distance you can see."
+    },
+    {
+      "id": 176,
+      "category": "General Driving",
+      "subcategory": "Turns",
+      "type": "true-false",
+      "question": "You are allowed to turn right on a red light after making a complete stop and checking for opposing traffic and pedestrians, unless a sign prohibits it.",
+      "correctAnswer": true,
+      "explanation": "The driver may turn right on red unless there is a sign prohibiting a right turn on red, after making a complete stop and checking for opposing traffic and pedestrians."
+    },
+    {
+      "id": 177,
+      "category": "Vehicle Safety",
+      "subcategory": "Airbags",
+      "type": "multiple-choice",
+      "question": "How far should you sit from the steering wheel to avoid the risk zone of an airbag?",
+      "options": ["5 inches", "10 inches", "15 inches", "20 inches"],
+      "correctAnswer": 1,
+      "explanation": "Placing yourself 10 inches from your driver airbag provides you with a clear margin of safety and allows the airbag to deploy properly."
+    },
+    {
+      "id": 178,
+      "category": "Safe Driving",
+      "subcategory": "Speed Management",
+      "type": "true-false",
+      "question": "You should slow down before entering a curve, not while in the curve.",
+      "correctAnswer": true,
+      "explanation": "Slow down before a curve, so you don't have to brake in the curve. Braking in a curve can cause loss of control."
+    },
+    {
+      "id": 179,
+      "category": "Safe Driving",
+      "subcategory": "Skidding",
+      "type": "multiple-choice",
+      "question": "What is the primary cause of skids?",
+      "options": ["Driving too slow", "Driving too fast for conditions", "Bad tires", "Antilock brakes"],
+      "correctAnswer": 1,
+      "explanation": "The vast majority of skids are caused by drivers traveling too fast for the conditions."
+    },
+    {
+      "id": 180,
+      "category": "Seat Belts",
+      "subcategory": "Proper Use",
+      "type": "multiple-choice",
+      "question": "A seat belt should be worn:",
+      "options": ["Loosely for comfort", "Across the upper chest and upper thighs", "Across the stomach", "Under the arm"],
+      "correctAnswer": 1,
+      "explanation": "Wear a diagonal belt across the upper chest. Adjust the lower strap so it fits across the upper thighs (pelvis) and not the abdominal region."
     }
   ]
 }
