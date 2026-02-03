@@ -4,12 +4,16 @@ A comprehensive web-based study application for the Arkansas driver's license ex
 
 ## Features
 
-- **120 Practice Questions** - Comprehensive coverage of all Arkansas driver's license exam topics
+- **180 Practice Questions** - Comprehensive coverage of all Arkansas driver's license exam topics
 - **Mixed Question Types** - Both True/False and Multiple Choice questions
 - **Performance Tracking** - Automatic tracking of correct/incorrect answers by category
+- **Visual Progress Bars** - Animated progress indicators with color-coded performance
 - **Review Missed Questions** - Focus on questions you've answered incorrectly
 - **Topic-Based Study** - Study specific categories like Arkansas Law, Safe Driving, etc.
 - **Statistics Dashboard** - View your overall progress and identify weak areas
+- **Dark Mode** - Toggle between light and dark themes for comfortable studying
+- **Sticky Navigation** - Navigation tabs stay visible as you scroll
+- **Tooltips & Guides** - Helpful tooltips explain features as you explore
 - **Local Storage** - All progress saved automatically in your browser
 - **Mobile Responsive** - Works on all devices (phones, tablets, computers)
 - **Google Sites Compatible** - Can be embedded in Google Sites
@@ -28,11 +32,13 @@ A comprehensive web-based study application for the Arkansas driver's license ex
 ## Files
 
 - `index.html` - Main application structure
-- `styles.css` - Responsive styling and design
+- `styles.css` - Responsive styling and design with dark mode support
 - `app.js` - Application logic and functionality
-- `questions.json` - Question database (120 questions)
+- `questions.json` - Question database (180 questions)
+- `Questions_supplemental.json` - Additional question data
 - `README.md` - This file
 - `EMBEDDING_GUIDE.md` - Instructions for embedding in Google Sites
+- `Arkansas Driver's Exam Review App - Project Status.md` - Development documentation
 
 ## How to Use
 
@@ -149,9 +155,9 @@ After the first load, the app can work offline if you:
 - Timed practice mode
 - Printable progress reports
 - Audio feedback
-- Dark mode
 - Flashcard mode
 - Study streaks and achievements
+- Detailed performance analytics over time
 
 ## Credits
 
@@ -171,7 +177,15 @@ For issues or questions:
 
 ## Version
 
-Version 1.0 - Initial Release
+**Version 2.0** - Major Design Update (February 2026)
+- Comprehensive UI/UX improvements
+- Dark mode implementation
+- Visual progress bars with color coding
+- Sticky navigation
+- Expanded to 180 questions
+- Enhanced mobile responsiveness
+
+**Version 1.0** - Initial Release (2024)
 
 ---
 
