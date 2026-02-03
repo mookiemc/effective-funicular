@@ -1,0 +1,3725 @@
+[
+  {
+    "id": 1,
+    "category": "Arkansas Law",
+    "question": "In Arkansas, what is the maximum fine for a first offense of littering?",
+    "options": [
+      "$500 and 8 hours of community service",
+      "$1,000 and 8 hours of community service",
+      "$2,000 and 24 hours of community service",
+      "$100 and no community service"
+    ],
+    "correctIndex": 1,
+    "explanation": "A first offense for littering is an unclassified misdemeanor with a fine of not less than $100 and not more than $1,000, plus up to 8 hours of community service.",
+    "citation": "Page 2"
+  },
+  {
+    "id": 2,
+    "category": "Safe Driving",
+    "question": "When driving in the rain, at what speed can your tires lose all traction with the road (hydroplane)?",
+    "options": [
+      "35 mph",
+      "45 mph",
+      "50 mph",
+      "60 mph"
+    ],
+    "correctIndex": 2,
+    "explanation": "In heavy rain, your tires can lose all traction with the road at 50 mph. Most tires have good traction up to 35 mph.",
+    "citation": "Page 55"
+  },
+  {
+    "id": 3,
+    "category": "Traffic Laws",
+    "question": "When approaching a stopped school bus with its red lights flashing on a four-lane roadway without a median separation, who must stop?",
+    "options": [
+      "Only traffic following the bus",
+      "Only traffic in the lane closest to the bus",
+      "All traffic from both directions",
+      "Traffic moving in the opposite direction only"
+    ],
+    "correctIndex": 2,
+    "explanation": "On a four-lane roadway without a median separation, all traffic from both directions must stop.",
+    "citation": "Page 13"
+  },
+  {
+    "id": 4,
+    "category": "Alcohol & Drugs",
+    "question": "At what Blood Alcohol Concentration (BAC) will you be arrested for Driving While Intoxicated (DWI) in Arkansas?",
+    "options": [
+      "0.02%",
+      "0.05%",
+      "0.08%",
+      "0.10%"
+    ],
+    "correctIndex": 2,
+    "explanation": "You will be arrested for driving while intoxicated with an alcohol concentration of 0.08% or more.",
+    "citation": "Page 74"
+  },
+  {
+    "id": 5,
+    "category": "Work Zones",
+    "question": "What happens to fines for moving traffic violations occurring in a highway work zone when workers are present?",
+    "options": [
+      "They remain the same",
+      "They are doubled",
+      "They are tripled",
+      "They are reduced by half"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fines for all moving traffic violations occurring in a highway work zone are doubled if workers are present and warning signs are present.",
+    "citation": "Page 18"
+  },
+  {
+    "id": 6,
+    "category": "General Driving",
+    "question": "How far ahead should you look to avoid last-minute braking or the need to turn suddenly?",
+    "options": [
+      "5 seconds",
+      "10 seconds",
+      "15 seconds",
+      "20 seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "You should be looking at least 15 seconds ahead. This is about one city block in the city or one-quarter mile on highways.",
+    "citation": "Page 48"
+  },
+  {
+    "id": 7,
+    "category": "See and Be Seen",
+    "question": "When must you turn on your headlights in Arkansas?",
+    "options": [
+      "Only at night",
+      "When windshield wipers are needed",
+      "Only when it is foggy",
+      "Whenever you exceed 45 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arkansas law requires drivers to turn on their headlights when windshield wipers are needed.",
+    "citation": "Page 51"
+  },
+  {
+    "id": 8,
+    "category": "Railroad Safety",
+    "question": "What does a sign with a white 'X' and the letters 'RR' indicate?",
+    "options": [
+      "Road Repair ahead",
+      "Rest Area ahead",
+      "Railroad Crossing ahead",
+      "Right Turn Only"
+    ],
+    "correctIndex": 2,
+    "explanation": "A round yellow advance warning sign or pavement marking with 'RR' indicates a railroad crossing is ahead.",
+    "citation": "Page 28"
+  },
+  {
+    "id": 9,
+    "category": "Safe Driving",
+    "question": "What is the 'Two Second Rule' used for?",
+    "options": [
+      "Measuring stopping time",
+      "Determining safe following distance",
+      "Calculating merge speed",
+      "Checking blind spots"
+    ],
+    "correctIndex": 1,
+    "explanation": "Use the 'two (2) second rule' to determine if you are following too close.",
+    "citation": "Page 59"
+  },
+  {
+    "id": 10,
+    "category": "Sharing the Road",
+    "question": "How much space should you allow when following a motorcycle?",
+    "options": [
+      "1 to 2 seconds",
+      "2 to 3 seconds",
+      "4 to 6 seconds",
+      "10 seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "Allow more following distance, at least four (4) to six (6) seconds, when following a motorcycle.",
+    "citation": "Page 70"
+  },
+  {
+    "id": 11,
+    "category": "General Driving",
+    "question": "What does a shared center lane look like?",
+    "options": [
+      "Solid white lines on both sides",
+      "Solid yellow lines on both sides",
+      "Solid yellow outer lines and dashed yellow inner lines",
+      "Dashed white lines"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shared center lanes mark the lane with solid yellow lines on the outside and dashed yellow lines on the inside.",
+    "citation": "Page 32"
+  },
+  {
+    "id": 12,
+    "category": "Emergency Vehicles",
+    "question": "What must you do if you see a law enforcement vehicle with emergency lights turned on stopped on the side of a multilane highway?",
+    "options": [
+      "Stop immediately",
+      "Speed up to get past quickly",
+      "Move to the farthest lane away from the vehicle if possible",
+      "Honk your horn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arkansas law requires any motor vehicle on a multilane highway to move over, whenever possible, to the farthest lane away from any stopped law enforcement vehicle.",
+    "citation": "Page 15"
+  },
+  {
+    "id": 13,
+    "category": "Traffic Signals",
+    "question": "What does a flashing yellow arrow mean?",
+    "options": [
+      "Stop and wait for green",
+      "Left turns are permitted after yielding to oncoming traffic",
+      "Protected left turn",
+      "Do not turn left"
+    ],
+    "correctIndex": 1,
+    "explanation": "A flashing yellow arrow means left turns are permitted. Drivers may turn left but must yield to oncoming traffic and pedestrians.",
+    "citation": "Page 24"
+  },
+  {
+    "id": 14,
+    "category": "Alcohol & Drugs",
+    "question": "Under Arkansas law, at what age can you be arrested for Underage Driving Under the Influence if your alcohol concentration is 0.02%?",
+    "options": [
+      "Under 18",
+      "Under 21",
+      "Under 25",
+      "Any age"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Arkansas, you cannot buy or consume alcohol under the age of twenty-one (21). You can be arrested for Underage DUI if your alcohol concentration is 0.02%.",
+    "citation": "Page 75"
+  },
+  {
+    "id": 15,
+    "category": "Seat Belts",
+    "question": "Who is required to wear a seat belt in a vehicle?",
+    "options": [
+      "Only the driver",
+      "Only passengers under 15",
+      "The driver and front-seat passenger",
+      "All passengers must wear seat belts if the driver has a learner's permit"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arkansas law makes it illegal to drive, or to be a front-seat passenger, without wearing a safety belt. (Note: All passengers must wear seat belts if the driver holds an Instruction Permit/Learner's License).",
+    "citation": "Page 9, 3"
+  }
+]
+
+[
+  {
+    "id": 1,
+    "category": "Arkansas Law",
+    "question": "What is the penalty for a first offense of littering in Arkansas?",
+    "options": [
+      "A fine of up to $500 and 24 hours community service",
+      "A fine of up to $1,000 and not more than 8 hours of community service",
+      "A fine of $100 and no community service",
+      "A fine of $2,000 and license suspension"
+    ],
+    "correctIndex": 1,
+    "explanation": "Upon conviction, first offenders are subject to a fine of up to $1,000 and not more than eight hours of community service.",
+    "citation": "cite: 266"
+  },
+  {
+    "id": 2,
+    "category": "Work Zones",
+    "question": "If you are convicted of a moving traffic violation in a highway work zone where workers are present, what happens to the fine?",
+    "options": [
+      "It remains the same",
+      "It is doubled",
+      "It is tripled",
+      "It is reduced by half"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fines for all moving traffic violations occurring in a highway work zone are doubled if workers are present and warning signs are present.",
+    "citation": "cite: 349"
+  },
+  {
+    "id": 3,
+    "category": "Alcohol & Drugs",
+    "question": "At what Blood Alcohol Concentration (BAC) are you considered legally intoxicated in Arkansas if you are 21 or older?",
+    "options": [
+      "0.02%",
+      "0.05%",
+      "0.08%",
+      "0.10%"
+    ],
+    "correctIndex": 2,
+    "explanation": "You will be arrested for driving while intoxicated with an alcohol concentration of 0.08% or more.",
+    "citation": "cite: 1135"
+  },
+  {
+    "id": 4,
+    "category": "Alcohol & Drugs",
+    "question": "Under Arkansas 'Zero Tolerance' law, at what alcohol concentration can an underage driver (under 21) be arrested?",
+    "options": [
+      "0.02%",
+      "0.04%",
+      "0.05%",
+      "0.08%"
+    ],
+    "correctIndex": 0,
+    "explanation": "You can be arrested for Underage Driving Under the Influence if your alcohol concentration is 0.02%.",
+    "citation": "cite: 1138"
+  },
+  {
+    "id": 5,
+    "category": "Safe Driving",
+    "question": "When windshield wipers are needed due to rain, snow, or poor visibility, what else must be turned on?",
+    "options": [
+      "Emergency flashers",
+      "Parking lights",
+      "Headlights",
+      "Fog lights only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arkansas law requires drivers to turn on their headlights when windshield wipers are needed.",
+    "citation": "cite: 689"
+  },
+  {
+    "id": 6,
+    "category": "Safe Driving",
+    "question": "At what speed can your tires begin to hydroplane and lose contact with the road during heavy rain?",
+    "options": [
+      "30 mph",
+      "35 mph",
+      "45 mph",
+      "50 mph"
+    ],
+    "correctIndex": 3,
+    "explanation": "In heavy rain, your tires can lose all traction with the road at 50 mph.",
+    "citation": "cite: 755"
+  },
+  {
+    "id": 7,
+    "category": "Traffic Signals",
+    "question": "What does a flashing yellow arrow traffic signal indicate?",
+    "options": [
+      "Protected left turn; oncoming traffic must stop",
+      "Stop and wait for the green arrow",
+      "Left turns are permitted, but you must yield to oncoming traffic and pedestrians",
+      "Do not turn left"
+    ],
+    "correctIndex": 2,
+    "explanation": "A flashing yellow arrow means left turns are permitted. Drivers may turn left but must yield to oncoming traffic and pedestrians.",
+    "citation": "cite: 411"
+  },
+  {
+    "id": 8,
+    "category": "Traffic Signals",
+    "question": "What is the correct action when approaching a flashing red light?",
+    "options": [
+      "Slow down and proceed with caution",
+      "Treat it as a stop sign: stop completely, then proceed when safe",
+      "Stop only if other traffic is present",
+      "Speed up to clear the intersection"
+    ],
+    "correctIndex": 1,
+    "explanation": "A flashing red light is the same as a stop sign. A driver must come to a complete stop, and then proceed only when it is safe.",
+    "citation": "cite: 416-417"
+  },
+  {
+    "id": 9,
+    "category": "Sharing the Road",
+    "question": "When passing a cyclist, how much room should you give them?",
+    "options": [
+      "2 feet",
+      "3 feet",
+      "The entire lane if possible",
+      "Just enough to clear their handlebars"
+    ],
+    "correctIndex": 2,
+    "explanation": "Drivers should give the cyclist the entire lane, if possible. When road conditions prevent the entire lane, pass the cyclist with extreme caution.",
+    "citation": "cite: 956-957"
+  },
+  {
+    "id": 10,
+    "category": "Sharing the Road",
+    "question": "What is the recommended following distance when behind a motorcycle?",
+    "options": [
+      "1 to 2 seconds",
+      "2 to 3 seconds",
+      "4 to 6 seconds",
+      "8 seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "Allow more following distance, at least four (4) to six (6) seconds, when following a motorcycle.",
+    "citation": "cite: 1030"
+  },
+  {
+    "id": 11,
+    "category": "Emergency Vehicles",
+    "question": "What does Arkansas law require you to do when approaching a stopped law enforcement or emergency vehicle with lights flashing on a multilane highway?",
+    "options": [
+      "Stop in your lane",
+      "Move to the lane farthest from the stopped vehicle if possible",
+      "Speed up to pass quickly",
+      "Maintain speed and stay in your lane"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arkansas law requires any motor vehicle on a multilane highway to move over, whenever possible, to the farthest lane away from any stopped law enforcement vehicle with its lights turned on.",
+    "citation": "cite: 276"
+  },
+  {
+    "id": 12,
+    "category": "School Buses",
+    "question": "You are traveling on a four-lane highway without a median separation. A school bus stops on the opposite side of the road with red lights flashing. What must you do?",
+    "options": [
+      "Keep driving; you are in the opposite lane",
+      "Slow down but do not stop",
+      "Stop completely until the lights are turned off",
+      "Honk your horn and pass carefully"
+    ],
+    "correctIndex": 2,
+    "explanation": "When school bus stops for passengers, all traffic from both directions must stop on a four-lane roadway without a median separation.",
+    "citation": "cite: 284"
+  },
+  {
+    "id": 13,
+    "category": "Safe Driving",
+    "question": "How far ahead should you look to maintain safe driving (the sight-distance rule)?",
+    "options": [
+      "5 seconds",
+      "10 seconds",
+      "15 seconds",
+      "20 seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "You should be looking at least fifteen (15) seconds ahead.",
+    "citation": "cite: 639"
+  },
+  {
+    "id": 14,
+    "category": "General Driving",
+    "question": "When are you allowed to turn right on a red light?",
+    "options": [
+      "Never",
+      "After slowing down to check traffic",
+      "After making a complete stop and checking for opposing traffic and pedestrians, unless a sign prohibits it",
+      "Only if there is a green arrow"
+    ],
+    "correctIndex": 2,
+    "explanation": "The driver may turn right on red unless there is a sign prohibiting a right turn on red, after making a complete stop and a check for opposing traffic.",
+    "citation": "cite: 421"
+  },
+  {
+    "id": 15,
+    "category": "Seat Belts",
+    "question": "Who must wear a seat belt in a vehicle according to Arkansas law?",
+    "options": [
+      "Only the driver",
+      "Only passengers under 15",
+      "The driver and front-seat passenger",
+      "The driver and all passengers under 18"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arkansas law makes it illegal to drive or to be a front-seat passenger, without wearing a safety belt.",
+    "citation": "cite: 258"
+  },
+  {
+    "id": 16,
+    "category": "Child Safety",
+    "question": "At what age/weight must a child be restrained in a child passenger safety seat?",
+    "options": [
+      "Under 4 years of age or under 40 pounds",
+      "Under 6 years of age and under 60 pounds",
+      "Under 8 years of age",
+      "Under 5 years of age"
+    ],
+    "correctIndex": 1,
+    "explanation": "A child who is less than six (6) years of age and who weighs less than sixty (60) pounds shall be restrained in a child passenger safety seat.",
+    "citation": "cite: 253"
+  },
+  {
+    "id": 17,
+    "category": "General Driving",
+    "question": "How many feet before a turn should you signal your intention?",
+    "options": [
+      "50 feet",
+      "100 feet",
+      "200 feet",
+      "300 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "If possible, you should signal your intentions to turn at least 100 feet before the turn.",
+    "citation": "cite: 719"
+  },
+  {
+    "id": 18,
+    "category": "See and Be Seen",
+    "question": "When should you dim your high beam headlights for an oncoming vehicle?",
+    "options": [
+      "Within 200 feet",
+      "Within 300 feet",
+      "Within 500 feet",
+      "Within 1000 feet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dim your high beams whenever you come within 500 feet of an oncoming vehicle.",
+    "citation": "cite: 695"
+  },
+  {
+    "id": 19,
+    "category": "See and Be Seen",
+    "question": "When following another vehicle, when should you use low-beam headlights?",
+    "options": [
+      "When following closer than 200 feet",
+      "When following closer than 300 feet",
+      "When following closer than 500 feet",
+      "Only when traffic is heavy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use your low-beam headlights when following another vehicle closer than 200 feet.",
+    "citation": "cite: 696"
+  },
+  {
+    "id": 20,
+    "category": "Safe Driving",
+    "question": "What is the recommended following distance under normal driving conditions?",
+    "options": [
+      "1 second",
+      "2 seconds",
+      "3 seconds",
+      "4 seconds"
+    ],
+    "correctIndex": 1,
+    "explanation": "Use the 'two (2) second rule' to determine if you are following too close.",
+    "citation": "cite: 825"
+  },
+  {
+    "id": 21,
+    "category": "Accidents",
+    "question": "If you are involved in a traffic crash with property damage exceeding what amount must you notify the police?",
+    "options": [
+      "$500",
+      "$1,000",
+      "$2,000",
+      "$3,000"
+    ],
+    "correctIndex": 1,
+    "explanation": "Any person injured, killed, or has property damage exceeding $1000; a driver must notify the police immediately.",
+    "citation": "cite: 1244"
+  },
+  {
+    "id": 22,
+    "category": "Parking",
+    "question": "Within how many feet of a fire hydrant is parking prohibited?",
+    "options": [
+      "10 feet",
+      "15 feet",
+      "20 feet",
+      "25 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Do not park within fifteen (15) feet of a fire hydrant.",
+    "citation": "cite: 570"
+  },
+  {
+    "id": 23,
+    "category": "Parking",
+    "question": "Within how many feet of a crosswalk at an intersection is parking prohibited?",
+    "options": [
+      "15 feet",
+      "20 feet",
+      "25 feet",
+      "30 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Do not park within twenty (20) feet of a crosswalk at an intersection.",
+    "citation": "cite: 569"
+  },
+  {
+    "id": 24,
+    "category": "Parking",
+    "question": "Within how many feet of a traffic signal, stop sign, or yield sign is parking prohibited?",
+    "options": [
+      "20 feet",
+      "30 feet",
+      "40 feet",
+      "50 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Do not park within thirty (30) feet of a traffic signal, stop sign, or yield sign.",
+    "citation": "cite: 569"
+  },
+  {
+    "id": 25,
+    "category": "Parking",
+    "question": "Within how many feet of a railroad crossing is parking prohibited?",
+    "options": [
+      "25 feet",
+      "30 feet",
+      "50 feet",
+      "100 feet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Do not park within fifty (50) feet of a railroad crossing.",
+    "citation": "cite: 570"
+  },
+  {
+    "id": 26,
+    "category": "Emergencies",
+    "question": "What should you do if your vehicle begins to skid?",
+    "options": [
+      "Slam on the brakes",
+      "Steer in the opposite direction of the skid",
+      "Take your foot off the brake and steer in the direction you want the vehicle to go",
+      "Accelerate to regain traction"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stay off the Brake... Turn the steering wheel in the direction you want the vehicle to go.",
+    "citation": "cite: 1227-1229"
+  },
+  {
+    "id": 27,
+    "category": "Emergencies",
+    "question": "What is the first step you should take if your brakes fail?",
+    "options": [
+      "Use the parking brake immediately",
+      "Shift to a lower gear",
+      "Pump the brake pedal several times",
+      "Turn off the engine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pump the brake pedal several times. This will often build up enough brake pressure to allow you to stop.",
+    "citation": "cite: 1176"
+  },
+  {
+    "id": 28,
+    "category": "Emergencies",
+    "question": "What should you do during a tire blowout?",
+    "options": [
+      "Brake hard immediately",
+      "Hold the steering wheel tightly and keep the vehicle going straight",
+      "Steer sharply to the shoulder",
+      "Accelerate to maintain stability"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hold the steering wheel tightly and keep the vehicle going straight. Slow gradually.",
+    "citation": "cite: 1183-1184"
+  },
+  {
+    "id": 29,
+    "category": "Signs",
+    "question": "What does a round yellow sign with an 'X' and 'RR' mean?",
+    "options": [
+      "Railroad Crossing Exempt",
+      "Railroad Crossing Ahead (Advance Warning)",
+      "Road Repair",
+      "Do Not Enter"
+    ],
+    "correctIndex": 1,
+    "explanation": "The round black-on-yellow warning sign is placed ahead of a public highway-rail intersection.",
+    "citation": "cite: 454"
+  },
+  {
+    "id": 30,
+    "category": "Signs",
+    "question": "What shape is a stop sign?",
+    "options": [
+      "Round",
+      "Triangular",
+      "Octagon (8 sides)",
+      "Rectangular"
+    ],
+    "correctIndex": 2,
+    "explanation": "A stop sign is red with white letters and has eight (8) sides or octagon shaped.",
+    "citation": "cite: 419"
+  },
+  {
+    "id": 31,
+    "category": "Signs",
+    "question": "What does a triangular sign with the point facing down indicate?",
+    "options": [
+      "Stop",
+      "Yield",
+      "School Zone",
+      "No Passing"
+    ],
+    "correctIndex": 1,
+    "explanation": "A yield sign is a red and white or yellow and black that is triangular shaped.",
+    "citation": "cite: 444"
+  },
+  {
+    "id": 32,
+    "category": "Lane Markings",
+    "question": "What does a solid double yellow line in the center of the road mean?",
+    "options": [
+      "Passing is permitted from both sides",
+      "Passing is permitted only from the side with the broken line",
+      "Passing is prohibited for vehicles traveling in either direction",
+      "The lane is for turning only"
+    ],
+    "correctIndex": 2,
+    "explanation": "The double yellow line in the center of the roadway means passing is prohibited for vehicles traveling in either direction.",
+    "citation": "cite: 493-494"
+  },
+  {
+    "id": 33,
+    "category": "Lane Markings",
+    "question": "What does a broken white line between lanes indicate?",
+    "options": [
+      "Traffic is moving in opposite directions",
+      "You may cross the line to change lanes when safe; traffic is moving in the same direction",
+      "You may not cross the line",
+      "Parking is allowed"
+    ],
+    "correctIndex": 1,
+    "explanation": "A dashed white line between lanes of traffic indicates a driver may cross the line to change lanes, when safe. These lines separate lanes of traffic moving in the same direction.",
+    "citation": "cite: 489-490"
+  },
+  {
+    "id": 34,
+    "category": "General Driving",
+    "question": "When can you drive on the shoulder of the road?",
+    "options": [
+      "To pass a vehicle turning left",
+      "When traffic is heavy",
+      "Never, unless directed by a police officer",
+      "If you are driving a motorcycle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Never drive on the shoulder of any street or road, unless directed by a police officer.",
+    "citation": "cite: 504"
+  },
+  {
+    "id": 35,
+    "category": "Safe Driving",
+    "question": "What is the 'No-Zone' referring to?",
+    "options": [
+      "Areas where parking is prohibited",
+      "Blind spots around a tractor-trailer where cars disappear from the driver's view",
+      "Construction zones",
+      "School zones"
+    ],
+    "correctIndex": 1,
+    "explanation": "The blind spots along the sides and in the rear of a truck... 'No Zone'. A car can disappear; up to 20 feet in front... and up to 200 feet in the rear.",
+    "citation": "cite: 931-932"
+  },
+  {
+    "id": 36,
+    "category": "Safe Driving",
+    "question": "If you cannot see the truck driver in their side mirror, what does that mean?",
+    "options": [
+      "You are following at a safe distance",
+      "The truck driver cannot see you",
+      "The truck is about to turn",
+      "You are in a safe passing zone"
+    ],
+    "correctIndex": 1,
+    "explanation": "If you can't see the truck driver in the tractor side mirror, the driver can't see you.",
+    "citation": "cite: 933"
+  },
+  {
+    "id": 37,
+    "category": "Pedestrians",
+    "question": "Who has the absolute right-of-way at a crosswalk?",
+    "options": [
+      "The vehicle that arrives first",
+      "The pedestrian",
+      "Pedestrians using a guide dog or white cane",
+      "Vehicles turning right"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pedestrians using a guide dog or carrying a white cane have absolute right-of-way.",
+    "citation": "cite: 533"
+  },
+  {
+    "id": 38,
+    "category": "General Driving",
+    "question": "In a roundabout, who has the right of way?",
+    "options": [
+      "Vehicles entering the roundabout",
+      "Vehicles already in the circle",
+      "The faster vehicle",
+      "Vehicles exiting the roundabout"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drivers entering a traffic circle or rotary must yield to drivers already in the circle.",
+    "citation": "cite: 536"
+  },
+  {
+    "id": 39,
+    "category": "Driving Fitness",
+    "question": "How many alcoholic drinks does it take to affect your driving?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "explanation": "How many alcoholic drinks does it take to affect your driving, one drink?",
+    "citation": "cite: 1113"
+  },
+  {
+    "id": 40,
+    "category": "Driving Fitness",
+    "question": "How fast does the body rid itself of alcohol?",
+    "options": [
+      "Three drinks per hour",
+      "Two drinks per hour",
+      "One drink per hour",
+      "It depends on how much coffee you drink"
+    ],
+    "correctIndex": 2,
+    "explanation": "The body rids itself of alcohol at a rate of one (1) drink per hour.",
+    "citation": "cite: 1130"
+  },
+  {
+    "id": 41,
+    "category": "Distracted Driving",
+    "question": "Is texting while driving allowed for drivers over 18 in Arkansas?",
+    "options": [
+      "Yes, if they are experienced",
+      "No, texting is not allowed regardless of age",
+      "Yes, but only at stop lights",
+      "Yes, if using a hands-free device"
+    ],
+    "correctIndex": 1,
+    "explanation": "Text messages are not allowed regardless of age.",
+    "citation": "cite: 197"
+  },
+  {
+    "id": 42,
+    "category": "Signs",
+    "question": "What does a reflective orange triangle bordered with red on the back of a vehicle mean?",
+    "options": [
+      "Hazardous materials",
+      "Student driver",
+      "Slow Moving Vehicle (traveling 25 mph or less)",
+      "Emergency Vehicle"
+    ],
+    "correctIndex": 2,
+    "explanation": "A reflective orange triangle bordered with red warns other road users that the vehicle is traveling slower than the normal speed of traffic (usually 25 mph or less).",
+    "citation": "cite: 434, 788"
+  },
+  {
+    "id": 43,
+    "category": "General Driving",
+    "question": "When approaching an intersection with a 'Stop' sign and a white stop line, where must you stop?",
+    "options": [
+      "At the stop sign",
+      "After the stop sign where you can see traffic",
+      "At the stop line",
+      "In the crosswalk"
+    ],
+    "correctIndex": 2,
+    "explanation": "When approaching a stop sign you must stop your vehicle at the stop line if one is present.",
+    "citation": "cite: 521"
+  },
+  {
+    "id": 44,
+    "category": "Railroad Safety",
+    "question": "If railroad crossing gates are lowered and red lights are flashing, but no train is visible, what should you do?",
+    "options": [
+      "Drive around the gates carefully",
+      "Wait for the train to pass and the gates to raise",
+      "Call the police",
+      "Honk your horn and proceed"
+    ],
+    "correctIndex": 1,
+    "explanation": "When the gates are down... it is unsafe and illegal to cross. Even if the red lights continue to flash and no train appears, do not cross.",
+    "citation": "cite: 467, 470"
+  },
+  {
+    "id": 45,
+    "category": "General Driving",
+    "question": "On a wet road, by how much should you reduce your speed?",
+    "options": [
+      "5 mph",
+      "10 mph",
+      "Cut speed in half",
+      "Slow to a coast"
+    ],
+    "correctIndex": 1,
+    "explanation": "On a wet road, you should reduce your speed to 10 mph.",
+    "citation": "cite: 740"
+  },
+  {
+    "id": 46,
+    "category": "General Driving",
+    "question": "On packed snow, by how much should you reduce your speed?",
+    "options": [
+      "5 mph",
+      "10 mph",
+      "Cut speed in half",
+      "Slow to a coast"
+    ],
+    "correctIndex": 2,
+    "explanation": "On packed snow, you should cut your speed in half.",
+    "citation": "cite: 741"
+  },
+  {
+    "id": 47,
+    "category": "Signs",
+    "question": "What color are warning signs usually?",
+    "options": [
+      "Red",
+      "Yellow with black lettering",
+      "White with black lettering",
+      "Blue"
+    ],
+    "correctIndex": 1,
+    "explanation": "Warning Signs- These signs are yellow with black lettering or symbols.",
+    "citation": "cite: 446"
+  },
+  {
+    "id": 48,
+    "category": "Safe Driving",
+    "question": "How far ahead do high beam headlights allow you to see?",
+    "options": [
+      "200 feet",
+      "300 feet",
+      "400 feet",
+      "500 feet"
+    ],
+    "correctIndex": 2,
+    "explanation": "High beams let you see twice as far as low beams (about 400 feet ahead).",
+    "citation": "cite: 693, 804"
+  },
+  {
+    "id": 49,
+    "category": "Law",
+    "question": "Is it legal to use a cell phone while driving if you are under 18?",
+    "options": [
+      "Yes, for navigation only",
+      "Yes, with a hands-free device",
+      "No, except for an emergency",
+      "Yes, if no other passengers are in the car"
+    ],
+    "correctIndex": 2,
+    "explanation": "Under eighteen (18) years of age cell phone use is not allowed... prohibited by law except for an emergency.",
+    "citation": "cite: 182, 629"
+  },
+  {
+    "id": 50,
+    "category": "Safe Driving",
+    "question": "When merging with traffic, what gap size do you need?",
+    "options": [
+      "2 seconds",
+      "3 seconds",
+      "4 seconds",
+      "6 seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "When merging with other traffic, you need a gap of about four (4) seconds.",
+    "citation": "cite: 870"
+  }
+]
+
+[
+  {
+    "id": 51,
+    "category": "Parking",
+    "question": "When parallel parking, your vehicle should be within how many inches of the curb?",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "correctIndex": 2,
+    "explanation": "When parallel parking, your vehicle should be 18 inches or less from the curb.",
+    "citation": "cite: 562"
+  },
+  {
+    "id": 52,
+    "category": "Arkansas Law",
+    "question": "What is the penalty for a first conviction of an alcohol-related violation (DWI)?",
+    "options": [
+      "Fine from $150 to $1,000, up to 1 year in jail, and license suspension up to 120 days",
+      "Fine of $500 and 30 days in jail",
+      "Fine of $2,000 and license revocation",
+      "Community service only"
+    ],
+    "correctIndex": 0,
+    "explanation": "If you are found guilty of an alcohol violation and it is your first conviction, you will be fined from $150 to $1000... sentenced to one (1) year in jail, and your license could be suspended for 120 days.",
+    "citation": "cite: 1124-1125"
+  },
+  {
+    "id": 53,
+    "category": "Safe Driving",
+    "question": "If you are approaching a stopped school bus from the opposite direction on a highway divided by a median 20 feet or more in width, do you need to stop?",
+    "options": [
+      "Yes, all traffic must stop",
+      "No, you may proceed with caution",
+      "Yes, but only if you are in the lane closest to the median",
+      "No, unless the bus driver waves you down"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drivers are not required to stop if the school bus is approaching along an opposite lane of travel separated by a median twenty (20) feet or more in width.",
+    "citation": "cite: 286"
+  },
+  {
+    "id": 54,
+    "category": "Distracted Driving",
+    "question": "Sending or reading a text takes your eyes off the road for approximately how long?",
+    "options": [
+      "2 seconds",
+      "3 seconds",
+      "5 seconds",
+      "10 seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sending or reading a text takes your eyes off the road for 5 seconds. At 55 mph, that's like driving the length of a football field blind.",
+    "citation": "cite: 621"
+  },
+  {
+    "id": 55,
+    "category": "General Driving",
+    "question": "When driving at night, you should turn on your headlights:",
+    "options": [
+      "At sunset",
+      "1 hour after sunset until 1 hour before sunrise",
+      "30 minutes after sunset until 30 minutes before sunrise",
+      "Only when it is completely dark"
+    ],
+    "correctIndex": 2,
+    "explanation": "Turn on your headlights a ½ hour (30 minutes) after sunset, a ½ hour (30 minutes) before sunrise, or anytime you cannot see 500 feet ahead.",
+    "citation": "cite: 690"
+  },
+  {
+    "id": 56,
+    "category": "Signs",
+    "question": "What does a pennant-shaped (flag-shaped) sign located on the left side of the road indicate?",
+    "options": [
+      "School Crossing",
+      "No Passing Zone",
+      "Yield",
+      "Construction Zone"
+    ],
+    "correctIndex": 1,
+    "explanation": "A pennant-shaped sign typically indicates a No Passing Zone.",
+    "citation": "cite: 462"
+  },
+  {
+    "id": 57,
+    "category": "Safe Driving",
+    "question": "To determine if you are driving too fast for conditions at night, you should use the:",
+    "options": [
+      "Two Second Rule",
+      "Four Second Sight Distance Rule",
+      "Ten Second Rule",
+      "Headlight Distance Rule"
+    ],
+    "correctIndex": 1,
+    "explanation": "To determine if you are driving too fast for the conditions, use the 'Four Second Sight Distance Rule.' Don't drive faster than the distance you can see.",
+    "citation": "cite: 812"
+  },
+  {
+    "id": 58,
+    "category": "Emergencies",
+    "question": "If your vehicle's accelerator sticks (motor keeps running faster), what is the first thing you should do?",
+    "options": [
+      "Turn off the ignition immediately",
+      "Keep your eyes on the road and quickly shift to neutral",
+      "Pump the gas pedal",
+      "Slam on the brakes"
+    ],
+    "correctIndex": 1,
+    "explanation": "If the motor keeps running faster... Keep your eyes on the road. Quickly shift to neutral. Pull off the road when safe.",
+    "citation": "cite: 1192-1193"
+  },
+  {
+    "id": 59,
+    "category": "Lane Markings",
+    "question": "What is a 'fog line'?",
+    "options": [
+      "A dashed white line in the center of the road",
+      "A solid yellow line on the left edge",
+      "A solid white line along the side of the roadway",
+      "A blue line near fire hydrants"
+    ],
+    "correctIndex": 2,
+    "explanation": "A solid white line along the side of the roadway that tells the driver where the outer edge is located (Fog Line).",
+    "citation": "cite: 488"
+  },
+  {
+    "id": 60,
+    "category": "Alcohol & Drugs",
+    "question": "If you refuse to take an alcohol test when requested by a law enforcement officer, what is the penalty?",
+    "options": [
+      "A fine of $100",
+      "You can lose your driver's license",
+      "You will be given a warning",
+      "There is no penalty if you are sober"
+    ],
+    "correctIndex": 1,
+    "explanation": "You can lose your driver’s license if you refuse to take an alcohol test.",
+    "citation": "cite: 1123"
+  },
+  {
+    "id": 61,
+    "category": "Safe Driving",
+    "question": "When can you legally use a cell phone while driving if you are under 18?",
+    "options": [
+      "Never",
+      "Only for navigation",
+      "Only in an emergency",
+      "If a parent is in the car"
+    ],
+    "correctIndex": 2,
+    "explanation": "Under eighteen (18) years of age cell phone use is not allowed... prohibited by law except for an emergency.",
+    "citation": "cite: 182"
+  },
+  {
+    "id": 62,
+    "category": "General Driving",
+    "question": "You should not pass another vehicle if you are within how many miles of a hill or curve?",
+    "options": [
+      "1/4 mile",
+      "1/3 mile",
+      "1/2 mile",
+      "1 mile"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drivers should not pass if you are within 1/3 of a mile of a hill or curve.",
+    "citation": "cite: 904"
+  },
+  {
+    "id": 63,
+    "category": "Truck Safety",
+    "question": "A fully loaded tractor-trailer traveling at 55 mph may take how far to stop?",
+    "options": [
+      "225 feet",
+      "300 feet",
+      "More than 335 feet",
+      "400 feet"
+    ],
+    "correctIndex": 2,
+    "explanation": "A fully loaded tractor-trailer traveling at 55 miles per hour may take more than 335 feet to come to a complete stop.",
+    "citation": "cite: 922"
+  },
+  {
+    "id": 64,
+    "category": "Safe Driving",
+    "question": "When driving in fog, snow, or heavy rain, which lights should you use?",
+    "options": [
+      "High beam headlights",
+      "Low beam headlights",
+      "Parking lights only",
+      "Emergency flashers only"
+    ],
+    "correctIndex": 1,
+    "explanation": "When driving in fog, snow, or heavy rain you should use your low headlight beams. High beams cause glare.",
+    "citation": "cite: 697"
+  },
+  {
+    "id": 65,
+    "category": "Pedestrians",
+    "question": "If you see a pedestrian crossing the street with a guide dog or white cane, you must:",
+    "options": [
+      "Honk to let them know you are there",
+      "Slow down and proceed around them",
+      "Give them absolute right-of-way and stop",
+      "Treat them like any other pedestrian"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pedestrians using a guide dog or carrying a white cane have absolute right-of-way. Do not use your horn.",
+    "citation": "cite: 533"
+  },
+  {
+    "id": 66,
+    "category": "Signs",
+    "question": "What is the meaning of a 'Do Not Enter' sign?",
+    "options": [
+      "You are on a one-way street",
+      "The road is closed for repairs",
+      "You are not allowed to enter the path or road",
+      "Enter with caution"
+    ],
+    "correctIndex": 2,
+    "explanation": "The do not enter sign... means something is not allowed.",
+    "citation": "cite: 445"
+  },
+  {
+    "id": 67,
+    "category": "General Driving",
+    "question": "It is illegal to park within how many feet of a fire station driveway on the same side of the street?",
+    "options": [
+      "15 feet",
+      "20 feet",
+      "50 feet",
+      "75 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Do not park within twenty (20) feet of a fire station driveway on the same side of the street.",
+    "citation": "cite: 570"
+  },
+  {
+    "id": 68,
+    "category": "General Driving",
+    "question": "When making a left turn, you should avoid:",
+    "options": [
+      "Checking your mirrors",
+      "Using your signal",
+      "Cutting the corners",
+      "Slowing down"
+    ],
+    "correctIndex": 2,
+    "explanation": "When turning left, avoid cutting the corners. Turning sharp could cause you to hit a vehicle approaching from the left.",
+    "citation": "cite: 515"
+  },
+  {
+    "id": 69,
+    "category": "Work Zones",
+    "question": "What color are work zone signs typically?",
+    "options": [
+      "Yellow with black letters",
+      "White with black letters",
+      "Orange with black letters",
+      "Green with white letters"
+    ],
+    "correctIndex": 2,
+    "explanation": "Work Zone signs... may be diamond or rectangular shaped, and the background may be orange... with black letters.",
+    "citation": "cite: 344"
+  },
+  {
+    "id": 70,
+    "category": "Safe Driving",
+    "question": "In a crash, your seat belt keeps you:",
+    "options": [
+      "From being thrown from the vehicle",
+      "From hitting the dashboard",
+      "In a position to control the vehicle",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "explanation": "Seat belts are designed to distribute force... Without this... belt's ability to protect you is decreased. (Inferred from Seat Belt section).",
+    "citation": "cite: 584"
+  },
+  {
+    "id": 71,
+    "category": "General Driving",
+    "question": "Who goes first at a 4-way stop?",
+    "options": [
+      "The vehicle that is biggest",
+      "The vehicle that is fastest",
+      "The driver reaching the intersection first",
+      "The driver to the left"
+    ],
+    "correctIndex": 2,
+    "explanation": "At '3 WAY,' '4 WAY,' and 'ALL WAY' stop signs, the driver reaching the intersection first goes first, after making a complete stop.",
+    "citation": "cite: 545"
+  },
+  {
+    "id": 72,
+    "category": "Alcohol & Drugs",
+    "question": "A single drink is considered to be:",
+    "options": [
+      "1.5 oz of 80-proof liquor, 6 oz of wine, or 12 oz of beer",
+      "2 oz of 80-proof liquor, 8 oz of wine, or 16 oz of beer",
+      "1 oz of 80-proof liquor, 4 oz of wine, or 8 oz of beer",
+      "Any amount of alcohol in a glass"
+    ],
+    "correctIndex": 0,
+    "explanation": "A single drink is considered 1.5 ounces of (80) proof liquor... a 6-ounce glass of wine or a 12-ounce container of beer.",
+    "citation": "cite: 1127"
+  },
+  {
+    "id": 73,
+    "category": "Signs",
+    "question": "A steady red arrow means:",
+    "options": [
+      "You may turn if the way is clear",
+      "Stop, you may not turn in the direction of the arrow",
+      "Stop, then proceed with caution",
+      "Slow down and turn"
+    ],
+    "correctIndex": 1,
+    "explanation": "A steady red arrow means stop. A red arrow on a traffic light means you may not turn in the direction of the arrow.",
+    "citation": "cite: 407-408"
+  },
+  {
+    "id": 74,
+    "category": "Emergencies",
+    "question": "If your headlights suddenly go out, you should:",
+    "options": [
+      "Brake immediately",
+      "Try the headlight switch, use flashers/fog lights, and pull off the road",
+      "Drive slowly to the nearest service station",
+      "Ignore it if there are streetlights"
+    ],
+    "correctIndex": 1,
+    "explanation": "Try the headlight switch a few times. If that does not work, put on the emergency flashers... Pull off the road as soon as possible.",
+    "citation": "cite: 1189-1191"
+  },
+  {
+    "id": 75,
+    "category": "Passing",
+    "question": "You should strictly avoid passing another vehicle:",
+    "options": [
+      "On a multilane highway",
+      "When the vehicle is traveling below the speed limit",
+      "On a curve or hill where your view is obstructed",
+      "When the dashed yellow line is on your side"
+    ],
+    "correctIndex": 2,
+    "explanation": "Drivers should not pass if you are within, 1/3 of a mile of a hill or curve.",
+    "citation": "cite: 904"
+  },
+  {
+    "id": 76,
+    "category": "Arkansas Law",
+    "question": "The 'Move Over Law' applies to which vehicles?",
+    "options": [
+      "Only police cars",
+      "Only ambulances and fire trucks",
+      "Police, fire, ambulances, ARDOT, utility, and towing vehicles with flashing lights",
+      "Any vehicle on the shoulder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arkansas law requires motorists to 'move over' for police cars, fire trucks, ambulances... Arkansas has expanded the law to include... ARDOT vehicles, Utility vehicles, Construction vehicles, Tow trucks.",
+    "citation": "cite: 272, 380"
+  },
+  {
+    "id": 77,
+    "category": "Safe Driving",
+    "question": "When driving in the city, you should look down the road at least:",
+    "options": [
+      "One car length",
+      "One city block",
+      "One mile",
+      "100 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "To avoid last-minute braking... you should look down the road at least one (1) city block, when driving in the city.",
+    "citation": "cite: 638"
+  },
+  {
+    "id": 78,
+    "category": "Intersections",
+    "question": "If two vehicles arrive at a 4-way stop at the same time, who goes first?",
+    "options": [
+      "The vehicle on the left",
+      "The vehicle on the right",
+      "The vehicle turning left",
+      "The vehicle going straight"
+    ],
+    "correctIndex": 1,
+    "explanation": "At an intersection where there is no stop sign or traffic signal, drivers must yield to vehicles approaching from the right. (Standard right-of-way rule applied to stops).",
+    "citation": "cite: 543"
+  },
+  {
+    "id": 79,
+    "category": "General Driving",
+    "question": "Is it legal to back your vehicle in a travel lane?",
+    "options": [
+      "Yes, if you missed your turn",
+      "Yes, if the road is empty",
+      "No, never back a vehicle in any travel lane",
+      "Only on city streets"
+    ],
+    "correctIndex": 2,
+    "explanation": "Never back a vehicle in any travel lane, it is illegal and unsafe.",
+    "citation": "cite: 498"
+  },
+  {
+    "id": 80,
+    "category": "General Driving",
+    "question": "What is the safest way to change lanes?",
+    "options": [
+      "Check mirrors and move over quickly",
+      "Signal, check mirrors, look over your shoulder to check blind spots, then move",
+      "Signal and move immediately",
+      "Honk your horn and move"
+    ],
+    "correctIndex": 1,
+    "explanation": "Look in your rear-view and side mirrors... Look over your shoulder in the direction you plan to move... check your blind spot.",
+    "citation": "cite: 660-664"
+  },
+  {
+    "id": 81,
+    "category": "Safe Driving",
+    "question": "How should your hands be placed on the steering wheel?",
+    "options": [
+      "10 o'clock and 2 o'clock",
+      "9 o'clock and 3 o'clock",
+      "On opposite sides of the steering wheel",
+      "At the bottom of the wheel"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hands should be placed on opposite sides of the steering wheel. (Note: 10 and 2 is mentioned for turning to avoid collisions, but 'opposite sides' is the general rule stated).",
+    "citation": "cite: 602"
+  },
+  {
+    "id": 82,
+    "category": "General Driving",
+    "question": "When passing a vehicle, when is it safe to return to your lane?",
+    "options": [
+      "When you can see the driver in your side mirror",
+      "When you are 10 feet ahead",
+      "When you can see both headlights of the vehicle you passed in your rearview mirror",
+      "Immediately after passing"
+    ],
+    "correctIndex": 2,
+    "explanation": "At night, when you can see both headlights of the vehicle you passed in your rear-view mirror, it is safe to return to the driving lane.",
+    "citation": "cite: 911"
+  },
+  {
+    "id": 83,
+    "category": "Safe Driving",
+    "question": "If you are being tailgated, what should you do?",
+    "options": [
+      "Brake check the driver",
+      "Speed up",
+      "Move to the right lane if possible, or reduce speed gradually to allow them to pass",
+      "Turn on your hazard lights"
+    ],
+    "correctIndex": 2,
+    "explanation": "If... you are being 'tailgated' move into the right lane, if possible. If there is no right lane, wait until the path ahead is clear and reduce speed.",
+    "citation": "cite: 850-851"
+  },
+  {
+    "id": 84,
+    "category": "Alcohol & Drugs",
+    "question": "Can you be charged with DWI if your BAC is below 0.08%?",
+    "options": [
+      "No, never",
+      "Yes, if you are involved in a crash or serious traffic offense (0.04% to 0.08%)",
+      "Yes, only if you are under 21",
+      "No, that is the legal limit"
+    ],
+    "correctIndex": 1,
+    "explanation": "In Arkansas, if involved in a traffic crash or involved in a serious traffic offense, you can be charged with DWI with a blood alcohol content between 0.08% and 0.04%.",
+    "citation": "cite: 1136"
+  },
+  {
+    "id": 85,
+    "category": "General Driving",
+    "question": "When parking on a hill, you should:",
+    "options": [
+      "Leave the car in neutral",
+      "Turn the wheels sharply away from traffic to prevent rolling into traffic",
+      "Keep the wheels straight",
+      "Only use the emergency brake"
+    ],
+    "correctIndex": 1,
+    "explanation": "When parking on a hill, turn the wheels sharply away from traffic to prevent the car from rolling into traffic.",
+    "citation": "cite: 565"
+  },
+  {
+    "id": 86,
+    "category": "Signs",
+    "question": "A sign with a yellow background and black letters labeled 'Exempt' at a railroad crossing means:",
+    "options": [
+      "You do not have to stop",
+      "The crossing is abandoned or use is discontinued (follow local procedure)",
+      "Only buses must stop",
+      "Trains always stop before crossing"
+    ],
+    "correctIndex": 1,
+    "explanation": "An EXEMPT sign means that the crossing has been abandoned or its use discontinued. Follow your local procedure about stopping.",
+    "citation": "cite: 474"
+  },
+  {
+    "id": 87,
+    "category": "Traffic Signals",
+    "question": "What should you do if the traffic signal is green but the intersection is blocked?",
+    "options": [
+      "Enter the intersection and wait",
+      "Honk at the cars blocking it",
+      "Do not start across the intersection until traffic is clear",
+      "Drive around the block"
+    ],
+    "correctIndex": 2,
+    "explanation": "Even with a green light, do not start across the intersection until traffic is clear. You could get caught in the intersection... and block traffic.",
+    "citation": "cite: 883"
+  },
+  {
+    "id": 88,
+    "category": "General Driving",
+    "question": "What is the speed limit on a county road if no sign is posted?",
+    "options": [
+      "30 mph",
+      "40 mph",
+      "45 mph",
+      "55 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "If a county judge has not established a speed limit... then the speed limit shall be forty miles per hour (40 m.p.h.) on the county road.",
+    "citation": "cite: 437"
+  },
+  {
+    "id": 89,
+    "category": "Pedestrians",
+    "question": "If you see a bicyclist with a red or orange pennant flag, what does it mean?",
+    "options": [
+      "They are a novice rider",
+      "They are carrying cargo",
+      "The rider has impaired hearing",
+      "It is a rental bike"
+    ],
+    "correctIndex": 2,
+    "explanation": "If you see a bicyclist with a red or orange pennant flag... this is a symbol to indicate the rider has impaired hearing.",
+    "citation": "cite: 987"
+  },
+  {
+    "id": 90,
+    "category": "Law Enforcement",
+    "question": "If you are stopped by a law enforcement officer, where should you place your hands?",
+    "options": [
+      "In your lap",
+      "On the top of the steering wheel",
+      "Out the window",
+      "On the dashboard"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ensure that both hands are visible to the officer as he or she approaches (ex: always place your hands at the top of the steering wheel).",
+    "citation": "cite: 48"
+  },
+  {
+    "id": 91,
+    "category": "Signs",
+    "question": "What shape is a school zone or school crossing sign?",
+    "options": [
+      "Diamond",
+      "Round",
+      "Pentagon (5 sides)",
+      "Rectangular"
+    ],
+    "correctIndex": 2,
+    "explanation": "School Zone/School Crossing signs are shown as pentagon shaped (house shaped) in the diagrams.",
+    "citation": "cite: 448 (Visual)"
+  },
+  {
+    "id": 92,
+    "category": "Alcohol & Drugs",
+    "question": "Does eating food prevent you from getting intoxicated?",
+    "options": [
+      "Yes, always",
+      "No, it only slows the rate at which alcohol enters the blood",
+      "Yes, if you eat bread",
+      "No, food has no effect"
+    ],
+    "correctIndex": 1,
+    "explanation": "Food slows the rate at which alcohol enters the blood; it will not prevent you from getting intoxicated.",
+    "citation": "cite: 1132"
+  },
+  {
+    "id": 93,
+    "category": "Emergencies",
+    "question": "When can you leave the scene of a crash involving injury or death?",
+    "options": [
+      "After checking on the victim",
+      "Once the ambulance arrives",
+      "Not until police have talked with you and collected all information",
+      "Immediately to get help"
+    ],
+    "correctIndex": 2,
+    "explanation": "A driver cannot leave the scene of a crash with injury or death until police have talked with the driver(s) and collected all information.",
+    "citation": "cite: 1245"
+  },
+  {
+    "id": 94,
+    "category": "Safe Driving",
+    "question": "If you approach a curve, when should you slow down?",
+    "options": [
+      "While in the curve",
+      "Before entering the curve",
+      "After exiting the curve",
+      "You don't need to slow down"
+    ],
+    "correctIndex": 1,
+    "explanation": "Slow down before a curve, so you don't have to brake in the curve.",
+    "citation": "cite: 736"
+  },
+  {
+    "id": 95,
+    "category": "Safe Driving",
+    "question": "What is the primary cause of skids?",
+    "options": [
+      "Driving too slow",
+      "Driving too fast for conditions",
+      "Bad tires",
+      "Antilock brakes"
+    ],
+    "correctIndex": 1,
+    "explanation": "The vast majority of skids are caused by drivers traveling too fast for the conditions.",
+    "citation": "cite: 1235"
+  },
+  {
+    "id": 96,
+    "category": "Safe Driving",
+    "question": "If you drive off the pavement onto the shoulder, what should you do?",
+    "options": [
+      "Jerk the wheel back to the road immediately",
+      "Brake hard",
+      "Slow down, keep a strong grip on the wheel, and steer back when safe",
+      "Stop on the shoulder"
+    ],
+    "correctIndex": 2,
+    "explanation": "This specific maneuver isn't explicitly detailed in the text provided, but general emergency principles apply (grip wheel, slow down). However, based on skid/blowout advice: 'Slow gradually... keep the vehicle going straight.'",
+    "citation": "cite: 1184 (Inferred)"
+  },
+  {
+    "id": 97,
+    "category": "Lane Markings",
+    "question": "Can you pass if there is a solid yellow line on your side of the center line?",
+    "options": [
+      "Yes, if clear",
+      "No",
+      "Yes, if the car ahead is slow",
+      "Only during the day"
+    ],
+    "correctIndex": 1,
+    "explanation": "Passing is NOT permitted on the side with the solid line.",
+    "citation": "cite: 492 (Visual)"
+  },
+  {
+    "id": 98,
+    "category": "General Driving",
+    "question": "Drivers turning left must yield to:",
+    "options": [
+      "Vehicles behind them",
+      "Oncoming cars traveling straight ahead",
+      "No one",
+      "Vehicles turning right"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drivers turning left must yield to oncoming cars traveling straight ahead.",
+    "citation": "cite: 535"
+  },
+  {
+    "id": 99,
+    "category": "General Driving",
+    "question": "It is illegal to park within how many feet of a railroad crossing?",
+    "options": [
+      "15 feet",
+      "20 feet",
+      "30 feet",
+      "50 feet"
+    ],
+    "correctIndex": 3,
+    "explanation": "Do not park within fifty (50) feet of a railroad crossing.",
+    "citation": "cite: 570"
+  },
+  {
+    "id": 100,
+    "category": "Seat Belts",
+    "question": "A seat belt should be worn:",
+    "options": [
+      "Loosely for comfort",
+      "Across the upper chest and upper thighs (pelvis)",
+      "Across the stomach",
+      "Under the arm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wear a diagonal belt across the upper chest... Adjust the lower strap, so it fits across the upper thighs and not the abdominal region.",
+    "citation": "cite: 581, 586"
+  }
+]
+[
+  {
+    "id": 101,
+    "category": "Arkansas Law",
+    "question": "What is the fine for a first offense of littering in Arkansas?",
+    "options": [
+      "$50 to $250",
+      "$100 to $1,000",
+      "$500 fixed",
+      "No fine, just community service"
+    ],
+    "correctIndex": 1,
+    "explanation": "A person convicted of a first offense of littering shall be fined not less than one hundred dollars ($100) and not more than one thousand dollars ($1,000).",
+    "citation": "cite: 483"
+  },
+  {
+    "id": 102,
+    "category": "Arkansas Law",
+    "question": "In addition to a fine, what is the maximum community service for a first littering offense?",
+    "options": [
+      "4 hours",
+      "8 hours",
+      "24 hours",
+      "40 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "An additional sentence of not more than eight (8) hours of community service shall be imposed for a first littering offense.",
+    "citation": "cite: 484"
+  },
+  {
+    "id": 103,
+    "category": "Arkansas Law",
+    "question": "If litter is thrown from a motor vehicle, who is usually held responsible?",
+    "options": [
+      "The owner of the vehicle",
+      "The front seat passenger",
+      "The driver of the vehicle",
+      "Everyone in the car"
+    ],
+    "correctIndex": 2,
+    "explanation": "If littering is done from a motor vehicle, it is prima facie evidence that the act was done by the driver.",
+    "citation": "cite: 503-504"
+  },
+  {
+    "id": 104,
+    "category": "Law Enforcement",
+    "question": "If you are unsure if you are being stopped by an actual police officer at night, you should:",
+    "options": [
+      "Speed up to a police station",
+      "Stop immediately anywhere",
+      "Activate turn signal, pull to a well-lit location, and dial 9-1-1",
+      "Keep driving until they use a loudspeaker"
+    ],
+    "correctIndex": 2,
+    "explanation": "If unsure, activate your turn signal, pull to the nearest well-lit location, dial 9-1-1, and request a police officer confirmation.",
+    "citation": "cite: 512"
+  },
+  {
+    "id": 105,
+    "category": "Law Enforcement",
+    "question": "When stopped by an officer, where should you NOT stop your vehicle?",
+    "options": [
+      "On a side street",
+      "In a parking lot",
+      "On bridges or overpasses",
+      "On the right shoulder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pull to the closest safest spot out of the traffic lane, but do not stop on bridges or overpasses.",
+    "citation": "cite: 513"
+  },
+  {
+    "id": 106,
+    "category": "Law Enforcement",
+    "question": "Arkansas law requires you to provide which three documents when requested by an officer?",
+    "options": [
+      "License, Registration, and Birth Certificate",
+      "License, Insurance, and Title",
+      "License, Proof of Insurance, and Vehicle Registration",
+      "License, Social Security Card, and Insurance"
+    ],
+    "correctIndex": 2,
+    "explanation": "You are required to provide your driver's license, proof of insurance, and vehicle registration when requested.",
+    "citation": "cite: 529"
+  },
+  {
+    "id": 107,
+    "category": "Law Enforcement",
+    "question": "If you have a weapon in the vehicle during a traffic stop, you should:",
+    "options": [
+      "Hand it to the officer immediately",
+      "Hide it under the seat",
+      "Inform the officer of its location and type without reaching for it",
+      "Only tell the officer if they ask"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inform the officer if there is a weapon, its type, and location. Do not reach for it.",
+    "citation": "cite: 532-533"
+  },
+  {
+    "id": 108,
+    "category": "Vision",
+    "question": "What is the minimum uncorrected visual acuity required for an unrestricted Arkansas license?",
+    "options": [
+      "20/20",
+      "20/40",
+      "20/50",
+      "20/70"
+    ],
+    "correctIndex": 1,
+    "explanation": "A minimum uncorrected visual acuity of 20/40 is required for an unrestricted license.",
+    "citation": "cite: 116"
+  },
+  {
+    "id": 109,
+    "category": "Vision",
+    "question": "What is the minimum field of vision required for a person with two functional eyes?",
+    "options": [
+      "90 degrees",
+      "105 degrees",
+      "140 degrees",
+      "180 degrees"
+    ],
+    "correctIndex": 2,
+    "explanation": "Your field of vision must be 140 degrees for a person with two functional eyes.",
+    "citation": "cite: 117"
+  },
+  {
+    "id": 110,
+    "category": "Arkansas Law",
+    "question": "New residents must obtain an Arkansas driver's license within how many days?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "Within thirty (30) calendar days of becoming a resident, you must obtain an Arkansas driver’s license.",
+    "citation": "cite: 50"
+  },
+  {
+    "id": 111,
+    "category": "License Types",
+    "question": "At what age can an individual first apply for an Arkansas instruction permit?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctIndex": 1,
+    "explanation": "To apply for an instruction permit, the applicant must be at least fourteen (14) years of age.",
+    "citation": "cite: 71"
+  },
+  {
+    "id": 112,
+    "category": "Work Zones",
+    "question": "What happens to fines for moving traffic violations in a Work Zone when workers are present?",
+    "options": [
+      "They are reduced",
+      "They stay the same",
+      "They double",
+      "They triple"
+    ],
+    "correctIndex": 2,
+    "explanation": "If a driver receives a citation for any moving traffic violation in a Work Zone (when workers are present), they will pay double the fine.",
+    "citation": "cite: 208"
+  },
+  {
+    "id": 113,
+    "category": "Work Zones",
+    "question": "What is the maximum potential fine for doubled violations in a Work Zone?",
+    "options": [
+      "$1,000",
+      "$2,500",
+      "$5,000",
+      "$10,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Depending on the traffic violation, doubled fines in work zones can be as high as $5,000.",
+    "citation": "cite: 210"
+  },
+  {
+    "id": 114,
+    "category": "Arkansas Law",
+    "question": "Arkansas law requires drivers to turn on headlights when which of the following is in use?",
+    "options": [
+      "The radio",
+      "The air conditioner",
+      "Windshield wipers",
+      "Cruise control"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arkansas law requires drivers to turn on their headlights when windshield wipers are needed.",
+    "citation": "cite: 266"
+  },
+  {
+    "id": 115,
+    "category": "Safe Driving",
+    "question": "You should turn on your headlights if you cannot see a person or object clearly within how many feet?",
+    "options": [
+      "200 feet",
+      "500 feet",
+      "800 feet",
+      "1,000 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Turn on headlights anytime you cannot see a person or object clearly within 500 feet.",
+    "citation": "cite: 267"
+  },
+  {
+    "id": 116,
+    "category": "Safe Driving",
+    "question": "At 40 mph, what is the total estimated stopping distance?",
+    "options": [
+      "50 feet",
+      "124 feet",
+      "225 feet",
+      "400 feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "At 40 mph, it can take about 124 feet total stopping distance.",
+    "citation": "cite: 281"
+  },
+  {
+    "id": 117,
+    "category": "Safe Driving",
+    "question": "Your headlights allow you to see about 400 feet ahead. You should drive at a speed that allows you to stop within that distance, which is about:",
+    "options": [
+      "35 mph",
+      "50 mph",
+      "65 mph",
+      "70 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "Headlights let you see about 400 feet ahead. You should drive at a speed that allows you to stop within this distance, which is around 50 mph.",
+    "citation": "cite: 287"
+  },
+  {
+    "id": 118,
+    "category": "Passing",
+    "question": "At 55 mph, how many seconds do you need to safely pass another vehicle?",
+    "options": [
+      "5 seconds",
+      "10 seconds",
+      "15 seconds",
+      "20 seconds"
+    ],
+    "correctIndex": 1,
+    "explanation": "At a speed of 55 mph, you need about ten (10) seconds to pass.",
+    "citation": "cite: 302"
+  },
+  {
+    "id": 119,
+    "category": "Passing",
+    "question": "To pass safely at 55 mph, you need how much open space (distance)?",
+    "options": [
+      "500 feet",
+      "800 feet",
+      "1,600 feet (1/3 of a mile)",
+      "1 mile"
+    ],
+    "correctIndex": 2,
+    "explanation": "At 55 mph, a driver will need over 1600 feet or 1/3 of a mile to safely pass.",
+    "citation": "cite: 306"
+  },
+  {
+    "id": 120,
+    "category": "Motorcycles",
+    "question": "When following a motorcycle, what is the recommended following distance?",
+    "options": [
+      "2 seconds",
+      "3 seconds",
+      "4 to 6 seconds",
+      "10 seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "Allow more following distance, at least four (4) to six (6) seconds, when following a motorcycle.",
+    "citation": "cite: 339"
+  },
+  {
+    "id": 121,
+    "category": "Motorcycles",
+    "question": "Why should you allow more space when following a motorcycle?",
+    "options": [
+      "Motorcycles can stop more quickly than a car",
+      "Motorcycles are slower",
+      "Motorcycle riders are often beginners",
+      "Motorcycles have better vision"
+    ],
+    "correctIndex": 0,
+    "explanation": "In dry conditions, motorcycles can stop more quickly than a car.",
+    "citation": "cite: 340"
+  },
+  {
+    "id": 122,
+    "category": "Motorcycles",
+    "question": "Is it legal to share a lane with a motorcycle?",
+    "options": [
+      "Yes, if the lane is wide enough",
+      "Yes, in slow traffic",
+      "No, a motorcycle is entitled to a full lane width",
+      "Only if the motorcyclist signals you to"
+    ],
+    "correctIndex": 2,
+    "explanation": "The motorcycle is entitled to a full lane... Do not attempt to share the lane with a motorcycle.",
+    "citation": "cite: 336-337"
+  },
+  {
+    "id": 123,
+    "category": "Alcohol & Drugs",
+    "question": "What is the breath/blood alcohol concentration (BAC) limit for an Underage Driving Under the Influence arrest?",
+    "options": [
+      "0.01%",
+      "0.02%",
+      "0.04%",
+      "0.08%"
+    ],
+    "correctIndex": 1,
+    "explanation": "You can be arrested for Underage Driving Under the Influence if your alcohol concentration is 0.02% breath or blood alcohol concentration.",
+    "citation": "cite: 363"
+  },
+  {
+    "id": 124,
+    "category": "Alcohol & Drugs",
+    "question": "A person under 21 convicted of Underage DUI may have their license revoked until they reach what age?",
+    "options": [
+      "18",
+      "19",
+      "21",
+      "25"
+    ],
+    "correctIndex": 2,
+    "explanation": "If found guilty of Underage DUI, you could have your license revoked until you reach twenty-one (21) years of age.",
+    "citation": "cite: 364"
+  },
+  {
+    "id": 125,
+    "category": "Emergencies",
+    "question": "If you are involved in a crash, Arkansas law requires you to:",
+    "options": [
+      "Leave the vehicle where it is to show the police",
+      "Move the vehicle from the roadway if possible so it doesn't block traffic",
+      "Immediately run for help",
+      "Wait for a tow truck before moving anything"
+    ],
+    "correctIndex": 1,
+    "explanation": "Arkansas Law requires that if you are involved in a traffic crash you should, move the vehicle from the roadway; so, it doesn’t block traffic.",
+    "citation": "cite: 390-391"
+  },
+  {
+    "id": 126,
+    "category": "Emergencies",
+    "question": "If you hit a parked vehicle and cannot find the owner, you should:",
+    "options": [
+      "Drive away",
+      "Wait for 24 hours",
+      "Leave a note with your name, address, and contact info",
+      "Call a lawyer first"
+    ],
+    "correctIndex": 2,
+    "explanation": "In case you are involved in a crash with a parked vehicle, you must try to locate the owner. (Note: Leaving a note is the standard legal procedure when the owner is not found).",
+    "citation": "cite: 391"
+  },
+  {
+    "id": 127,
+    "category": "Vehicle Safety",
+    "question": "How far should you sit from the steering wheel to avoid the risk zone of an airbag?",
+    "options": [
+      "5 inches",
+      "10 inches",
+      "15 inches",
+      "24 inches"
+    ],
+    "correctIndex": 1,
+    "explanation": "Placing yourself 10 inches from your driver airbag provides you with a clear margin of safety.",
+    "citation": "cite: 409"
+  },
+  {
+    "id": 128,
+    "category": "Vehicle Safety",
+    "question": "When should you adjust your mirrors?",
+    "options": [
+      "While driving on the highway",
+      "Before you start driving",
+      "Only if they get bumped",
+      "Every 50 miles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adjust your rearview and side mirrors before you start driving.",
+    "citation": "cite: 413"
+  },
+  {
+    "id": 129,
+    "category": "Vehicle Safety",
+    "question": "What must you do before starting the engine?",
+    "options": [
+      "Turn on the lights",
+      "Check the oil",
+      "Make sure your parking brake is set",
+      "Fasten your seatbelt after starting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Always make sure your parking brake is set before starting the engine.",
+    "citation": "cite: 425"
+  },
+  {
+    "id": 130,
+    "category": "Skills Exam",
+    "question": "A skills test will NOT be given if the vehicle has which of the following?",
+    "options": [
+      "A dirty exterior",
+      "A working radio",
+      "Tinted windows that are excessively dark",
+      "Leather seats"
+    ],
+    "correctIndex": 2,
+    "explanation": "A skills test will not be given if the windows are excessively tinted.",
+    "citation": "cite: 438"
+  },
+  {
+    "id": 131,
+    "category": "Skills Exam",
+    "question": "Are 'donut' spare tires allowed on a vehicle during the driving skills exam?",
+    "options": [
+      "Yes",
+      "No",
+      "Only on the rear of the vehicle",
+      "Only if the speed is under 30 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "No donut spares are allowed on the vehicle during the skills test.",
+    "citation": "cite: 437"
+  },
+  {
+    "id": 132,
+    "category": "Arkansas Law",
+    "question": "Commercial littering (involving a business) is classified as what type of crime?",
+    "options": [
+      "Unclassified misdemeanor",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Infraction"
+    ],
+    "correctIndex": 1,
+    "explanation": "A person found to have committed littering in furtherance of a commercial enterprise shall be guilty of a Class A misdemeanor.",
+    "citation": "cite: 488"
+  },
+  {
+    "id": 133,
+    "category": "Arkansas Law",
+    "question": "If you are passing an emergency vehicle on the side of the road and cannot move over to the far lane, you must:",
+    "options": [
+      "Stop",
+      "Maintain speed but honk",
+      "Reduce your speed",
+      "Speed up to get past quickly"
+    ],
+    "correctIndex": 2,
+    "explanation": "If it is unsafe or not possible to change lanes... the law requires you to reduce your speed as you pass.",
+    "citation": "cite: 553"
+  },
+  {
+    "id": 134,
+    "category": "Graduated Licensing",
+    "question": "A Learner's License is restricted until when?",
+    "options": [
+      "The applicant's 15th birthday",
+      "The applicant's 16th birthday AND completion of 6 months restricted driving",
+      "The applicant passes the road test",
+      "One year after issuance"
+    ],
+    "correctIndex": 1,
+    "explanation": "This license will be restricted until the applicant’s sixteenth (16th) birthday AND the six (6) months of restricted driving is complete.",
+    "citation": "cite: 78"
+  },
+  {
+    "id": 135,
+    "category": "Graduated Licensing",
+    "question": "An Intermediate License holder (age 16-18) cannot drive between which hours unless for school, work, or church?",
+    "options": [
+      "9:00 pm and 6:00 am",
+      "10:00 pm and 5:00 am",
+      "11:00 pm and 4:00 am",
+      "Midnight and 6:00 am"
+    ],
+    "correctIndex": 2,
+    "explanation": "A driver with an intermediate driver’s license cannot operate a motor vehicle between the hours of 11:00 pm and 4:00 am.",
+    "citation": "cite: 90"
+  },
+  {
+    "id": 136,
+    "category": "Graduated Licensing",
+    "question": "How many unrelated minor passengers can an Intermediate License holder have without an adult present?",
+    "options": [
+      "None",
+      "One (1)",
+      "Two (2)",
+      "Unlimited"
+    ],
+    "correctIndex": 1,
+    "explanation": "A driver with an intermediate license shall not operate a motor vehicle with more than one (1) unrelated minor passenger unless accompanied by a licensed driver twenty-one (21) years or older.",
+    "citation": "cite: 89"
+  },
+  {
+    "id": 137,
+    "category": "Vehicle Maintenance",
+    "question": "If your windshield wipers are not working, you will fail the vehicle inspection for the skills test.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "explanation": "Windshield and wipers are part of the inspection, and a test will not be given if the examiner recognizes mechanical defects.",
+    "citation": "cite: 432, 434"
+  },
+  {
+    "id": 138,
+    "category": "Lane Markings",
+    "question": "A dashed yellow line between opposing lanes means:",
+    "options": [
+      "You may pass if there is no opposing traffic",
+      "Passing is prohibited",
+      "One way traffic only",
+      "Prepare to stop"
+    ],
+    "correctIndex": 0,
+    "explanation": "A broken yellow line between opposing lanes of traffic indicates a driver may cross to pass if there is no opposing traffic.",
+    "citation": "cite: 226"
+  },
+  {
+    "id": 139,
+    "category": "Safe Driving",
+    "question": "In Arkansas, you can use a center turn lane for which of the following?",
+    "options": [
+      "To pass slow traffic",
+      "As an acceleration lane to merge",
+      "To gain access or merge from an intersecting street/driveway",
+      "To park temporarily"
+    ],
+    "correctIndex": 2,
+    "explanation": "It is permissible... to utilize a center turn lane as part of the maneuver to gain access or merge into traffic lanes, but not as an acceleration lane.",
+    "citation": "cite: 231"
+  },
+  {
+    "id": 140,
+    "category": "Arkansas Law",
+    "question": "What is the fee for each written examination in Arkansas?",
+    "options": [
+      "Free",
+      "$2.00",
+      "$5.00",
+      "$10.00"
+    ],
+    "correctIndex": 2,
+    "explanation": "Act 1289 of 2015 requires a $5.00 fee for each written examination.",
+    "citation": "cite: 43"
+  },
+  {
+    "id": 141,
+    "category": "Emergencies",
+    "question": "You should NOT stop at a crash scene unless:",
+    "options": [
+      "You want to see what happened",
+      "You are involved or emergency help has not arrived",
+      "You have a camera",
+      "You are in a hurry"
+    ],
+    "correctIndex": 1,
+    "explanation": "Do not stop at a crash unless you are involved, or emergency help has not arrived.",
+    "citation": "cite: 384"
+  },
+  {
+    "id": 142,
+    "category": "Driver Fitness",
+    "question": "Which of the following can affect your driving ability?",
+    "options": [
+      "Alcohol",
+      "Over-the-counter cold medicines",
+      "Prescription drugs for allergies",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "explanation": "Many prescription drugs or over-the-counter drugs... such as drugs for headaches, colds, hay fever, or other allergies... can make a person drowsy and affect their driving skills.",
+    "citation": "cite: 368"
+  },
+  {
+    "id": 143,
+    "category": "Law Enforcement",
+    "question": "If you are stopped at night, what should you do with your interior lights?",
+    "options": [
+      "Keep them off to save the battery",
+      "Turn them on so the officer can see you",
+      "Flash them to signal the officer",
+      "Only turn them on if asked"
+    ],
+    "correctIndex": 1,
+    "explanation": "If you are stopped at night, turn on the interior lights, so that the officer can see you more clearly.",
+    "citation": "cite: 522"
+  },
+  {
+    "id": 144,
+    "category": "Graduated Licensing",
+    "question": "Can a Learner's License holder (age 14-16) use a cell phone for texting while driving?",
+    "options": [
+      "Yes",
+      "No, except for an emergency",
+      "Only if they are at a red light",
+      "Yes, if using a hands-free device"
+    ],
+    "correctIndex": 1,
+    "explanation": "The use of a cell phone, whether it is talking or texting, is prohibited by law except for an emergency.",
+    "citation": "cite: 80"
+  },
+  {
+    "id": 145,
+    "category": "Arkansas Law",
+    "question": "The 'Move Over' law for stopped emergency vehicles with lights flashing carries a fine of up to:",
+    "options": [
+      "$100",
+      "$250",
+      "$500",
+      "$1,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "If a driver is found guilty of this law (Move Over Law), they can be fined up to $500.",
+    "citation": "cite: 181"
+  },
+  {
+    "id": 146,
+    "category": "Arkansas Law",
+    "question": "A person convicted of littering for a second time within three years can be fined up to:",
+    "options": [
+      "$500",
+      "$1,000",
+      "$2,000",
+      "$5,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "A second offense within three (3) years... shall be fined... not more than two thousand dollars ($2,000).",
+    "citation": "cite: 485"
+  },
+  {
+    "id": 147,
+    "category": "Graduated Licensing",
+    "question": "To obtain a Class M (Motorcycle) license, an applicant must be at least:",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "21"
+    ],
+    "correctIndex": 1,
+    "explanation": "This license (Class M) is a non-restricted motorcycle license issued to persons sixteen (16) years of age or older.",
+    "citation": "cite: 96"
+  },
+  {
+    "id": 148,
+    "category": "Graduated Licensing",
+    "question": "A Class MD (Motor Driven Cycle) license is restricted to cycles displacing how many cubic centimeters (cc) or less?",
+    "options": [
+      "50 cc",
+      "150 cc",
+      "250 cc",
+      "500 cc"
+    ],
+    "correctIndex": 2,
+    "explanation": "The MD License is restricted to operating motorcycles displacing 250 cubic centimeters or less.",
+    "citation": "cite: 108"
+  },
+  {
+    "id": 149,
+    "category": "Arkansas Law",
+    "question": "Is it legal to drive with a window tint darker than 25% on the front side windows during a skills exam?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if you have a medical waiver",
+      "Only if the back windows are clear"
+    ],
+    "correctIndex": 1,
+    "explanation": "Window tint darker than 25% on the front... will be denied (for the skills test).",
+    "citation": "cite: snippet from back"
+  },
+  {
+    "id": 150,
+    "category": "General Driving",
+    "question": "Arkansas law requires that any vehicle transporting litter or garbage must be:",
+    "options": [
+      "Painted yellow",
+      "Driven only at night",
+      "Covered to prevent contents from blowing or falling off",
+      "Inspected every 30 days"
+    ],
+    "correctIndex": 2,
+    "explanation": "It shall be unlawful... to transport litter, trash, or garbage unless the vehicle is covered to prevent its contents from blowing, dropping, falling off.",
+    "citation": "cite: 499-500"
+  }
+]
+
+[
+  {
+    "id": 151,
+    "category": "Sharing the Road",
+    "question": "When sharing the road with bicycles, you should always expect the rider to:",
+    "options": [
+      "Stop at every intersection",
+      "Ride on the sidewalk",
+      "Make sudden moves due to road hazards",
+      "Signal with their feet"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "When sharing the road with bicycles, you should always expect the rider to make sudden moves. Hazards like potholes, glass, or barking dogs can force a cyclist to swerve suddenly. [cite: 332, 333]",
+    "citation": "cite: 332-333"
+  },
+  {
+    "id": 152,
+    "category": "Sharing the Road",
+    "question": "Arkansas law requires that a driver give a cyclist how much space?",
+    "options": [
+      "The entire lane, if possible",
+      "At least 2 feet",
+      "The shoulder only",
+      "A bicycle does not have lane rights"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drivers should give the cyclist the entire lane, if possible. [cite_start]Bicycles have the same rights and responsibilities on the streets as other vehicles. [cite: 329, 336]",
+    "citation": "cite: 329, 336"
+  },
+  {
+    "id": 153,
+    "category": "Sharing the Road",
+    "question": "Bicyclists are required to ride:",
+    "options": [
+      "Facing oncoming traffic",
+      "On the right-hand side of the road with traffic",
+      "Only on the shoulder",
+      "In the center of the lane at all times"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bicycles are required to travel on the right-hand side of the road with other traffic. [cite_start]They are not allowed to travel facing oncoming traffic. [cite: 330, 331]",
+    "citation": "cite: 330-331"
+  },
+  {
+    "id": 154,
+    "category": "Motorcycles",
+    "question": "When making a left turn across oncoming traffic, you should look for motorcyclists because:",
+    "options": [
+      "They always have the right of way",
+      "They are smaller and harder to see",
+      "They are required to signal with their hands",
+      "They travel faster than cars"
+    ],
+    "correctIndex": 1,
+    "explanation": "Accidents often happen because one driver does not see another. [cite_start]Motorcycles are smaller and can be easily hidden in blind spots. [cite: 261, 348]",
+    "citation": "cite: 261, 348"
+  },
+  {
+    "id": 155,
+    "category": "Motorcycles",
+    "question": "Why should you never 'gate-keep' or share a lane with a motorcycle?",
+    "options": [
+      "It is rude",
+      "The motorcycle needs the full lane width to maneuver safely",
+      "The motorcycle is faster",
+      "It is only legal for two motorcycles to share a lane"
+    ],
+    "correctIndex": 1,
+    "explanation": "The motorcycle is entitled to a full lane and may need room to maneuver safely. [cite_start]Do not attempt to share the lane with a motorcycle. [cite: 353, 354]",
+    "citation": "cite: 353-354"
+  },
+  {
+    "id": 156,
+    "category": "Emergencies",
+    "question": "If your vehicle begins to skid, the first thing you should do is:",
+    "options": [
+      "Slam on the brakes",
+      "Stay off the brake",
+      "Shift to neutral",
+      "Turn off the engine"
+    ],
+    "correctIndex": 1,
+    "explanation": "If your vehicle begins to skid, stay off the brake. [cite_start]Your brakes will not work until the vehicle slows down, and hitting them could make the skid worse. [cite: 404, 405]",
+    "citation": "cite: 404-405"
+  },
+  {
+    "id": 157,
+    "category": "Emergencies",
+    "question": "To recover from a skid, you should steer:",
+    "options": [
+      "Away from the direction of the skid",
+      "In the direction you want the vehicle to go",
+      "Straight ahead and wait",
+      "Toward the shoulder"
+    ],
+    "correctIndex": 1,
+    "explanation": "Turn the steering wheel in the direction you want the vehicle to go. [cite_start]Continue to correct your steering left and right until you gain control. [cite: 406, 409]",
+    "citation": "cite: 406, 409"
+  },
+  {
+    "id": 158,
+    "category": "Right of Way",
+    "question": "When reaching a '4-WAY' stop at the same time as another driver, who goes first?",
+    "options": [
+      "The driver on the left",
+      "The driver who is turning",
+      "The driver on the right",
+      "The fastest vehicle"
+    ],
+    "correctIndex": 2,
+    "explanation": "While not explicitly in the snippet provided for 'simultaneous' arrival, the manual notes the driver reaching the intersection first goes first. [cite_start]Standard rules (and Arkansas law) dictate yielding to the driver on the right if arriving simultaneously. [cite: 237]",
+    "citation": "cite: 237"
+  },
+  {
+    "id": 159,
+    "category": "Right of Way",
+    "question": "Drivers crossing a sidewalk when exiting a driveway or alley must:",
+    "options": [
+      "Honk to warn pedestrians",
+      "Speed up to clear the sidewalk",
+      "Yield to pedestrians",
+      "Wait for a green light"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "Drivers crossing a sidewalk when entering or exiting a driveway, alley, or parking lot must yield to pedestrians. [cite: 238]",
+    "citation": "cite: 238"
+  },
+  {
+    "id": 160,
+    "category": "Right of Way",
+    "question": "Is it legal to drive on a sidewalk?",
+    "options": [
+      "Yes, to bypass traffic",
+      "No, except to cross it",
+      "Yes, if no pedestrians are present",
+      "Only for delivery vehicles"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "It is illegal to drive on a sidewalk except to cross it. [cite: 239]",
+    "citation": "cite: 239"
+  },
+  {
+    "id": 161,
+    "category": "Arkansas Law",
+    "question": "Under the 'Move Over' law, which vehicles are covered besides police and fire?",
+    "options": [
+      "ARDOT vehicles",
+      "Utility and construction vehicles",
+      "Tow trucks",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    [cite_start]"explanation": "Arkansas has expanded the law to include ARDOT vehicles, utility vehicles, construction vehicles, and tow trucks with flashing lights. [cite: 193]",
+    "citation": "cite: 193"
+  },
+  {
+    "id": 162,
+    "category": "Distracted Driving",
+    "question": "What is the cell phone law for drivers under 18 years of age?",
+    "options": [
+      "They can use hands-free devices",
+      "Cell phone use is not allowed at all, even hands-free",
+      "They can text but not talk",
+      "They can use phones if a parent is in the car"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under eighteen (18) years of age, cell phone use is not allowed. [cite_start]The use of hands-free devices is also not allowed for this age group. [cite: 251, 252]",
+    "citation": "cite: 251-252"
+  },
+  {
+    "id": 163,
+    "category": "Distracted Driving",
+    "question": "Drivers 18 years of age or older are permitted to use:",
+    "options": [
+      "Hand-held devices for texting",
+      "Hands-free devices (though not recommended)",
+      "Any device they choose",
+      "Only social media apps"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Drivers 18 years of age or older may use a hands-free device, even though it is not recommended. [cite: 252]",
+    "citation": "cite: 252"
+  },
+  {
+    "id": 164,
+    "category": "Parking",
+    "question": "What is the minimum fine for a first offense of illegally parking in a handicapped space?",
+    "options": [
+      "$50",
+      "$100",
+      "$250",
+      "$500"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The penalty for a first offense of illegally using an accessible parking space is a minimum of $100.00. [cite: 173]",
+    "citation": "cite: 173"
+  },
+  {
+    "id": 165,
+    "category": "Parking",
+    "question": "A 'Special Certificate' for accessible parking must be displayed by:",
+    "options": [
+      "Attaching it to the license plate",
+      "Hanging it from the rearview mirror or dashboard",
+      "Keeping it in the glove box",
+      "Taping it to the side window"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The special certificate is to be displayed hanging from the rearview mirror or the dashboard. [cite: 169]",
+    "citation": "cite: 169"
+  },
+  {
+    "id": 166,
+    "category": "Safe Driving",
+    "question": "Arkansas law requires headlights to be turned on:",
+    "options": [
+      "Only when it is pitch black",
+      "30 minutes after sunset until 30 minutes before sunrise",
+      "From 6 PM to 6 AM fixed",
+      "Only when outside of city limits"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Turn on your headlights a 1/2 hour (30 minutes) after sunset and a 1/2 hour (30 minutes) before sunrise. [cite: 268]",
+    "citation": "cite: 268"
+  },
+  {
+    "id": 167,
+    "category": "Lane Markings",
+    "question": "A solid white line along the side of the roadway is called a:",
+    "options": [
+      "Stop line",
+      "Fog line",
+      "Center line",
+      "Yield line"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A solid white line along the side of the roadway is the fog line, which tells the driver where the outer edge is located. [cite: 198]",
+    "citation": "cite: 198"
+  },
+  {
+    "id": 168,
+    "category": "Lane Markings",
+    "question": "A dashed white line between lanes of traffic means:",
+    "options": [
+      "Traffic is moving in opposite directions",
+      "You may cross to change lanes when safe",
+      "You must stay in your lane",
+      "The lane is ending"
+    ],
+    "correctIndex": 1,
+    "explanation": "A dashed white line between lanes indicates a driver may cross the line to change lanes when safe. [cite_start]These lines separate traffic moving in the same direction. [cite: 199, 200]",
+    "citation": "cite: 199-200"
+  },
+  {
+    "id": 169,
+    "category": "Lane Markings",
+    "question": "A solid double yellow line in the center of the road means:",
+    "options": [
+      "Passing is allowed for one side only",
+      "Passing is prohibited for vehicles in both directions",
+      "You may pass slow-moving tractors",
+      "The road is one-way"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The double yellow line in the center of the roadway means passing is prohibited for vehicles traveling in either direction. [cite: 204]",
+    "citation": "cite: 204"
+  },
+  {
+    "id": 170,
+    "category": "General Driving",
+    "question": "When can you back a vehicle in a travel lane?",
+    "options": [
+      "If you miss your exit",
+      "Never; it is illegal and unsafe",
+      "Only on one-way streets",
+      "If there are no other cars behind you"
+    ],
+    "correctIndex": 1,
+    "explanation": "Never back a vehicle in any travel lane; it is illegal and unsafe. [cite_start]If you miss your turn, proceed to a safe turnaround area. [cite: 208, 209]",
+    "citation": "cite: 208-209"
+  },
+  {
+    "id": 171,
+    "category": "General Driving",
+    "question": "On a road with three or more lanes in the same direction, you should stay in the right lane except to:",
+    "options": [
+      "Turn right",
+      "Pass slower vehicles",
+      "Let others merge",
+      "Drive faster than the speed limit"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "On a road with three or more lanes traveling in the same direction, remain in the right lane except to pass. [cite: 212]",
+    "citation": "cite: 212"
+  },
+  {
+    "id": 172,
+    "category": "Passing",
+    "question": "When passing on a multi-lane road, which lane is intended for passing?",
+    "options": [
+      "The right lane",
+      "The shoulder",
+      "The leftmost lane",
+      "The center lane"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "On multi-lane roads, the leftmost lane is intended to be used to pass slower vehicles. [cite: 215]",
+    "citation": "cite: 215"
+  },
+  {
+    "id": 173,
+    "category": "Safe Driving",
+    "question": "When merging with traffic, how large of a gap do you need?",
+    "options": [
+      "2 seconds",
+      "4 seconds",
+      "6 seconds",
+      "10 seconds"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "When merging with other traffic, you need a gap of about four (4) seconds. [cite: 281]",
+    "citation": "cite: 281"
+  },
+  {
+    "id": 174,
+    "category": "Safe Driving",
+    "question": "If you are crossing a highway, you should not stop in the median unless:",
+    "options": [
+      "You are tired",
+      "The median is large enough for your entire vehicle to fit",
+      "You want to check your map",
+      "The light turns yellow"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Never stop in a median divider too small for your vehicle, where your vehicle may be left sticking out into the path of other vehicles. [cite: 291]",
+    "citation": "cite: 291"
+  },
+  {
+    "id": 175,
+    "category": "Passing",
+    "question": "At 55 mph, how much time do you need to pass an oncoming vehicle safely?",
+    "options": [
+      "5 seconds",
+      "10 seconds",
+      "15 seconds",
+      "20 seconds"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "At a speed of 55 mph, you need about ten (10) seconds to pass. [cite: 302]",
+    "citation": "cite: 302"
+  },
+  {
+    "id": 176,
+    "category": "Graduated Licensing",
+    "question": "An individual must be at least what age to apply for an instruction permit?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "To apply for an instruction permit, the applicant must be at least fourteen (14) years of age. [cite: 70]",
+    "citation": "cite: 70"
+  },
+  {
+    "id": 177,
+    "category": "Graduated Licensing",
+    "question": "How long is an Arkansas Instruction Permit valid?",
+    "options": [
+      "6 months",
+      "1 year",
+      "2 years",
+      "Until your 18th birthday"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "The permit will be issued for 2 (two) years from the date of the passed knowledge exam. [cite: 72]",
+    "citation": "cite: 72"
+  },
+  {
+    "id": 178,
+    "category": "Arkansas Law",
+    "question": "What is the fee for the written driver's license examination?",
+    "options": [
+      "Free",
+      "$2.00",
+      "$5.00",
+      "$10.00"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "Act 1289 of 2015 requires a $5.00 fee for each written examination. [cite: 43]",
+    "citation": "cite: 43"
+  },
+  {
+    "id": 179,
+    "category": "Vehicle Maintenance",
+    "question": "Before starting your engine, you should always:",
+    "options": [
+      "Turn on the headlights",
+      "Set the parking brake",
+      "Open the windows",
+      "Honk the horn"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Always make sure your parking brake is set before starting the engine. [cite: 436]",
+    "citation": "cite: 436"
+  },
+  {
+    "id": 180,
+    "category": "Skills Exam",
+    "question": "Which of the following will cause a vehicle to fail the pre-test inspection?",
+    "options": [
+      "A broken radio",
+      "A dirty exterior",
+      "A speedometer that does not work",
+      "Lack of leather seats"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "A skills test will not be given if the speedometer does not work. [cite: 447]",
+    "citation": "cite: 447"
+  },
+  {
+    "id": 181,
+    "category": "Arkansas Law",
+    "question": "New residents must obtain an Arkansas license within how many days?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Drivers are required to have an Arkansas driver’s license within thirty (30) days of becoming a resident. [cite: 48]",
+    "citation": "cite: 48"
+  },
+  {
+    "id": 182,
+    "category": "Graduated Licensing",
+    "question": "Who must a Learner's License holder (age 14-16) drive with?",
+    "options": [
+      "Anyone with a license",
+      "A licensed driver at least 18 years old",
+      "A licensed driver at least 21 years old",
+      "They can drive alone during daylight"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "A person operating a motor vehicle with a Learner’s License must be accompanied by a licensed driver who is at least twenty-one (21) years of age. [cite: 78]",
+    "citation": "cite: 78"
+  },
+  {
+    "id": 183,
+    "category": "Graduated Licensing",
+    "question": "A Learner's License applicant cannot have a serious traffic violation within how many months prior to application?",
+    "options": [
+      "3 months",
+      "6 months",
+      "12 months",
+      "24 months"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The applicant cannot be involved in any traffic crash or be convicted of a serious traffic violation within the preceding six (6) months prior to application. [cite: 80]",
+    "citation": "cite: 80"
+  },
+  {
+    "id": 184,
+    "category": "Right of Way",
+    "question": "When entering a road from a driveway or alley, you must yield to:",
+    "options": [
+      "Only pedestrians",
+      "Vehicles already on the main road",
+      "Only emergency vehicles",
+      "No one; they must yield to you"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Drivers entering a road from a driveway, alley, or roadside must yield to vehicles already on the main road. [cite: 240]",
+    "citation": "cite: 240"
+  },
+  {
+    "id": 185,
+    "category": "Alcohol & Drugs",
+    "question": "The blood alcohol concentration (BAC) limit for a person under 21 to be arrested for Underage DUI is:",
+    "options": [
+      "0.01%",
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "You can be arrested for Underage Driving Under the Influence if your alcohol concentration is 0.02% breath or blood alcohol concentration. [cite: 380]",
+    "citation": "cite: 380"
+  },
+  {
+    "id": 186,
+    "category": "Arkansas Law",
+    "question": "Littering from a motor vehicle is usually blamed on:",
+    "options": [
+      "The owner of the vehicle",
+      "The driver of the vehicle",
+      "The person in the back seat",
+      "The person who threw it"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "If littering was done from a motor vehicle, it shall be prima facie evidence that the act was done by the driver of the motor vehicle. [cite: 515]",
+    "citation": "cite: 515"
+  },
+  {
+    "id": 187,
+    "category": "Law Enforcement",
+    "question": "When stopped by an officer, where should you place your hands?",
+    "options": [
+      "In your pockets",
+      "Out the window",
+      "At the top of the steering wheel",
+      "Under your seat"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "Ensure that both hands are visible to the officer as he or she approaches (ex: always place your hands at the top of the steering wheel). [cite: 529]",
+    "citation": "cite: 529"
+  },
+  {
+    "id": 188,
+    "category": "Law Enforcement",
+    "question": "If you are stopped at night, what should you do with your interior lights?",
+    "options": [
+      "Keep them off to see the officer better",
+      "Turn them on so the officer can see you",
+      "Flash them to show you are stopping",
+      "Turn them on only if asked"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "If you are stopped at night, turn on the interior lights, so that the officer can see you more clearly. [cite: 533]",
+    "citation": "cite: 533"
+  },
+  {
+    "id": 189,
+    "category": "Sharing the Road",
+    "question": "Motorcyclists have the right to:",
+    "options": [
+      "Share a lane with a car",
+      "A full lane width",
+      "Speed because they are light",
+      "Ride on the shoulder to avoid traffic"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The motorcycle is entitled to a full lane and may need room to maneuver safely. [cite: 353]",
+    "citation": "cite: 353"
+  },
+  {
+    "id": 190,
+    "category": "Sharing the Road",
+    "question": "In dry conditions, motorcycles can stop:",
+    "options": [
+      "Much slower than a car",
+      "More quickly than a car",
+      "In the same distance as a car",
+      "Only with the help of the engine"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "In dry conditions, motorcycles can stop more quickly than a car. [cite: 357]",
+    "citation": "cite: 357"
+  },
+  {
+    "id": 191,
+    "category": "Emergencies",
+    "question": "If you are involved in a crash, you should not stop at the scene unless:",
+    "options": [
+      "You want to take photos",
+      "You are involved or emergency help has not arrived",
+      "You are a witness for the news",
+      "You have a first aid kit"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Do not stop at a crash unless you are involved, or emergency help has not arrived. [cite: 412]",
+    "citation": "cite: 412"
+  },
+  {
+    "id": 192,
+    "category": "Vehicle Maintenance",
+    "question": "Which system warns other drivers and could save your life?",
+    "options": [
+      "The radio",
+      "The horn",
+      "The exhaust",
+      "The air conditioning"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The horn is an important safety device that warns other drivers and could save your life. [cite: 438]",
+    "citation": "cite: 438"
+  },
+  {
+    "id": 193,
+    "category": "Safe Driving",
+    "question": "You should turn on your headlights anytime you cannot see a person or object within:",
+    "options": [
+      "100 feet",
+      "200 feet",
+      "500 feet",
+      "1,000 feet"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "Turn on your headlights anytime you cannot see a person or object clearly within 500 feet. [cite: 268]",
+    "citation": "cite: 268"
+  },
+  {
+    "id": 194,
+    "category": "Law Enforcement",
+    "question": "If you are unsure if the person stopping you is a real police officer, you should:",
+    "options": [
+      "Speed up to get away",
+      "Stop immediately in the middle of the road",
+      "Activate turn signal, go to a well-lit location, and dial 9-1-1",
+      "Wait for them to use their siren"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "If unsure, activate your turn signal, pull to the nearest well-lit location, dial 9-1-1, and request a police officer confirmation. [cite: 523]",
+    "citation": "cite: 523"
+  },
+  {
+    "id": 195,
+    "category": "Arkansas Law",
+    "question": "A first offense of commercial littering (business-related) is what type of crime?",
+    "options": [
+      "Unclassified misdemeanor",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Simple infraction"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A person found to have committed littering in furtherance of a commercial enterprise shall be guilty of commercial littering and shall be guilty of a Class A misdemeanor. [cite: 499]",
+    "citation": "cite: 499"
+  },
+  {
+    "id": 196,
+    "category": "Parking",
+    "question": "A Special Certificate for disabled parking must be returned within how many days of the owner's death?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Special Certificates must be returned to the Department of Motor Vehicles within thirty (30) days of moving or in case of death. [cite: 175]",
+    "citation": "cite: 175"
+  },
+  {
+    "id": 197,
+    "category": "Lane Markings",
+    "question": "A solid yellow line next to a broken yellow line means:",
+    "options": [
+      "Neither side may pass",
+      "Both sides may pass",
+      "The side with the broken line may pass if safe",
+      "Only the side with the solid line may pass"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "With a solid line and a broken yellow line, a driver may pass if there is no opposing traffic (on the side with the broken line). [cite: 202]",
+    "citation": "cite: 202"
+  },
+  {
+    "id": 198,
+    "category": "Right of Way",
+    "question": "You should not enter an intersection unless:",
+    "options": [
+      "The light is green",
+      "You can get through without stopping",
+      "You are in a hurry",
+      "You honk first"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Drivers may not enter an intersection unless they can get through it without having to stop. [cite: 241]",
+    "citation": "cite: 241"
+  },
+  {
+    "id": 199,
+    "category": "Distracted Driving",
+    "question": "Which of the following involves three types of distraction at once (visual, manual, and cognitive)?",
+    "options": [
+      "Listening to the radio",
+      "Texting or talking on a hand-held phone",
+      "Talking to a passenger",
+      "Checking the speedometer"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Texting or talking on a hand-held cell phone involves three different types of distraction that occur at the same time. [cite: 250]",
+    "citation": "cite: 250"
+  },
+  {
+    "id": 200,
+    "category": "Arkansas Law",
+    "question": "Discarding an old vehicle tire on a highway right-of-way is:",
+    "options": [
+      "Legal if it is a 'donut' spare",
+      "Unlawful and carries specific penalties",
+      "Allowed if the tire is flat",
+      "Only illegal if it causes a crash"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "It shall be unlawful for any person to place any junk motor vehicle, old vehicle tire... upon the right-of-way of any public highway. [cite: 513]",
+    "citation": "cite: 513"
+  }
+]
+
+
+[
+  {
+    "id": 151,
+    "category": "Road Signs",
+    "question": "A diamond-shaped sign with black lettering or symbols on a yellow background is a:",
+    "options": [
+      "Regulatory sign",
+      "Warning sign",
+      "Service sign",
+      "Destination sign"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Warning signs are typically yellow with black lettering or symbols, and most are diamond-shaped. They warn a driver to slow down and be prepared to stop if necessary[cite: 208, 209].",
+    "citation": "cite: 208, 209"
+  },
+  {
+    "id": 152,
+    "category": "Road Signs",
+    "question": "A triangular shaped sign that is red and white (or yellow and black) is a:",
+    "options": [
+      "Stop sign",
+      "Yield sign",
+      "No Passing zone sign",
+      "Railroad crossing sign"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A yield sign is triangular shaped and displays the word 'YIELD' or 'YIELD RIGHT OF WAY'[cite: 206].",
+    "citation": "cite: 206"
+  },
+  {
+    "id": 153,
+    "category": "Road Signs",
+    "question": "What does a round yellow sign with a black 'X' and the letters 'RR' indicate?",
+    "options": [
+      "A sharp turn ahead",
+      "A restricted roadway",
+      "A railroad crossing advance warning",
+      "A no-passing zone"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "The round black-on-yellow warning sign is an Advance Warning sign placed ahead of a public highway-rail intersection[cite: 216, 217].",
+    "citation": "cite: 216, 217"
+  },
+  {
+    "id": 154,
+    "category": "Tractor-Trailers",
+    "question": "The 'No-Zone' refers to:",
+    "options": [
+      "The area where you cannot park",
+      "Blind spots around a large truck where crashes are most likely to occur",
+      "A lane designated for emergency vehicles only",
+      "The speed limit in a construction zone"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Motorists must be familiar with a truck’s capabilities and avoid the 'No-Zone,' which are the blind spots where the truck driver cannot see you[cite: 330, 40].",
+    "citation": "cite: 40, 330"
+  },
+  {
+    "id": 155,
+    "category": "Tractor-Trailers",
+    "question": "When following a large truck, if you cannot see the truck's side mirrors, then:",
+    "options": [
+      "You are in a safe 'slipstream'",
+      "The truck driver cannot see you",
+      "You should speed up to pass",
+      "You are at a safe following distance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trucks have large blind spots. [cite_start]If you cannot see the driver's mirrors, the driver cannot see your vehicle[cite: 40].",
+    "citation": "cite: 40"
+  },
+  {
+    "id": 156,
+    "category": "Emergency Maneuvers",
+    "question": "If your tires lose all contact with the road and start to 'hydroplane' on water, you should:",
+    "options": [
+      "Slam on the brakes immediately",
+      "Keep your foot on the gas and steer sharply",
+      "Slow down gradually by taking your foot off the gas pedal",
+      "Turn on your high beams"
+    ],
+    "correctIndex": 2,
+    "explanation": "On wet roads, tires can lose grip. [cite_start]If your vehicle begins to skid or lose contact, you should stay off the brake and steer in the direction you want to go until you gain control[cite: 398, 400, 403].",
+    "citation": "cite: 398, 400, 403"
+  },
+  {
+    "id": 157,
+    "category": "Emergency Maneuvers",
+    "question": "At what speed should you reduce your driving on a wet road to maintain safety?",
+    "options": [
+      "Reduce speed by 5 mph",
+      "Reduce speed to 10 mph",
+      "Cut speed in half",
+      "Drive at the posted limit"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "On a wet road, you should reduce your speed to 10 mph to avoid losing traction[cite: 300].",
+    "citation": "cite: 300"
+  },
+  {
+    "id": 158,
+    "category": "Arkansas Law",
+    "question": "Following successful completion of driver testing, applicants will be asked if they wish to register as:",
+    "options": [
+      "A voter",
+      "An organ or tissue donor",
+      "A volunteer firefighter",
+      "A member of the State Police"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Arkansas license applicants will be asked whether they wish to register as organ or tissue donors[cite: 376].",
+    "citation": "cite: 376"
+  },
+  {
+    "id": 159,
+    "category": "Arkansas Law",
+    "question": "If you choose to be an organ donor, where will this be indicated?",
+    "options": [
+      "Only in a private medical database",
+      "On a sticker on your windshield",
+      "Printed on the front of your Arkansas driver's license",
+      "In a letter mailed to your home"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "The words 'Organ Donor' will be printed on the front of the Arkansas driver’s license for those who choose to participate[cite: 377].",
+    "citation": "cite: 377"
+  },
+  {
+    "id": 160,
+    "category": "Sharing the Road",
+    "question": "Arkansas law requires that a driver give a cyclist how much space?",
+    "options": [
+      "The entire lane, if possible",
+      "At least 2 feet",
+      "The shoulder only",
+      "A bicycle does not have lane rights"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drivers should give the cyclist the entire lane, if possible. [cite_start]Bicycles have the same rights and responsibilities on the streets as other vehicles[cite: 351, 67].",
+    "citation": "cite: 351, 67"
+  },
+  {
+    "id": 161,
+    "category": "Arkansas Law",
+    "question": "The 'Move Over' law in Arkansas covers which of the following stopped vehicles?",
+    "options": [
+      "Police and fire trucks only",
+      "Ambulances and ARDOT vehicles",
+      "Utility, construction, and tow trucks with flashing lights",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    [cite_start]"explanation": "Arkansas has expanded the Move Over law to include police, fire, ambulances, ARDOT vehicles, utility vehicles, construction vehicles, and tow trucks with flashing lights[cite: 198, 201].",
+    "citation": "cite: 198, 201"
+  },
+  {
+    "id": 162,
+    "category": "Distracted Driving",
+    "question": "What is the cell phone law for drivers under 18 years of age?",
+    "options": [
+      "They can use hands-free devices",
+      "Cell phone use is not allowed at all, even hands-free",
+      "They can text but not talk",
+      "They can use phones if a parent is in the car"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under eighteen (18) years of age, cell phone use is not allowed. [cite_start]The use of hands-free devices is also not allowed for this age group[cite: 268, 269].",
+    "citation": "cite: 268, 269"
+  },
+  {
+    "id": 163,
+    "category": "Distracted Driving",
+    "question": "Which of the following is considered one of the most dangerous distractions because it involves visual, manual, and cognitive distraction simultaneously?",
+    "options": [
+      "Listening to the radio",
+      "Texting on a hand-held cell phone",
+      "Talking to a passenger",
+      "Checking the side mirror"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Texting or talking on a hand-held cell phone involves three different types of distraction that occur at the same time[cite: 267].",
+    "citation": "cite: 267"
+  },
+  {
+    "id": 164,
+    "category": "Road Signs",
+    "question": "A red circle with a slash or diagonal line through a symbol on a sign means:",
+    "options": [
+      "The action is recommended",
+      "The action is prohibited (not allowed)",
+      "The road is ending",
+      "The area is for pedestrians only"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Some regulation signs have a red circle with a red slash over the symbol, indicating a driver is prohibited from executing a particular maneuver[cite: 212, 213].",
+    "citation": "cite: 212, 213"
+  },
+  {
+    "id": 165,
+    "category": "Safe Driving",
+    "question": "Arkansas law requires drivers to turn on their headlights when:",
+    "options": [
+      "They are driving on a highway",
+      "Windshield wipers are needed",
+      "They are in a residential area",
+      "The sun is directly overhead"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Arkansas law requires drivers to turn on their headlights when windshield wipers are needed[cite: 284].",
+    "citation": "cite: 284"
+  },
+  {
+    "id": 166,
+    "category": "Safe Driving",
+    "question": "Headlights must be turned on anytime you cannot see a person or object clearly within:",
+    "options": [
+      "100 feet",
+      "200 feet",
+      "500 feet",
+      "1,000 feet"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "Turn on your headlights anytime you cannot see a person or object clearly within 500 feet[cite: 285].",
+    "citation": "cite: 285"
+  },
+  {
+    "id": 167,
+    "category": "Lane Markings",
+    "question": "A solid white line along the side of the roadway is called a:",
+    "options": [
+      "Stop line",
+      "Fog line",
+      "Center line",
+      "Yield line"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A solid white line along the side of the roadway is the fog line, which tells the driver where the outer edge is located[cite: 229].",
+    "citation": "cite: 229"
+  },
+  {
+    "id": 168,
+    "category": "Lane Markings",
+    "question": "A dashed white line between lanes of traffic means:",
+    "options": [
+      "Traffic is moving in opposite directions",
+      "You may cross to change lanes when safe",
+      "You must stay in your lane",
+      "The lane is ending"
+    ],
+    "correctIndex": 1,
+    "explanation": "A dashed white line between lanes indicates a driver may cross the line to change lanes when safe. [cite_start]These lines separate traffic moving in the same direction[cite: 230, 231].",
+    "citation": "cite: 230, 231"
+  },
+  {
+    "id": 169,
+    "category": "Lane Markings",
+    "question": "A solid double yellow line in the center of the road means:",
+    "options": [
+      "Passing is allowed for one side only",
+      "Passing is prohibited for vehicles in both directions",
+      "You may pass slow-moving tractors",
+      "The road is one-way"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The double yellow line in the center of the roadway means passing is prohibited for vehicles traveling in either direction[cite: 235].",
+    "citation": "cite: 235"
+  },
+  {
+    "id": 170,
+    "category": "General Driving",
+    "question": "When can you back a vehicle in a travel lane?",
+    "options": [
+      "If you miss your exit",
+      "Never; it is illegal and unsafe",
+      "Only on one-way streets",
+      "If there are no other cars behind you"
+    ],
+    "correctIndex": 1,
+    "explanation": "Never back a vehicle in any travel lane; it is illegal and unsafe. [cite_start]If you miss your turn or exit, do not back up[cite: 239, 240].",
+    "citation": "cite: 239, 240"
+  },
+  {
+    "id": 171,
+    "category": "Passing",
+    "question": "Arkansas law states that a vehicle shall not be driven in the left lane of a multilane highway EXCEPT when:",
+    "options": [
+      "Driving faster than the speed limit",
+      "Overtaking and passing another vehicle",
+      "You are tired and need to change lanes",
+      "There is no traffic behind you"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Arkansas Code states a vehicle shall not be driven in the left lane except when overtaking and passing, or when other lanes are closed for construction[cite: 325].",
+    "citation": "cite: 325"
+  },
+  {
+    "id": 172,
+    "category": "Passing",
+    "question": "When passing another vehicle at night, it is safe to return to the driving lane when:",
+    "options": [
+      "You can see their bumper in your mirror",
+      "You are 10 feet ahead of them",
+      "You can see both headlights of the passed vehicle in your rear-view mirror",
+      "They honk their horn at you"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "At night, when you can see both headlights of the vehicle you passed in your rear-view mirror, it is safe to return to the driving lane[cite: 324].",
+    "citation": "cite: 324"
+  },
+  {
+    "id": 173,
+    "category": "Right of Way",
+    "question": "At a '3-WAY' or '4-WAY' stop, which driver goes first?",
+    "options": [
+      "The driver on the left",
+      "The driver reaching the intersection first",
+      "The driver who is turning",
+      "The heaviest vehicle"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "At '3 WAY,' '4 WAY,' and 'ALL WAY' stop signs, the driver reaching the intersection first goes first after making a complete stop[cite: 254].",
+    "citation": "cite: 254"
+  },
+  {
+    "id": 174,
+    "category": "Right of Way",
+    "question": "Drivers crossing a sidewalk when exiting a driveway or alley must:",
+    "options": [
+      "Honk to warn pedestrians",
+      "Speed up to clear the sidewalk",
+      "Yield to pedestrians",
+      "Wait for a green light"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "Drivers crossing a sidewalk when entering or exiting a driveway, alley, or parking lot must yield to pedestrians[cite: 255].",
+    "citation": "cite: 255"
+  },
+  {
+    "id": 175,
+    "category": "Road Signs",
+    "question": "A white 'X' shaped sign with black letters marking a grade crossing is a:",
+    "options": [
+      "Stop sign",
+      "Crossbuck sign",
+      "Yield sign",
+      "Speed limit sign"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A white 'X' shaped sign with black letters marks a grade crossing and requires you to yield the right-of-way to a train[cite: 214, 215].",
+    "citation": "cite: 214, 215"
+  },
+  {
+    "id": 176,
+    "category": "Graduated Licensing",
+    "question": "An individual must be at least what age to apply for an instruction permit?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The applicant for an instruction permit must be at least fourteen (14) years of age[cite: 588, 70].",
+    "citation": "cite: 588, 70"
+  },
+  {
+    "id": 177,
+    "category": "Graduated Licensing",
+    "question": "How long is an Arkansas Instruction Permit valid?",
+    "options": [
+      "6 months",
+      "1 year",
+      "2 years",
+      "Until your 18th birthday"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "The Arkansas instruction permit is valid for two (2) years and cannot be renewed[cite: 460].",
+    "citation": "cite: 460"
+  },
+  {
+    "id": 178,
+    "category": "Arkansas Law",
+    "question": "What is the fee for each written driver's license examination in Arkansas?",
+    "options": [
+      "Free",
+      "$2.00",
+      "$5.00",
+      "$10.00"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "Act 1289 of 2015 requires a $5.00 fee for each written examination[cite: 50].",
+    "citation": "cite: 50"
+  },
+  {
+    "id": 179,
+    "category": "Vehicle Maintenance",
+    "question": "Before starting your engine, you should always:",
+    "options": [
+      "Turn on the headlights",
+      "Set the parking brake",
+      "Open the windows",
+      "Honk the horn"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Always make sure your parking brake is set before starting the engine[cite: 430].",
+    "citation": "cite: 430"
+  },
+  {
+    "id": 180,
+    "category": "Skills Exam",
+    "question": "Which of the following would cause an examiner to refuse to give a skills test?",
+    "options": [
+      "The vehicle has a broken radio",
+      "The vehicle interior is excessively dirty",
+      "The vehicle is a compact car",
+      "The vehicle has leather seats"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A skills test will not be given if the vehicle interior is excessively dirty[cite: 438].",
+    "citation": "cite: 438"
+  },
+  {
+    "id": 181,
+    "category": "Arkansas Law",
+    "question": "New residents must obtain an Arkansas license within how many days of becoming a resident?",
+    "options": [
+      "10 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A person who is a resident of this state shall obtain an Arkansas driver’s license within thirty (30) calendar days[cite: 55, 57].",
+    "citation": "cite: 55, 57"
+  },
+  {
+    "id": 182,
+    "category": "Graduated Licensing",
+    "question": "A Learner's License holder (age 14-16) must be accompanied by a licensed driver who is at least:",
+    "options": [
+      "18 years old",
+      "21 years old",
+      "25 years old",
+      "30 years old"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A person operating a motor vehicle with a Learner’s License must be accompanied by a licensed driver who is at least twenty-one (21) years of age[cite: 456].",
+    "citation": "cite: 456"
+  },
+  {
+    "id": 183,
+    "category": "Alcohol & Drugs",
+    "question": "What is the blood alcohol concentration (BAC) limit for a person under 21 to be arrested for Underage DUI?",
+    "options": [
+      "0.01%",
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "You can be arrested for Underage Driving Under the Influence if your alcohol concentration is 0.02% breath or blood alcohol concentration[cite: 360].",
+    "citation": "cite: 360"
+  },
+  {
+    "id": 184,
+    "category": "Right of Way",
+    "question": "When entering a road from a driveway or alley, you must yield to:",
+    "options": [
+      "Only pedestrians",
+      "Vehicles already on the main road",
+      "Only emergency vehicles",
+      "No one; they must yield to you"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Drivers entering a road from a driveway, alley or roadside must yield to vehicles already on the main road[cite: 257].",
+    "citation": "cite: 257"
+  },
+  {
+    "id": 185,
+    "category": "Arkansas Law",
+    "question": "If litter is thrown from a motor vehicle, who is held responsible by law?",
+    "options": [
+      "The owner of the vehicle",
+      "The driver of the vehicle",
+      "The youngest person in the vehicle",
+      "No one can be held responsible unless caught on camera"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "If litter was thrown from a motor vehicle, it shall be prima facie evidence that the act was done by the driver of the motor vehicle[cite: 506, 507].",
+    "citation": "cite: 506, 507"
+  },
+  {
+    "id": 186,
+    "category": "Law Enforcement",
+    "question": "When stopped by an officer at night, you should:",
+    "options": [
+      "Turn off your headlights immediately",
+      "Turn on the interior lights",
+      "Keep all lights off to avoid distracting the officer",
+      "Flash your high beams"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "If you are stopped at night, turn on the interior lights so that the officer can see you more clearly[cite: 17, 525].",
+    "citation": "cite: 17, 525"
+  },
+  {
+    "id": 187,
+    "category": "Law Enforcement",
+    "question": "During a traffic stop, where should you place your hands?",
+    "options": [
+      "In your lap",
+      "Out the window",
+      "At the top of the steering wheel",
+      "Behind your head"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "Ensure that both hands are visible to the officer as he or she approaches, for example, by always placing your hands at the top of the steering wheel[cite: 15, 521].",
+    "citation": "cite: 15, 521"
+  },
+  {
+    "id": 188,
+    "category": "Arkansas Law",
+    "question": "A person convicted of a first offense of littering is subject to a fine of up to $1,000 and community service of up to:",
+    "options": [
+      "2 hours",
+      "8 hours",
+      "24 hours",
+      "100 hours"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A person convicted of a first offense of littering shall be fined not less than $100 and not more than $1,000, and an additional sentence of not more than 8 hours of community service[cite: 486, 487, 123].",
+    "citation": "cite: 486, 487, 123"
+  },
+  {
+    "id": 189,
+    "category": "Sharing the Road",
+    "question": "Motorcyclists are entitled to:",
+    "options": [
+      "Share a lane with a car",
+      "A full lane width",
+      "Ride on the sidewalk",
+      "Ignore traffic signals"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The motorcycle is entitled to a full lane and may need room to maneuver safely[cite: 350, 351].",
+    "citation": "cite: 350, 351"
+  },
+  {
+    "id": 190,
+    "category": "Vehicle Maintenance",
+    "question": "The device that warns other drivers and could save your life is the:",
+    "options": [
+      "Radio",
+      "Horn",
+      "Exhaust",
+      "Odometer"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "The horn is an important safety device that warns other drivers and could save your life[cite: 432].",
+    "citation": "cite: 432"
+  },
+  {
+    "id": 191,
+    "category": "Emergencies",
+    "question": "Do not stop at a crash scene unless:",
+    "options": [
+      "You want to take a photo",
+      "You are involved or emergency help has not arrived",
+      "You want to see what happened",
+      "You have a first aid kit but others are already helping"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Do not stop at a crash unless you are involved, or emergency help has not arrived[cite: 406].",
+    "citation": "cite: 406"
+  },
+  {
+    "id": 192,
+    "category": "Safe Driving",
+    "question": "If your vehicle begins to skid, you should:",
+    "options": [
+      "Slam on the brakes",
+      "Stay off the brake and steer in the direction you want to go",
+      "Turn off the engine",
+      "Shift to neutral and brake hard"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "If your vehicle begins to skid, stay off the brake and turn the steering wheel in the direction you want the vehicle to go[cite: 398, 400].",
+    "citation": "cite: 398, 400"
+  },
+  {
+    "id": 193,
+    "category": "Safe Driving",
+    "question": "On cold and wet days, which parts of the road are the first to freeze and the last to thaw?",
+    "options": [
+      "Main highways",
+      "Gravel roads",
+      "Overpasses and bridges",
+      "Intersections"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "Overpasses and bridges can become some of the first sections of roadways to develop icy conditions[cite: 307].",
+    "citation": "cite: 307"
+  },
+  {
+    "id": 194,
+    "category": "Law Enforcement",
+    "question": "If you are unsure if you are being stopped by an actual police officer, you should:",
+    "options": [
+      "Speed up to reach home",
+      "Stop immediately in the middle of the road",
+      "Activate your turn signal, pull to a well-lit location, and dial 9-1-1",
+      "Ignore them until they use a siren"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "If unsure, activate your turn signal, pull to the nearest well-lit location, dial 9-1-1, and request a police officer confirmation[cite: 12, 515].",
+    "citation": "cite: 12, 515"
+  },
+  {
+    "id": 195,
+    "category": "Arkansas Law",
+    "question": "Commercial littering is classified as a:",
+    "options": [
+      "Unclassified misdemeanor",
+      "Class A misdemeanor",
+      "Class D felony",
+      "Class C felony"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A person found to have committed littering in furtherance of a commercial enterprise shall be guilty of commercial littering and shall be guilty of a Class A misdemeanor[cite: 491].",
+    "citation": "cite: 491"
+  },
+  {
+    "id": 196,
+    "category": "Arkansas Law",
+    "question": "Arkansas law prohibits smoking tobacco in a motor vehicle when a passenger is less than:",
+    "options": [
+      "6 years old",
+      "12 years old",
+      "14 years old",
+      "18 years old"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "A person shall not knowingly smoke tobacco in any motor vehicle in which a child who is less than fourteen (14) years of age is a passenger[cite: 114].",
+    "citation": "cite: 114"
+  },
+  {
+    "id": 197,
+    "category": "Lane Markings",
+    "question": "A broken yellow line between opposing lanes of traffic indicates:",
+    "options": [
+      "A driver may not pass under any condition",
+      "A driver may cross to pass if there is no opposing traffic",
+      "The road is one-way",
+      "You must stop before crossing"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "A broken yellow line between opposing lanes of traffic indicates a driver may cross to pass if there is no opposing traffic[cite: 232].",
+    "citation": "cite: 232"
+  },
+  {
+    "id": 198,
+    "category": "Right of Way",
+    "question": "You may not enter an intersection unless:",
+    "options": [
+      "The light is green",
+      "You can get through without having to stop",
+      "You are making a right turn",
+      "You honk your horn first"
+    ],
+    "correctIndex": 1,
+    [cite_start]"explanation": "Drivers may not enter an intersection unless they can get through it without having to stop[cite: 258].",
+    "citation": "cite: 258"
+  },
+  {
+    "id": 199,
+    "category": "Safe Driving",
+    "question": "When approaching a stopped school bus with its red lights flashing, you must:",
+    "options": [
+      "Slow down and pass carefully",
+      "Stop only if you are in the same lane",
+      "Make a complete stop until the lights are turned off",
+      "Honk to warn the students"
+    ],
+    "correctIndex": 2,
+    [cite_start]"explanation": "When approaching a stopped school bus with red lights flashing, a driver is required to make a complete stop until the lights are turned off[cite: 137, 138].",
+    "citation": "cite: 137, 138"
+  },
+  {
+    "id": 200,
+    "category": "Arkansas Law",
+    "question": "It is unlawful to place a junk motor vehicle or old vehicle tire on:",
+    "options": [
+      "The right-of-way of any public highway",
+      "Public property",
+      "Private property you do not own or control",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    [cite_start]"explanation": "It is unlawful to place junk motor vehicles, old vehicle tires, or abandoned household appliances upon any public highway right-of-way, public property, or private property you do not own[cite: 505, 8].",
+    "citation": "cite: 505, 8"
+  }
+]

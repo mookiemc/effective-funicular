@@ -2,7 +2,8 @@
 const STORAGE_KEYS = {
     answers: 'arkDriverExam_answers',
     performance: 'arkDriverExam_performance',
-    progress: 'arkDriverExam_progress'
+    progress: 'arkDriverExam_progress',
+    theme: 'arkDriverExam_theme'
 };
 
 // ===== Global State =====
@@ -55,6 +56,8 @@ const elements = {
     // Stats
     progressText: document.getElementById('progress-text'),
     accuracyText: document.getElementById('accuracy-text'),
+    progressBar: document.getElementById('progress-bar'),
+    accuracyBar: document.getElementById('accuracy-bar'),
     missedCount: document.getElementById('missed-count'),
     totalAnswered: document.getElementById('total-answered'),
     totalCorrect: document.getElementById('total-correct'),
@@ -75,7 +78,11 @@ const elements = {
     cancelResetBtn: document.getElementById('cancel-reset-btn'),
     aboutModal: document.getElementById('about-modal'),
     aboutLink: document.getElementById('about-link'),
-    closeAboutBtn: document.getElementById('close-about-btn')
+    closeAboutBtn: document.getElementById('close-about-btn'),
+
+    // Theme toggle
+    themeToggle: document.getElementById('theme-toggle'),
+    themeIcon: document.getElementById('theme-icon')
 };
 
 // ===== Initialization =====
@@ -83,6 +90,7 @@ async function init() {
     try {
         await loadQuestions();
         loadStudentData();
+        loadTheme();
         attachEventListeners();
         updateStatsDisplay();
         showScreen('welcome');
@@ -90,6 +98,24 @@ async function init() {
         console.error('Initialization error:', error);
         alert('Error loading questions. Please refresh the page.');
     }
+}
+
+// ===== Theme Management =====
+function loadTheme() {
+    const savedTheme = localStorage.getItem(STORAGE_KEYS.theme);
+    if (savedTheme === 'dark') {
+        document.body.classList.add('dark-mode');
+        elements.themeIcon.textContent = '☀️';
+    } else {
+        elements.themeIcon.textContent = '🌙';
+    }
+}
+
+function toggleTheme() {
+    document.body.classList.toggle('dark-mode');
+    const isDark = document.body.classList.contains('dark-mode');
+    elements.themeIcon.textContent = isDark ? '☀️' : '🌙';
+    localStorage.setItem(STORAGE_KEYS.theme, isDark ? 'dark' : 'light');
 }
 
 // ===== Load Questions =====
@@ -184,6 +210,21 @@ function updateStatsDisplay() {
     elements.progressText.textContent = `${stats.total}/${questions.length}`;
     elements.accuracyText.textContent = `${stats.percentage}%`;
     elements.missedCount.textContent = missedQuestions.length;
+
+    // Update progress bars with animation
+    const progressPercentage = questions.length > 0 ? (stats.total / questions.length) * 100 : 0;
+    elements.progressBar.style.width = `${progressPercentage}%`;
+
+    // Set accuracy bar color based on performance
+    elements.accuracyBar.className = 'progress-bar';
+    if (stats.percentage >= 80) {
+        elements.accuracyBar.classList.add('success');
+    } else if (stats.percentage >= 60) {
+        elements.accuracyBar.classList.add('warning');
+    } else if (stats.total > 0) {
+        elements.accuracyBar.classList.add('error');
+    }
+    elements.accuracyBar.style.width = `${stats.percentage}%`;
 }
 
 // ===== Get Missed Questions =====
@@ -501,8 +542,23 @@ function renderStatsPanel() {
             item.classList.add('weak');
         }
 
+        // Determine progress bar class
+        let barClass = '';
+        if (perf.percentage >= 80) {
+            barClass = 'success';
+        } else if (perf.percentage >= 60) {
+            barClass = 'warning';
+        } else {
+            barClass = 'error';
+        }
+
         item.innerHTML = `
-            <span class="category-name">${category}</span>
+            <div style="flex: 1;">
+                <span class="category-name">${category}</span>
+                <div class="progress-bar-container">
+                    <div class="progress-bar ${barClass}" style="width: ${perf.percentage}%"></div>
+                </div>
+            </div>
             <span class="category-score ${perf.percentage >= 80 ? 'strong' : perf.percentage < 60 ? 'weak' : ''}">${perf.correct}/${perf.total} (${perf.percentage}%)</span>
         `;
 
@@ -581,6 +637,9 @@ function attachEventListeners() {
     elements.closeAboutBtn.addEventListener('click', () => {
         elements.aboutModal.classList.add('hidden');
     });
+
+    // Theme toggle
+    elements.themeToggle.addEventListener('click', toggleTheme);
 
     // Close modals on outside click
     elements.resetModal.addEventListener('click', (e) => {

@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <!-- Dark Mode Toggle -->
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" title="Toggle Dark Mode">
+        <span id="theme-icon">🌙</span>
+    </button>
+
     <div class="container">
         <header>
             <h1>Arkansas Driver's Exam Review</h1>
@@ -15,29 +20,35 @@
                 <div class="stat-item">
                     <span class="stat-label">Progress:</span>
                     <span id="progress-text">0/0</span>
+                    <div class="progress-bar-container">
+                        <div id="progress-bar" class="progress-bar" style="width: 0%"></div>
+                    </div>
                 </div>
                 <div class="stat-item">
                     <span class="stat-label">Accuracy:</span>
                     <span id="accuracy-text">0%</span>
+                    <div class="progress-bar-container">
+                        <div id="accuracy-bar" class="progress-bar" style="width: 0%"></div>
+                    </div>
                 </div>
             </div>
         </header>
 
         <nav id="mode-selector" class="mode-tabs">
-            <button id="all-questions-btn" class="mode-tab active" data-mode="all">
+            <button id="all-questions-btn" class="mode-tab active tooltip" data-mode="all" data-tooltip="Practice all unanswered questions">
                 <span class="tab-icon">📝</span>
                 <span class="tab-text">All Questions</span>
             </button>
-            <button id="missed-questions-btn" class="mode-tab" data-mode="missed">
+            <button id="missed-questions-btn" class="mode-tab tooltip" data-mode="missed" data-tooltip="Review questions you got wrong">
                 <span class="tab-icon">🔄</span>
                 <span class="tab-text">Review Missed</span>
                 <span id="missed-count" class="badge">0</span>
             </button>
-            <button id="by-topic-btn" class="mode-tab" data-mode="topic">
+            <button id="by-topic-btn" class="mode-tab tooltip" data-mode="topic" data-tooltip="Study specific topics">
                 <span class="tab-icon">📚</span>
                 <span class="tab-text">By Topic</span>
             </button>
-            <button id="stats-btn" class="mode-tab" data-mode="stats">
+            <button id="stats-btn" class="mode-tab tooltip" data-mode="stats" data-tooltip="View your performance analytics">
                 <span class="tab-icon">📊</span>
                 <span class="tab-text">My Stats</span>
             </button>
@@ -148,7 +159,32 @@
         </main>
 
         <footer>
-            <p>Study guide based on Arkansas Driver License Manual | <a href="#" id="about-link">About</a></p>
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Arkansas Driver's Exam Review</h4>
+                    <p>Your comprehensive study tool for the Arkansas driver's license exam</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul class="footer-links">
+                        <li><a href="https://www.ark.org/dfa/driver_services/drivers_license.php" target="_blank" rel="noopener">Arkansas DFA Office</a></li>
+                        <li><a href="#" id="about-link">About This App</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Features</h4>
+                    <ul class="footer-links">
+                        <li>✓ 120 Practice Questions</li>
+                        <li>✓ Progress Tracking</li>
+                        <li>✓ Topic-Based Study</li>
+                        <li>✓ Performance Analytics</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Arkansas Driver's Exam Review | Study guide based on Arkansas Driver License Manual</p>
+                <p class="footer-disclaimer">This is an unofficial study tool. Always verify with official Arkansas DFA materials.</p>
+            </div>
         </footer>
     </div>
 
@@ -168,21 +204,46 @@
     <div id="about-modal" class="modal hidden">
         <div class="modal-content">
             <h3>About This App</h3>
-            <p>This Arkansas Driver's Exam Review app was created to help students prepare for their driver's license test.</p>
-            <p><strong>Features:</strong></p>
-            <ul>
-                <li>120 practice questions covering all exam topics</li>
-                <li>Tracks your performance automatically</li>
-                <li>Identifies weak areas for focused study</li>
-                <li>All data stored locally in your browser</li>
-            </ul>
-            <p><strong>Tips for Success:</strong></p>
-            <ul>
-                <li>Study all categories, not just the easy ones</li>
-                <li>Review missed questions regularly</li>
-                <li>Read the explanations to understand the rules</li>
-                <li>Practice until you can consistently score 80% or higher</li>
-            </ul>
+
+            <div class="about-section">
+                <h4>📚 Purpose</h4>
+                <p>This Arkansas Driver's Exam Review app was created to help students prepare for their driver's license test with interactive practice questions and performance tracking.</p>
+            </div>
+
+            <div class="about-section">
+                <h4>✨ Features</h4>
+                <ul>
+                    <li>120 practice questions covering all exam topics</li>
+                    <li>Mix of True/False and Multiple Choice questions</li>
+                    <li>Automatic performance tracking by category</li>
+                    <li>Identifies weak areas for focused study</li>
+                    <li>Progress saved automatically in your browser</li>
+                    <li>Dark mode for comfortable studying</li>
+                    <li>Mobile-friendly responsive design</li>
+                </ul>
+            </div>
+
+            <div class="about-section">
+                <h4>🎯 Tips for Success</h4>
+                <ul>
+                    <li>Study all categories, not just the easy ones</li>
+                    <li>Review missed questions regularly</li>
+                    <li>Read the explanations to understand the rules</li>
+                    <li>Practice until you can consistently score 80% or higher</li>
+                    <li>Take breaks and don't cram everything at once</li>
+                </ul>
+            </div>
+
+            <div class="about-section">
+                <h4>🔒 Privacy & Data</h4>
+                <p>All your progress and statistics are stored locally in your browser. No data is sent to any server. Your study progress is private and secure.</p>
+            </div>
+
+            <div class="about-section">
+                <h4>📋 Disclaimer</h4>
+                <p>This is an unofficial study tool based on the Arkansas Driver License Manual. While we strive for accuracy, always verify information with official Arkansas DFA materials before your exam.</p>
+            </div>
+
             <button id="close-about-btn" class="btn btn-primary">Close</button>
         </div>
     </div>
